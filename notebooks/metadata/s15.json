@@ -1,0 +1,69 @@
+{
+  "filename": "s15.jpeg",
+  "type": "t-shirt",
+  "category": "top",
+  "colors": {
+    "primary": "black",
+    "secondary": [],
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "smooth",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "straight",
+    "length": "hip",
+    "structure": "unstructured"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "basic",
+      "casual"
+    ],
+    "aesthetic": [
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "shorts",
+      "skirts"
+    ],
+    "avoid_with": [
+      "formal wear"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "denim",
+      "gray"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "unisex",
+    "age_group": "adult"
+  },
+  "notes": "Classic black t-shirt."
+}

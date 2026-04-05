@@ -1,0 +1,81 @@
+{
+  "filename": "7.jpeg",
+  "type": "blouse",
+  "category": "top",
+  "colors": {
+    "primary": "olive green",
+    "secondary": [],
+    "all": [
+      "olive green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": null,
+    "texture": "smooth, silky",
+    "material": "satin",
+    "finish": "lustrous"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "straight",
+    "length": "hip length",
+    "structure": "draped, soft"
+  },
+  "style": {
+    "formality": 0.65,
+    "style_tags": [
+      "blouse",
+      "satin top",
+      "shawl collar",
+      "button-down",
+      "gathered sleeves",
+      "scalloped edge"
+    ],
+    "aesthetic": [
+      "elegant",
+      "feminine",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "workwear",
+      "dinner",
+      "evening out",
+      "semi-formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ],
+    "weather": [
+      "mild",
+      "cool"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "dark denim",
+      "blazers"
+    ],
+    "avoid_with": [
+      "sweatpants",
+      "distressed denim"
+    ],
+    "color_pairing_suggestions": [
+      "black",
+      "cream",
+      "navy",
+      "burgundy",
+      "gold"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Olive satin blouse with shawl collar and scalloped button placket."
+}

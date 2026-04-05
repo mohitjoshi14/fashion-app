@@ -1,0 +1,71 @@
+{
+  "filename": "5.jpeg",
+  "type": "skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "brown",
+    "secondary": [
+      "white"
+    ],
+    "all": [
+      "brown",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot",
+    "pattern_density": "medium",
+    "texture": "smooth",
+    "material": "satin",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "A-line",
+    "length": "midi",
+    "structure": "flowy"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "vintage",
+      "chic"
+    ],
+    "aesthetic": [
+      "retro",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "semi-formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blouse",
+      "heels"
+    ],
+    "avoid_with": [
+      "sneakers"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "beige"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Classic polka dot design."
+}

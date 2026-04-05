@@ -1,0 +1,71 @@
+{
+  "filename": "s9.jpeg",
+  "type": "long-sleeve shirt",
+  "category": "top",
+  "colors": {
+    "primary": "black",
+    "secondary": [
+      "white"
+    ],
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "pattern_density": "medium",
+    "texture": "smooth",
+    "material": "cotton blend",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "straight",
+    "length": "hip-length",
+    "structure": "unstructured"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "casual",
+      "classic"
+    ],
+    "aesthetic": [
+      "minimalist",
+      "nautical"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "fall"
+    ],
+    "weather": [
+      "mild",
+      "cool"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "chinos"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ],
+    "color_pairing_suggestions": [
+      "denim blue",
+      "khaki"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "unisex",
+    "age_group": "adult"
+  },
+  "notes": "Classic striped design."
+}

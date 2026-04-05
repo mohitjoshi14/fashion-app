@@ -1,0 +1,79 @@
+{
+  "filename": "17.jpeg",
+  "type": "Wide-leg jeans",
+  "category": "bottom",
+  "colors": {
+    "primary": "red",
+    "secondary": [],
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "smooth denim",
+    "material": "denim",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "flared",
+    "length": "full",
+    "structure": "structured waistband"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "retro",
+      "bold",
+      "casual",
+      "statement"
+    ],
+    "aesthetic": [
+      "70s inspired",
+      "Y2K",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual outing",
+      "street style",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "weather": [
+      "mild",
+      "cool"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "black bodysuit",
+      "denim jacket",
+      "neutral knits"
+    ],
+    "avoid_with": [
+      "busy patterns",
+      "clashing bright colors"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "black",
+      "navy",
+      "beige",
+      "denim blue"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "women",
+    "age_group": "young adult"
+  },
+  "notes": "Vibrant red wide-leg jeans with classic back pockets."
+}

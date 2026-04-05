@@ -1,0 +1,71 @@
+{
+  "filename": "s6.jpeg",
+  "type": "skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "green",
+    "secondary": [
+      "white"
+    ],
+    "all": [
+      "green",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral embroidery",
+    "pattern_density": "medium",
+    "texture": "soft",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "A-line",
+    "length": "knee-length",
+    "structure": "flowy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "ethnic"
+    ],
+    "aesthetic": [
+      "casual",
+      "traditional"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "festive"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blouse",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal shoes"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "beige"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Bright green with white embroidery."
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "top": "s12.jpeg",
+    "bottom": "20.jpeg",
+    "score": 0.85,
+    "reasons": [
+      "The white floral blazer (s12.jpeg) provides a professional yet summer-appropriate layer for office wear.",
+      "Pairing it with white wide-leg cotton pants (20.jpeg) creates a chic, minimalist, and cohesive monochromatic base suitable for a warm season.",
+      "The combination is sophisticated and meets the semi-formal requirement of an office setting."
+    ]
+  },
+  {
+    "top": "8.jpeg",
+    "bottom": "20.jpeg",
+    "score": 0.8,
+    "reasons": [
+      "The burgundy polka dot chiffon blouse (8.jpeg) is lightweight and airy, perfect for summer.",
+      "The white wide-leg pants (20.jpeg) offer a clean, professional silhouette that balances the pattern of the blouse.",
+      "This outfit strikes a good balance between feminine style and office-appropriate formality."
+    ]
+  },
+  {
+    "top": "s14.jpeg",
+    "bottom": "20.jpeg",
+    "score": 0.75,
+    "reasons": [
+      "A classic white t-shirt (s14.jpeg) paired with structured white pants (20.jpeg) creates a clean, minimalist summer look.",
+      "While slightly casual, the structured nature of the pants elevates the outfit enough for a relaxed office environment.",
+      "The all-white palette is very summer-centric and professional in a modern, minimalist way."
+    ]
+  },
+  {
+    "top": "s15.jpeg",
+    "bottom": "20.jpeg",
+    "score": 0.7,
+    "reasons": [
+      "The black t-shirt (s15.jpeg) and white pants (20.jpeg) create a high-contrast, classic professional look.",
+      "The cotton material is breathable for summer, and the wide-leg silhouette of the pants maintains a polished appearance."
+    ]
+  },
+  {
+    "top": "s12.jpeg",
+    "bottom": "2.jpeg",
+    "score": 0.65,
+    "reasons": [
+      "The floral blazer (s12.jpeg) adds a touch of professional structure to the polka dot midi skirt (2.jpeg).",
+      "The combination of patterns (floral and polka dot) is bold, but the shared summer aesthetic makes it a cohesive 'creative office' look.",
+      "The midi length of the skirt is appropriate for most office settings."
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "filename": "2.jpeg",
+  "type": "Skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "Black",
+    "secondary": [
+      "White"
+    ],
+    "all": [
+      "Black",
+      "White"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "Polka dot",
+    "pattern_density": "medium",
+    "texture": "Smooth, slightly shiny",
+    "material": "Satin (visual estimate)",
+    "finish": "Luster"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "A-line / Slip",
+    "length": "Midi",
+    "structure": "Soft, fluid"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "Classic",
+      "Feminine",
+      "Versatile"
+    ],
+    "aesthetic": [
+      "Retro",
+      "Minimalist",
+      "Chic"
+    ],
+    "occasion_suitability": [
+      "Workwear",
+      "Casual outing",
+      "Date night",
+      "Semi-formal event"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "weather": [
+      "Mild",
+      "Warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "White blouse",
+      "Black turtleneck",
+      "Denim jacket",
+      "Leather jacket",
+      "Sneakers",
+      "Heels",
+      "Boots"
+    ],
+    "avoid_with": [
+      "Clashing patterns",
+      "Oversized, bulky tops that hide the waist"
+    ],
+    "color_pairing_suggestions": [
+      "Monochrome (black/white)",
+      "Red",
+      "Yellow",
+      "Emerald green",
+      "Camel"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "Female",
+    "age_group": "Adult"
+  },
+  "notes": "Classic black and white polka dot midi slip skirt."
+}

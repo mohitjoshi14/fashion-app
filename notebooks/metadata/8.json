@@ -1,0 +1,71 @@
+{
+  "filename": "8.jpeg",
+  "type": "blouse",
+  "category": "top",
+  "colors": {
+    "primary": "burgundy",
+    "secondary": [
+      "white"
+    ],
+    "all": [
+      "burgundy",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot",
+    "pattern_density": "medium",
+    "texture": "smooth",
+    "material": "chiffon",
+    "finish": "sheer"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "A-line",
+    "length": "hip-length",
+    "structure": "flowy"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "casual",
+      "feminine"
+    ],
+    "aesthetic": [
+      "bohemian",
+      "vintage"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "semi-formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "skirts"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "denim"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Lightweight and airy design."
+}

@@ -1,0 +1,73 @@
+{
+  "filename": "s5.jpeg",
+  "type": "blouse",
+  "category": "top",
+  "colors": {
+    "primary": "navy",
+    "secondary": [
+      "red",
+      "white"
+    ],
+    "all": [
+      "navy",
+      "red",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "pattern_density": "high",
+    "texture": "smooth",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "peasant",
+    "length": "hip",
+    "structure": "flowy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "casual"
+    ],
+    "aesthetic": [
+      "boho",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daytime"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "skirts"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "denim"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Bohemian style with floral pattern."
+}

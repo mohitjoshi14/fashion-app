@@ -1,0 +1,87 @@
+{
+  "filename": "3.jpeg",
+  "type": "pants",
+  "category": "bottom",
+  "colors": {
+    "primary": "medium blue",
+    "secondary": [
+      "silver"
+    ],
+    "all": [
+      "medium blue",
+      "silver"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "none",
+    "pattern_density": "low",
+    "texture": "denim weave",
+    "material": "denim",
+    "finish": "washed"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg",
+    "length": "full length",
+    "structure": "soft"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "relaxed",
+      "comfortable",
+      "athleisure-inspired",
+      "wide-leg"
+    ],
+    "aesthetic": [
+      "normcore",
+      "minimalist",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual outings",
+      "lounging",
+      "errands",
+      "travel"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "t-shirts",
+      "crop tops",
+      "sweatshirts",
+      "sneakers",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal shirts",
+      "blazers",
+      "heels",
+      "heavy boots"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "black",
+      "grey",
+      "pastels",
+      "bright colors"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "women",
+    "age_group": "adult"
+  },
+  "notes": "Wide-leg denim pants with elastic drawstring waist."
+}

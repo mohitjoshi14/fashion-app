@@ -1,0 +1,75 @@
+{
+  "filename": "s12.jpeg",
+  "type": "blazer",
+  "category": "outerwear",
+  "colors": {
+    "primary": "white",
+    "secondary": [
+      "pink",
+      "green",
+      "orange"
+    ],
+    "all": [
+      "white",
+      "pink",
+      "green",
+      "orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "pattern_density": "medium",
+    "texture": "smooth",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "straight",
+    "length": "hip",
+    "structure": "unstructured"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "floral",
+      "lightweight"
+    ],
+    "aesthetic": [
+      "bohemian",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "spring events"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "skirts"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ],
+    "color_pairing_suggestions": [
+      "light blue",
+      "beige"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Light floral blazer for casual wear."
+}

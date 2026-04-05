@@ -1,0 +1,68 @@
+{
+  "filename": "s8.jpeg",
+  "type": "blouse",
+  "category": "top",
+  "colors": {
+    "primary": "pink",
+    "secondary": [],
+    "all": [
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "wavy",
+    "pattern_density": "medium",
+    "texture": "ribbed",
+    "material": "synthetic",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "loose",
+    "length": "hip",
+    "structure": "unstructured"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "bohemian"
+    ],
+    "aesthetic": [
+      "casual",
+      "boho"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daytime"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "skirts"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "denim"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Lightweight and casual."
+}

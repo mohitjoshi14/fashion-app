@@ -1,0 +1,86 @@
+{
+  "filename": "20.jpeg",
+  "type": "pants",
+  "category": "bottom",
+  "colors": {
+    "primary": "white",
+    "secondary": [],
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "twill weave",
+    "material": "cotton denim",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg",
+    "length": "full length",
+    "structure": "structured"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "wide-leg",
+      "high-waisted",
+      "denim",
+      "minimalist",
+      "clean"
+    ],
+    "aesthetic": [
+      "minimalist",
+      "scandi",
+      "quiet luxury",
+      "modern classic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "brunch",
+      "weekend wear",
+      "smart casual work"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "early autumn"
+    ],
+    "weather": [
+      "warm",
+      "mild",
+      "sunny"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted tops",
+      "cropped sweaters",
+      "blazers",
+      "sandals",
+      "sneakers",
+      "loafers"
+    ],
+    "avoid_with": [
+      "oversized tops that hide the waist",
+      "very heavy winter boots"
+    ],
+    "color_pairing_suggestions": [
+      "navy",
+      "black",
+      "beige",
+      "pastels",
+      "bright colors",
+      "monochrome white"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "women",
+    "age_group": "adult"
+  },
+  "notes": "High-waisted, wide-leg white denim pants by Loewe."
+}

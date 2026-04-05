@@ -1,0 +1,87 @@
+{
+  "filename": "16.jpeg",
+  "type": "trousers",
+  "category": "bottom",
+  "colors": {
+    "primary": "terracotta red",
+    "secondary": [
+      "cream",
+      "magenta",
+      "green"
+    ],
+    "all": [
+      "terracotta red",
+      "cream",
+      "magenta",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "large-scale floral and paisley",
+    "pattern_density": "high",
+    "texture": "slubby woven",
+    "material": "linen blend",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg",
+    "length": "full length",
+    "structure": "soft"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "bohemian",
+      "resort",
+      "statement",
+      "printed",
+      "wide-leg"
+    ],
+    "aesthetic": [
+      "boho-chic",
+      "eclectic",
+      "summer resort"
+    ],
+    "occasion_suitability": [
+      "summer parties",
+      "beach vacations",
+      "casual dinners"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "hot"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "simple white t-shirt",
+      "cream blouse",
+      "black camisole",
+      "denim jacket",
+      "sandals",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "other busy patterns",
+      "heavy winter fabrics"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "cream",
+      "black",
+      "navy"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "women",
+    "age_group": "adult"
+  },
+  "notes": "A statement piece with a bold, bohemian print."
+}

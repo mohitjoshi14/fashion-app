@@ -1,0 +1,69 @@
+{
+  "filename": "s14.jpeg",
+  "type": "t-shirt",
+  "category": "top",
+  "colors": {
+    "primary": "white",
+    "secondary": [],
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "smooth",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted",
+    "length": "hip-length",
+    "structure": "unstructured"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "basic",
+      "casual"
+    ],
+    "aesthetic": [
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "shorts",
+      "skirts"
+    ],
+    "avoid_with": [
+      "formal wear"
+    ],
+    "color_pairing_suggestions": [
+      "blue",
+      "black",
+      "denim"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "unisex",
+    "age_group": "adult"
+  },
+  "notes": "Classic white tee."
+}

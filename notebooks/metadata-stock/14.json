@@ -1,0 +1,87 @@
+{
+  "filename": "14.jpeg",
+  "type": "peplum top",
+  "category": "top",
+  "colors": {
+    "primary": "burgundy",
+    "secondary": [
+      "gold"
+    ],
+    "all": [
+      "burgundy",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "smooth",
+    "material": "structured woven fabric",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted peplum",
+    "length": "waist-length",
+    "structure": "structured"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "asymmetrical",
+      "peplum",
+      "sleeveless",
+      "tailored",
+      "elegant",
+      "modern"
+    ],
+    "aesthetic": [
+      "chic",
+      "sophisticated",
+      "professional",
+      "modern classic"
+    ],
+    "occasion_suitability": [
+      "work",
+      "business meeting",
+      "cocktail party",
+      "formal dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "fall",
+      "winter"
+    ],
+    "weather": [
+      "mild",
+      "cool"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "pencil skirt",
+      "tailored trousers",
+      "high-waisted jeans",
+      "blazer"
+    ],
+    "avoid_with": [
+      "oversized bottoms",
+      "very casual shorts",
+      "busy patterns"
+    ],
+    "color_pairing_suggestions": [
+      "black",
+      "navy",
+      "cream",
+      "gold accessories",
+      "grey"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Structured burgundy peplum top with asymmetrical gold button detail."
+}

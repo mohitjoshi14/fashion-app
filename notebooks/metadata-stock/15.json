@@ -1,0 +1,84 @@
+{
+  "filename": "15.jpeg",
+  "type": "top",
+  "category": "top",
+  "colors": {
+    "primary": "light blue",
+    "secondary": [],
+    "all": [
+      "light blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "woven",
+    "material": "cotton blend",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "peplum",
+    "length": "waist length",
+    "structure": "structured"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "peplum",
+      "V-neck",
+      "short sleeve",
+      "cuffed sleeve",
+      "structured",
+      "modern"
+    ],
+    "aesthetic": [
+      "minimalist",
+      "chic",
+      "modern"
+    ],
+    "occasion_suitability": [
+      "workwear",
+      "brunch",
+      "dinner",
+      "smart casual events"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "pencil skirt",
+      "jeans",
+      "heels",
+      "sandals"
+    ],
+    "avoid_with": [
+      "oversized bottoms",
+      "bulky jackets",
+      "low-rise pants"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "cream",
+      "navy",
+      "black",
+      "beige",
+      "silver jewelry"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Structured light blue peplum top with V-neck and cuffed sleeves."
+}

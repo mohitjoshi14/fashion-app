@@ -1,0 +1,71 @@
+{
+  "filename": "s11.jpeg",
+  "type": "vest",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "secondary": [
+      "white"
+    ],
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "geometric",
+    "pattern_density": "high",
+    "texture": "woven",
+    "material": "wool",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "boxy",
+    "length": "hip",
+    "structure": "structured"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "bohemian",
+      "artsy"
+    ],
+    "aesthetic": [
+      "eclectic",
+      "vintage"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "fall",
+      "winter"
+    ],
+    "weather": [
+      "cool",
+      "cold"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "long sleeve shirts",
+      "turtlenecks"
+    ],
+    "avoid_with": [
+      "shorts"
+    ],
+    "color_pairing_suggestions": [
+      "solid black",
+      "denim"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "unisex",
+    "age_group": "adult"
+  },
+  "notes": "Bold geometric pattern"
+}

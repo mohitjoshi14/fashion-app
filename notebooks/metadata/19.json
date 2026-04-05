@@ -1,0 +1,73 @@
+{
+  "filename": "19.jpeg",
+  "type": "skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "white",
+    "secondary": [
+      "pink",
+      "green"
+    ],
+    "all": [
+      "white",
+      "pink",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "pattern_density": "medium",
+    "texture": "smooth",
+    "material": "chiffon",
+    "finish": "sheer"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "A-line",
+    "length": "midi",
+    "structure": "flowy"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "feminine",
+      "romantic"
+    ],
+    "aesthetic": [
+      "bohemian",
+      "vintage"
+    ],
+    "occasion_suitability": [
+      "garden party",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blouse",
+      "sandals"
+    ],
+    "avoid_with": [
+      "heavy boots"
+    ],
+    "color_pairing_suggestions": [
+      "pastels",
+      "neutrals"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Elegant floral design."
+}

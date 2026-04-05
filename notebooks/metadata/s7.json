@@ -1,0 +1,74 @@
+{
+  "filename": "s7.jpeg",
+  "type": "skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "white",
+    "secondary": [
+      "yellow",
+      "pink"
+    ],
+    "all": [
+      "white",
+      "yellow",
+      "pink",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "pattern_density": "medium",
+    "texture": "crinkled",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "A-line",
+    "length": "midi",
+    "structure": "flowy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "casual"
+    ],
+    "aesthetic": [
+      "feminine",
+      "romantic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daytime"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blouses",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal jackets"
+    ],
+    "color_pairing_suggestions": [
+      "pastels",
+      "neutrals"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Light, airy floral skirt."
+}

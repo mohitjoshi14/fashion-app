@@ -1,0 +1,85 @@
+{
+  "filename": "12.jpeg",
+  "type": "Blouse",
+  "category": "top",
+  "colors": {
+    "primary": "Rust brown",
+    "secondary": [
+      "White"
+    ],
+    "all": [
+      "Rust brown",
+      "White"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "Polka dot",
+    "pattern_density": "medium",
+    "texture": "Slightly textured, crepe-like",
+    "material": "Viscose blend (visual estimate)",
+    "finish": "Matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "Peplum, balloon sleeve",
+    "length": "Waist length",
+    "structure": "Soft, draped"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "V-neck",
+      "Button-up",
+      "Peplum",
+      "Balloon sleeve",
+      "Polka dot",
+      "Retro"
+    ],
+    "aesthetic": [
+      "Vintage-inspired",
+      "Feminine",
+      "Bohemian-lite"
+    ],
+    "occasion_suitability": [
+      "Casual",
+      "Smart casual",
+      "Workwear",
+      "Date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "Spring",
+      "Autumn"
+    ],
+    "weather": [
+      "Mild",
+      "Warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "High-waisted jeans",
+      "Denim skirt",
+      "Tailored trousers",
+      "Midi skirt"
+    ],
+    "avoid_with": [
+      "Low-rise bottoms",
+      "Overly sporty items",
+      "Clashing busy patterns"
+    ],
+    "color_pairing_suggestions": [
+      "Cream",
+      "Navy",
+      "Black",
+      "Olive green",
+      "Gold jewelry"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "Female",
+    "age_group": "Young adult, adult"
+  },
+  "notes": "Rust brown polka dot blouse with peplum waist and balloon sleeves."
+}

@@ -1,0 +1,69 @@
+{
+  "filename": "20.jpeg",
+  "type": "pants",
+  "category": "bottom",
+  "colors": {
+    "primary": "white",
+    "secondary": [],
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "smooth",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg",
+    "length": "full",
+    "structure": "structured"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "minimalist",
+      "chic"
+    ],
+    "aesthetic": [
+      "modern",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "semi-formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted tops",
+      "blouses"
+    ],
+    "avoid_with": [
+      "oversized tops"
+    ],
+    "color_pairing_suggestions": [
+      "black",
+      "navy",
+      "pastels"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Versatile wide-leg pants."
+}

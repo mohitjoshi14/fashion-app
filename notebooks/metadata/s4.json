@@ -1,0 +1,71 @@
+{
+  "filename": "s4.jpeg",
+  "type": "skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "black",
+    "secondary": [
+      "white"
+    ],
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "pattern_density": "medium",
+    "texture": "smooth",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "A-line",
+    "length": "midi",
+    "structure": "flowy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "casual"
+    ],
+    "aesthetic": [
+      "boho",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daywear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blouse",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal blazer"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "beige"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Casual boho style skirt."
+}

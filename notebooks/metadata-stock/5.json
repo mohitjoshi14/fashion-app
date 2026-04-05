@@ -1,0 +1,89 @@
+{
+  "filename": "5.jpeg",
+  "type": "skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "brown",
+    "secondary": [
+      "white"
+    ],
+    "all": [
+      "brown",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot",
+    "pattern_density": "medium",
+    "texture": "smooth",
+    "material": "woven fabric (likely rayon or silk blend)",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "A-line",
+    "length": "midi",
+    "structure": "draped"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "vintage-inspired",
+      "classic",
+      "feminine",
+      "retro"
+    ],
+    "aesthetic": [
+      "cottagecore",
+      "parisian chic",
+      "classic feminine"
+    ],
+    "occasion_suitability": [
+      "workwear",
+      "brunch",
+      "date night",
+      "casual outings",
+      "semi-formal events"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white blouses",
+      "fitted t-shirts",
+      "denim jackets",
+      "cardigans",
+      "ankle boots",
+      "sandals",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "heavy chunky knits",
+      "overly busy patterns"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "cream",
+      "black",
+      "navy",
+      "denim blue",
+      "mustard yellow",
+      "olive green"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Classic brown polka dot midi skirt with a flowing silhouette."
+}

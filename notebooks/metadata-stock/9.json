@@ -1,0 +1,81 @@
+{
+  "filename": "9.jpeg",
+  "type": "top",
+  "category": "top",
+  "colors": {
+    "primary": "light pink",
+    "secondary": [],
+    "all": [
+      "light pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "smooth",
+    "material": "silk-like",
+    "finish": "semi-matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "straight",
+    "length": "regular",
+    "structure": "draped"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "sleeveless",
+      "V-neck",
+      "draped",
+      "ruffle front",
+      "elegant",
+      "feminine"
+    ],
+    "aesthetic": [
+      "classic",
+      "sophisticated",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "workwear",
+      "business casual",
+      "semi-formal events",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "blazers",
+      "cardigans"
+    ],
+    "avoid_with": [
+      "sporty items",
+      "heavy knitwear"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "cream",
+      "navy",
+      "black",
+      "grey"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Elegant sleeveless top with a prominent front drape detail."
+}

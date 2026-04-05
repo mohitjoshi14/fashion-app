@@ -1,0 +1,74 @@
+{
+  "filename": "s3.jpeg",
+  "type": "pants",
+  "category": "bottom",
+  "colors": {
+    "primary": "orange",
+    "secondary": [
+      "white",
+      "brown"
+    ],
+    "all": [
+      "orange",
+      "white",
+      "brown"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "pattern_density": "high",
+    "texture": "crinkled",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg",
+    "length": "full",
+    "structure": "flowy"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "bohemian",
+      "casual"
+    ],
+    "aesthetic": [
+      "boho",
+      "tropical"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "hot"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid tops",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal shoes"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "beige",
+      "brown"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Bright floral wide-leg pants."
+}

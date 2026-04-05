@@ -1,0 +1,87 @@
+{
+  "filename": "19.jpeg",
+  "type": "skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "white",
+    "secondary": [
+      "pink",
+      "green"
+    ],
+    "all": [
+      "white",
+      "pink",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral (roses)",
+    "pattern_density": "medium",
+    "texture": "sheer, lightweight",
+    "material": "likely polyester or chiffon",
+    "finish": "matte, translucent"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "A-line, gathered",
+    "length": "maxi",
+    "structure": "soft, unstructured"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "romantic",
+      "feminine",
+      "floral",
+      "flowy"
+    ],
+    "aesthetic": [
+      "cottagecore",
+      "soft girl",
+      "garden party"
+    ],
+    "occasion_suitability": [
+      "garden party",
+      "brunch",
+      "casual outing",
+      "summer wedding guest"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "sunny"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "simple white top",
+      "pink blouse",
+      "green top",
+      "denim jacket",
+      "sandals",
+      "flats"
+    ],
+    "avoid_with": [
+      "heavy boots",
+      "bulky sweaters",
+      "clashing patterns"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "pink",
+      "green",
+      "light blue",
+      "beige"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult, young adult"
+  },
+  "notes": "A sheer, flowy maxi skirt with a romantic rose print."
+}

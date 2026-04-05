@@ -1,0 +1,83 @@
+{
+  "filename": "6.jpeg",
+  "type": "sleeveless blouse",
+  "category": "top",
+  "colors": {
+    "primary": "taupe",
+    "secondary": [
+      "gold"
+    ],
+    "all": [
+      "taupe",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": null,
+    "texture": "crepe",
+    "material": "synthetic blend",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "straight",
+    "length": "high-low",
+    "structure": "soft"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "sleeveless",
+      "button-up",
+      "collar",
+      "layered front",
+      "geometric panels",
+      "sheer"
+    ],
+    "aesthetic": [
+      "modern",
+      "chic",
+      "contemporary"
+    ],
+    "occasion_suitability": [
+      "workwear",
+      "smart-casual",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "dark denim",
+      "blazers"
+    ],
+    "avoid_with": [
+      "sweatpants",
+      "distressed denim"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "black",
+      "navy",
+      "cream",
+      "burgundy"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Unique layered front panels and high-low hem."
+}

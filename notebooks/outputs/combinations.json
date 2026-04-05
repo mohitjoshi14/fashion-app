@@ -1,0 +1,33 @@
+[
+  {
+    "top": "8.jpeg",
+    "bottom": "20.jpeg",
+    "score": 0.85
+  },
+  {
+    "top": "s9.jpeg",
+    "bottom": "20.jpeg",
+    "score": 0.82
+  },
+  {
+    "top": "8.jpeg",
+    "bottom": "5.jpeg",
+    "score": 0.78
+  },
+  {
+    "top": [
+      "s13.jpeg",
+      "s15.jpeg"
+    ],
+    "bottom": "20.jpeg",
+    "score": 0.74
+  },
+  {
+    "top": [
+      "s12.jpeg",
+      "s14.jpeg"
+    ],
+    "bottom": "20.jpeg",
+    "score": 0.69
+  }
+]

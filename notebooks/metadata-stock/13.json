@@ -1,0 +1,79 @@
+{
+  "filename": "13.jpeg",
+  "type": "vest top",
+  "category": "top",
+  "colors": {
+    "primary": "red",
+    "secondary": [
+      "gold"
+    ],
+    "all": [
+      "red",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": null,
+    "texture": "woven",
+    "material": "linen blend",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "structured",
+    "length": "hip length",
+    "structure": "tailored"
+  },
+  "style": {
+    "formality": 0.65,
+    "style_tags": [
+      "tailored",
+      "chic",
+      "modern",
+      "elegant"
+    ],
+    "aesthetic": [
+      "preppy",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "smart casual",
+      "workwear",
+      "evening out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "pencil skirts",
+      "wide-leg pants",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "sweatpants",
+      "overly distressed denim"
+    ],
+    "color_pairing_suggestions": [
+      "black",
+      "white",
+      "navy",
+      "gold"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Structured red vest top with gold buttons and front slit."
+}

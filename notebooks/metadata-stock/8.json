@@ -1,0 +1,84 @@
+{
+  "filename": "8.jpeg",
+  "type": "blouse",
+  "category": "top",
+  "colors": {
+    "primary": "magenta",
+    "secondary": [
+      "white"
+    ],
+    "all": [
+      "magenta",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot",
+    "pattern_density": "medium",
+    "texture": "sheer",
+    "material": "chiffon",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tunic",
+    "length": "regular",
+    "structure": "soft"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "feminine",
+      "classic",
+      "casual",
+      "smart casual",
+      "bohemian"
+    ],
+    "aesthetic": [
+      "classic",
+      "feminine",
+      "relaxed"
+    ],
+    "occasion_suitability": [
+      "work",
+      "weekend",
+      "dinner",
+      "daytime"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "trousers",
+      "skirts",
+      "shorts"
+    ],
+    "avoid_with": [
+      "heavy bottoms",
+      "busy patterns"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "black",
+      "navy",
+      "beige",
+      "denim"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Sheer fabric with pintuck details and roll-tab sleeves."
+}

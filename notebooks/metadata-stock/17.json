@@ -1,0 +1,83 @@
+{
+  "filename": "17.jpeg",
+  "type": "pants",
+  "category": "bottom",
+  "colors": {
+    "primary": "red",
+    "secondary": [],
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": null,
+    "texture": "twill",
+    "material": "cotton",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "wide-leg",
+    "silhouette": "A-line",
+    "length": "full length",
+    "structure": "structured"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "wide-leg",
+      "high-waisted",
+      "patch pockets",
+      "twill",
+      "casual"
+    ],
+    "aesthetic": [
+      "retro",
+      "70s",
+      "casual",
+      "bold"
+    ],
+    "occasion_suitability": [
+      "casual outings",
+      "weekend wear",
+      "creative work environment"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "Spring",
+      "Autumn",
+      "Winter"
+    ],
+    "weather": [
+      "Mild",
+      "Cool"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted tops",
+      "cropped sweaters",
+      "tucked-in shirts",
+      "sneakers",
+      "boots"
+    ],
+    "avoid_with": [
+      "oversized tunics",
+      "very long tops that hide the waist"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "black",
+      "navy",
+      "grey",
+      "camel",
+      "striped tops"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Bright red wide-leg pants with front patch pockets."
+}

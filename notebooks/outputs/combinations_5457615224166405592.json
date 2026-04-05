@@ -1,0 +1,83 @@
+[
+  {
+    "top": "s14.jpeg",
+    "bottom": "4.jpeg",
+    "score": 0.95,
+    "reasons": [
+      "A classic white t-shirt paired with blue wide-leg jeans is a quintessential casual spring outfit.",
+      "The combination is comfortable, minimalist, and perfectly matches the 'casual wear' request for spring."
+    ]
+  },
+  {
+    "top": "s15.jpeg",
+    "bottom": "3.jpeg",
+    "score": 0.9,
+    "reasons": [
+      "A black t-shirt with blue denim pants creates a simple, effortless casual look suitable for spring weather.",
+      "The relaxed fit of the pants aligns with the casual aesthetic."
+    ]
+  },
+  {
+    "top": "s12.jpeg",
+    "bottom": "20.jpeg",
+    "score": 0.85,
+    "reasons": [
+      "The floral blazer adds a seasonal spring touch to the minimalist white wide-leg pants.",
+      "This outfit is chic yet casual, perfect for a spring outing."
+    ]
+  },
+  {
+    "top": "s8.jpeg",
+    "bottom": "19.jpeg",
+    "score": 0.82,
+    "reasons": [
+      "The pink wavy blouse complements the white and floral chiffon skirt for a feminine, romantic spring look.",
+      "The lightweight materials are ideal for mild spring weather."
+    ]
+  },
+  {
+    "top": "s5.jpeg",
+    "bottom": "4.jpeg",
+    "score": 0.8,
+    "reasons": [
+      "The navy floral peasant blouse pairs beautifully with blue denim for a bohemian casual vibe.",
+      "The color palette and style are highly appropriate for spring casual wear."
+    ]
+  },
+  {
+    "top": "s14.jpeg",
+    "bottom": "17.jpeg",
+    "score": 0.78,
+    "reasons": [
+      "A white t-shirt balances the bold red wide-leg jeans, creating a high-contrast streetwear-inspired casual look.",
+      "The denim material is perfect for spring."
+    ]
+  },
+  {
+    "top": "s10.jpeg",
+    "bottom": "3.jpeg",
+    "score": 0.75,
+    "reasons": [
+      "The playful black and yellow polka dot blouse adds a fun element to the casual blue denim pants.",
+      "The combination is bright and energetic, fitting for spring."
+    ]
+  },
+  {
+    "top": "s9.jpeg",
+    "bottom": "4.jpeg",
+    "score": 0.72,
+    "reasons": [
+      "A striped long-sleeve shirt provides a classic, nautical-inspired casual look when paired with blue jeans.",
+      "The cotton blend material is suitable for mild spring temperatures."
+    ]
+  },
+  {
+    "top": "s14.jpeg",
+    "bottom": "s1.jpeg",
+    "score": 0.7,
+    "reasons": [
+      "A very relaxed, comfortable casual outfit using a white tee and ribbed blue pants.",
+      "Ideal for low-key spring activities or lounging."
+    ]
+  }
+]

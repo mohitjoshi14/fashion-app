@@ -1,0 +1,85 @@
+{
+  "filename": "11.jpeg",
+  "type": "blouse",
+  "category": "top",
+  "colors": {
+    "primary": "white",
+    "secondary": [
+      "red"
+    ],
+    "all": [
+      "white",
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "vertical stripes",
+    "pattern_density": "medium",
+    "texture": "woven",
+    "material": "cotton blend",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy",
+    "length": "high-low",
+    "structure": "soft"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "striped",
+      "v-neck",
+      "short sleeve",
+      "high-low",
+      "relaxed fit",
+      "casual"
+    ],
+    "aesthetic": [
+      "preppy",
+      "casual",
+      "summer",
+      "nautical"
+    ],
+    "occasion_suitability": [
+      "casual outings",
+      "work",
+      "weekend wear",
+      "summer events"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "mild"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "shorts",
+      "skirts",
+      "trousers"
+    ],
+    "avoid_with": [
+      "heavily patterned bottoms",
+      "formal tailored trousers"
+    ],
+    "color_pairing_suggestions": [
+      "navy blue",
+      "white",
+      "black",
+      "beige",
+      "denim blue"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Short-sleeved striped blouse with a high-low hem."
+}

@@ -1,0 +1,69 @@
+{
+  "filename": "3.jpeg",
+  "type": "pants",
+  "category": "bottom",
+  "colors": {
+    "primary": "blue",
+    "secondary": [],
+    "all": [
+      "blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "smooth",
+    "material": "denim",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg",
+    "length": "full",
+    "structure": "unstructured"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "comfortable"
+    ],
+    "aesthetic": [
+      "casual"
+    ],
+    "occasion_suitability": [
+      "everyday",
+      "casual outings"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "t-shirts",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal shoes"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "grey",
+      "black"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "unisex",
+    "age_group": "adult"
+  },
+  "notes": "Elastic waistband with drawstring."
+}

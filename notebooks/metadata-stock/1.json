@@ -1,0 +1,88 @@
+{
+  "filename": "1.jpeg",
+  "type": "maxi skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "white",
+    "secondary": [
+      "pink",
+      "green",
+      "yellow",
+      "purple",
+      "orange"
+    ],
+    "all": [
+      "white",
+      "pink",
+      "green",
+      "yellow",
+      "purple",
+      "orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral (watercolor style)",
+    "pattern_density": "medium",
+    "texture": "sheer, lightweight",
+    "material": "chiffon",
+    "finish": "matte, translucent"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line",
+    "length": "maxi",
+    "structure": "soft, draped, elastic waistband"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "bohemian",
+      "feminine",
+      "romantic",
+      "airy"
+    ],
+    "aesthetic": [
+      "cottagecore",
+      "garden party",
+      "spring/summer"
+    ],
+    "occasion_suitability": [
+      "casual outings",
+      "garden parties",
+      "beach",
+      "dates"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "warm",
+      "sunny"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "simple tops (t-shirts, blouses, camisoles)",
+      "sandals",
+      "wedges",
+      "denim jackets"
+    ],
+    "avoid_with": [
+      "heavy knits",
+      "bulky jackets",
+      "overly busy patterns"
+    ],
+    "color_pairing_suggestions": [
+      "pull colors from the print (pink, green, yellow, purple)",
+      "neutral white/cream"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult, young adult"
+  },
+  "notes": "A lightweight, flowy maxi skirt with a delicate watercolor floral print."
+}

@@ -1,0 +1,87 @@
+{
+  "filename": "18.jpeg",
+  "type": "skirt",
+  "category": "bottom",
+  "colors": {
+    "primary": "olive green",
+    "secondary": [
+      "brown",
+      "gold"
+    ],
+    "all": [
+      "olive green",
+      "brown",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": null,
+    "texture": "twill weave",
+    "material": "cotton twill",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "A-line",
+    "length": "midi",
+    "structure": "structured"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "utilitarian",
+      "safari",
+      "workwear",
+      "casual"
+    ],
+    "aesthetic": [
+      "earthy",
+      "practical",
+      "vintage-inspired"
+    ],
+    "occasion_suitability": [
+      "casual outing",
+      "work (casual)",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "summer"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "t-shirts",
+      "blouses",
+      "sweaters",
+      "boots",
+      "sneakers",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal evening wear",
+      "very sporty items"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "cream",
+      "navy",
+      "black",
+      "tan",
+      "mustard yellow"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Olive green A-line midi skirt with front pockets and belt."
+}

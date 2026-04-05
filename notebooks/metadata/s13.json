@@ -1,0 +1,68 @@
+{
+  "filename": "s13.jpeg",
+  "type": "jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "red",
+    "secondary": [],
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "pattern_density": "low",
+    "texture": "smooth",
+    "material": "silk-like",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "draped",
+    "length": "long",
+    "structure": "unstructured"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "casual",
+      "chic"
+    ],
+    "aesthetic": [
+      "bohemian"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "semi-formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "fall"
+    ],
+    "weather": [
+      "mild",
+      "cool"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "dresses"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ],
+    "color_pairing_suggestions": [
+      "black",
+      "white",
+      "denim"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Flowy and lightweight."
+}

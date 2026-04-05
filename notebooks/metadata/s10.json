@@ -1,0 +1,71 @@
+{
+  "filename": "s10.jpeg",
+  "type": "blouse",
+  "category": "top",
+  "colors": {
+    "primary": "black",
+    "secondary": [
+      "yellow"
+    ],
+    "all": [
+      "black",
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot",
+    "pattern_density": "high",
+    "texture": "smooth",
+    "material": "cotton blend",
+    "finish": "matte"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy",
+    "length": "hip-length",
+    "structure": "unstructured"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "playful"
+    ],
+    "aesthetic": [
+      "retro",
+      "fun"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daytime"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "weather": [
+      "mild",
+      "warm"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "skirts"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ],
+    "color_pairing_suggestions": [
+      "white",
+      "denim"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "female",
+    "age_group": "adult"
+  },
+  "notes": "Bright polka dot pattern."
+}

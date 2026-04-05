@@ -1,0 +1,91 @@
+{
+  "filename": "4.jpeg",
+  "type": "Jeans",
+  "category": "bottom",
+  "colors": {
+    "primary": "Medium Blue",
+    "secondary": [
+      "Light Blue",
+      "Gold/Tan"
+    ],
+    "all": [
+      "Medium Blue",
+      "Light Blue",
+      "Gold/Tan"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "Solid with fading/whiskering",
+    "pattern_density": "low",
+    "texture": "Denim twill",
+    "material": "Denim",
+    "finish": "Matte, washed"
+  },
+  "shape_fit": {
+    "fit": "Wide-leg",
+    "silhouette": "A-line",
+    "length": "Full length",
+    "structure": "Structured"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "Wide-leg",
+      "High-waisted",
+      "Retro",
+      "Boho",
+      "Casual"
+    ],
+    "aesthetic": [
+      "70s",
+      "Minimalist",
+      "Streetwear"
+    ],
+    "occasion_suitability": [
+      "Casual outings",
+      "Weekends",
+      "Work (casual)",
+      "Concerts"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "Spring",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Mild",
+      "Cool"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "Fitted tops",
+      "Cropped sweaters",
+      "Blouses",
+      "T-shirts",
+      "Boots",
+      "Sneakers",
+      "Sandals"
+    ],
+    "avoid_with": [
+      "Oversized/baggy tops",
+      "Very long tunics"
+    ],
+    "color_pairing_suggestions": [
+      "White",
+      "Black",
+      "Cream",
+      "Red",
+      "Mustard Yellow",
+      "Green",
+      "Pink"
+    ]
+  },
+  "metadata": {
+    "gender_suggestion": "Women",
+    "age_group": "Adult, Young Adult"
+  },
+  "notes": "High-waisted, wide-leg denim jeans with a medium wash and fading."
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "top": [
+      "s11.jpeg",
+      "s14.jpeg"
+    ],
+    "bottom": "17.jpeg",
+    "score": 0.85,
+    "reasons": [
+      "The red wide-leg jeans (17.jpeg) are a bold statement piece suitable for a party.",
+      "Layering the black/white geometric vest (s11.jpeg) over a white t-shirt (s14.jpeg) adds texture and depth for autumn.",
+      "The wool material of the vest is appropriate for the cool autumn season."
+    ]
+  },
+  {
+    "top": [
+      "s13.jpeg",
+      "s15.jpeg"
+    ],
+    "bottom": "17.jpeg",
+    "score": 0.8,
+    "reasons": [
+      "The red silk-like jacket (s13.jpeg) paired with a black t-shirt (s15.jpeg) creates a chic, party-ready look.",
+      "The red-on-red color coordination with the red jeans (17.jpeg) is a bold, fashionable choice.",
+      "The silk-like texture and long length of the jacket are great for autumn evenings."
+    ]
+  },
+  {
+    "top": "8.jpeg",
+    "bottom": "2.jpeg",
+    "score": 0.75,
+    "reasons": [
+      "The burgundy polka dot blouse (8.jpeg) and black polka dot skirt (2.jpeg) create a cohesive vintage/retro party aesthetic.",
+      "The burgundy color is perfect for an autumn palette.",
+      "The combination is semi-formal and stylish for a party setting."
+    ]
+  },
+  {
+    "top": "s9.jpeg",
+    "bottom": "4.jpeg",
+    "score": 0.7,
+    "reasons": [
+      "The black striped long-sleeve shirt (s9.jpeg) is suitable for the cool autumn weather.",
+      "Pairing it with blue wide-leg jeans (4.jpeg) offers a classic, smart-casual party look.",
+      "The colors and textures are well-balanced for a daytime or evening event."
+    ]
+  },
+  {
+    "top": "s11.jpeg",
+    "bottom": "3.jpeg",
+    "score": 0.65,
+    "reasons": [
+      "The geometric vest (s11.jpeg) provides necessary warmth for autumn.",
+      "The blue denim (3.jpeg) is a versatile base for the artsy/eclectic style of the vest.",
+      "This look is more casual-party, suitable for a relaxed gathering."
+    ]
+  }
+]
