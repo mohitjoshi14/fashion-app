@@ -1,0 +1,51 @@
+{
+  "type": "camisole top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "edgy",
+      "chic",
+      "minimalist",
+      "evening"
+    ],
+    "occasion_suitability": [
+      "party",
+      "night out",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "leather pants",
+      "heeled sandals"
+    ],
+    "avoid_with": [
+      "oversized sweatpants",
+      "casual denim shorts"
+    ]
+  },
+  "item_id": "201540142"
+}

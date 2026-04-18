@@ -1,0 +1,50 @@
+{
+  "type": "ruffle-trim blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "loose"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "feminine",
+      "classic",
+      "business casual"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black trousers",
+      "pencil skirt",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "heavily patterned bottoms"
+    ]
+  },
+  "item_id": "186534332"
+}

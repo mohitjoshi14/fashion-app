@@ -1,0 +1,49 @@
+{
+  "type": "tie-front t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "grunge",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daily wear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "denim shorts",
+      "black leggings"
+    ],
+    "avoid_with": [
+      "plaid bottoms",
+      "formal trousers"
+    ]
+  },
+  "item_id": "208784763"
+}

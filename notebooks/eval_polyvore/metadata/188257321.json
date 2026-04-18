@@ -1,0 +1,50 @@
+{
+  "type": "sweatshirt",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "pullover"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "gothic",
+      "graphic",
+      "alternative"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "denim shorts",
+      "leather boots"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "188257321"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "tiered lace blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral lace",
+    "material": "lace"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tiered"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "romantic",
+      "feminine",
+      "boho",
+      "delicate"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "midi skirts",
+      "camisole underneath"
+    ],
+    "avoid_with": [
+      "heavy winter layers",
+      "patterned bottoms that clash with lace"
+    ]
+  },
+  "item_id": "209912400"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "orange",
+    "all": [
+      "orange",
+      "yellow-orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "chic",
+      "minimalist",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white silk blouse",
+      "fitted black turtleneck",
+      "strappy heels"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "clashing neon patterns"
+    ]
+  },
+  "item_id": "157874710"
+}

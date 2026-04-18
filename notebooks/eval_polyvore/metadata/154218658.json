@@ -1,0 +1,51 @@
+{
+  "type": "leggings",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white",
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "animal print",
+    "material": "synthetic blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "edgy",
+      "casual",
+      "bold"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized black sweater",
+      "leather jacket",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "other busy patterns",
+      "formal blazers"
+    ]
+  },
+  "item_id": "154218658"
+}

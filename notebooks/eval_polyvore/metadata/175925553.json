@@ -1,0 +1,51 @@
+{
+  "type": "shearling biker jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "taupe"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "leather and shearling"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "asymmetrical hem"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "biker",
+      "luxury",
+      "chic",
+      "edgy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "evening",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark skinny jeans",
+      "fitted turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "track pants"
+    ]
+  },
+  "item_id": "175925553"
+}

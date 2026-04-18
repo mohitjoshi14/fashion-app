@@ -1,0 +1,50 @@
+{
+  "type": "jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight-leg"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "versatile"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white button-down shirt",
+      "oversized sweater",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "excessively baggy tops that hide the silhouette"
+    ]
+  },
+  "item_id": "194939884"
+}

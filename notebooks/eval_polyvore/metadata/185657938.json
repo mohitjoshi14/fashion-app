@@ -1,0 +1,50 @@
+{
+  "type": "shearling coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "tan",
+    "all": [
+      "tan",
+      "cream"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "suede and shearling"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "vintage",
+      "bohemian",
+      "cozy",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "turtleneck sweaters",
+      "leather boots"
+    ],
+    "avoid_with": [
+      "formal evening wear",
+      "lightweight summer dresses"
+    ]
+  },
+  "item_id": "185657938"
+}

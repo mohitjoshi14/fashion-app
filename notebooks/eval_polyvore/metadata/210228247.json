@@ -1,0 +1,48 @@
+{
+  "type": "lace-up ribbed top",
+  "category": "tops",
+  "colors": {
+    "primary": "dusty pink",
+    "all": [
+      "dusty pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "ribbed knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "feminine",
+      "y2k",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "mini skirts"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy winter layers"
+    ]
+  },
+  "item_id": "210228247"
+}

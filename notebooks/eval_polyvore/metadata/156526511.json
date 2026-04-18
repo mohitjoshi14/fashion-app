@@ -1,0 +1,48 @@
+{
+  "type": "graphic t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "graphic",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "denim shorts",
+      "casual sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress trousers"
+    ]
+  },
+  "item_id": "156526511"
+}

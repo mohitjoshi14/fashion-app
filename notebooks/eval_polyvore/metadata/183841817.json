@@ -1,0 +1,51 @@
+{
+  "type": "coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "herringbone",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "turtleneck sweaters",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "very loose wide-leg pants"
+    ]
+  },
+  "item_id": "183841817"
+}

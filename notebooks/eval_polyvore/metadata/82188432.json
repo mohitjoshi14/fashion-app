@@ -1,0 +1,53 @@
+{
+  "type": "midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "off-white",
+    "all": [
+      "off-white",
+      "cream",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "casual",
+      "bohemian",
+      "basic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted t-shirt",
+      "denim jacket",
+      "sneakers",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters that hide the waist"
+    ]
+  },
+  "item_id": "82188432"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "wrap skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "orange",
+    "all": [
+      "orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "chic",
+      "minimalist",
+      "vibrant"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white blouse",
+      "neutral camisole",
+      "nude heels"
+    ],
+    "avoid_with": [
+      "clashing bright patterns",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "165600514"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "boat neck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "off-white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "cozy",
+      "basic",
+      "loungewear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark wash denim",
+      "tailored trousers",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "bulky oversized scarves that hide the neckline"
+    ]
+  },
+  "item_id": "179404317"
+}

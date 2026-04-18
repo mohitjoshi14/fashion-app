@@ -1,0 +1,51 @@
+{
+  "type": "distressed star-print jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "star print",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "streetwear",
+      "distressed",
+      "casual",
+      "edgy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "plain white t-shirt",
+      "cropped hoodie",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "patterned shirts"
+    ]
+  },
+  "item_id": "154960861"
+}

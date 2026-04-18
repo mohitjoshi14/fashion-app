@@ -1,0 +1,51 @@
+{
+  "type": "denim shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-waisted"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "distressed",
+      "raw hem",
+      "casual",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "graphic t-shirts",
+      "crop tops",
+      "sandals",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress shirts"
+    ]
+  },
+  "item_id": "173053320"
+}

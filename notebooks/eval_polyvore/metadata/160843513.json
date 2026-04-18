@@ -1,0 +1,52 @@
+{
+  "type": "biker jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather and faux fur"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "edgy",
+      "rock-chic",
+      "glam",
+      "motorcycle"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "skinny jeans",
+      "leather pants",
+      "mini skirts",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal evening gowns",
+      "oversized baggy sweatpants"
+    ]
+  },
+  "item_id": "160843513"
+}

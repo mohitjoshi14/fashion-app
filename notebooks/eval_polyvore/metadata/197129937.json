@@ -1,0 +1,48 @@
+{
+  "type": "sleeveless blouse and skirt set",
+  "category": "other",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "bohemian",
+      "casual",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "sandals",
+      "straw hat"
+    ],
+    "avoid_with": [
+      "heavy winter boots",
+      "formal blazers"
+    ]
+  },
+  "item_id": "197129937"
+}

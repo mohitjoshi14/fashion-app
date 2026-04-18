@@ -1,0 +1,51 @@
+{
+  "type": "midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "vintage-inspired",
+      "classic",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color tucked-in blouse",
+      "fitted turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "oversized sweaters"
+    ]
+  },
+  "item_id": "169734605"
+}

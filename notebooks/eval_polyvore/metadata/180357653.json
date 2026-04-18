@@ -1,0 +1,51 @@
+{
+  "type": "wide-leg trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "minimalist",
+      "tailored",
+      "sophisticated",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "silk blouse",
+      "pointed-toe heels"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "casual athletic sneakers"
+    ]
+  },
+  "item_id": "180357653"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "burgundy",
+    "all": [
+      "burgundy",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "suede"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "classic",
+      "sophisticated",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white silk blouse",
+      "fitted turtleneck",
+      "black pumps"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "athletic sneakers"
+    ]
+  },
+  "item_id": "169917571"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "skinny jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "dark blue",
+    "all": [
+      "dark blue",
+      "indigo"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "everyday",
+      "versatile"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "blazer",
+      "ankle boots",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal dress shirts",
+      "tuxedo jackets"
+    ]
+  },
+  "item_id": "115196190"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "leggings",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "synthetic blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "athleisure",
+      "basic",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized sweaters",
+      "tunic tops",
+      "hoodies",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress shoes"
+    ]
+  },
+  "item_id": "178931680"
+}

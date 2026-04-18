@@ -1,0 +1,49 @@
+{
+  "type": "flared jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "flared"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "vintage",
+      "boho",
+      "retro",
+      "edgy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "cropped leather jacket",
+      "platform boots"
+    ],
+    "avoid_with": [
+      "oversized tunics that hide the flare"
+    ]
+  },
+  "item_id": "194592022"
+}

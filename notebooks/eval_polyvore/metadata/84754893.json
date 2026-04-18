@@ -1,0 +1,49 @@
+{
+  "type": "crop tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "lime green",
+    "all": [
+      "lime green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "minimalist",
+      "sporty"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "activewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "white linen trousers",
+      "mini skirts"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress pants"
+    ]
+  },
+  "item_id": "84754893"
+}

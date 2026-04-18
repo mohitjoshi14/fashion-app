@@ -1,0 +1,50 @@
+{
+  "type": "midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "coral",
+    "all": [
+      "coral",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "feminine",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white tucked-in blouse",
+      "fitted tank top",
+      "wedges"
+    ],
+    "avoid_with": [
+      "oversized sweaters",
+      "bulky hoodies"
+    ]
+  },
+  "item_id": "184014742"
+}

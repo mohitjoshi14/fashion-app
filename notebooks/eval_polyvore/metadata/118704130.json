@@ -1,0 +1,51 @@
+{
+  "type": "plaid skort",
+  "category": "bottoms",
+  "colors": {
+    "primary": "maroon",
+    "all": [
+      "maroon",
+      "white",
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-waisted"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "preppy",
+      "casual",
+      "youthful"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "school",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid white turtleneck",
+      "fitted black long-sleeve top",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "heavily patterned tops",
+      "plaid blazers"
+    ]
+  },
+  "item_id": "118704130"
+}

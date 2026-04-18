@@ -1,0 +1,56 @@
+{
+  "type": "sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "multicolor",
+    "all": [
+      "red",
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "pink",
+      "brown",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "wool"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "crew neck"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "colorful",
+      "preppy",
+      "vibrant",
+      "knitwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color jeans",
+      "neutral trousers",
+      "denim skirt"
+    ],
+    "avoid_with": [
+      "other busy patterns",
+      "loud plaid bottoms"
+    ]
+  },
+  "item_id": "157915004"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "breton striped long-sleeve t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "navy blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "nautical",
+      "classic",
+      "minimalist",
+      "french-chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark wash denim jeans",
+      "trench coat",
+      "chinos"
+    ],
+    "avoid_with": [
+      "heavily patterned bottoms"
+    ]
+  },
+  "item_id": "172913646"
+}

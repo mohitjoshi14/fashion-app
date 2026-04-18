@@ -1,0 +1,50 @@
+{
+  "type": "long-sleeve lace top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral lace",
+    "material": "lace"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "elegant",
+      "sheer",
+      "romantic",
+      "gothic"
+    ],
+    "occasion_suitability": [
+      "party",
+      "evening",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "camisole",
+      "high-waisted trousers",
+      "leather skirt"
+    ],
+    "avoid_with": [
+      "patterned bottoms",
+      "bulky sweaters"
+    ]
+  },
+  "item_id": "181836910"
+}

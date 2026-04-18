@@ -1,0 +1,453 @@
+[
+  {
+    "run_id": "approach_A_fix_1_var00",
+    "approach": "A",
+    "fixture_name": "fix_1",
+    "variation_index": 0,
+    "output_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/fixture_display_experiment/outputs/runs/approach_A/approach_A_fix_1_var00.png",
+    "fixture_schema": {
+      "id": "four_way_straight_arm_rack",
+      "display_name": "4-Way Straight Arm Garment Rack",
+      "fixture_type": "rack",
+      "material": "matte black steel",
+      "style": "minimalist industrial",
+      "slots": [
+        {
+          "id": "front_arm",
+          "display_name": "Front Straight Arm",
+          "display_type": "hanging",
+          "orientation": "side_hanging",
+          "capacity": 5,
+          "suitable_categories": [
+            "tops",
+            "bottoms",
+            "outerwear",
+            "full_body"
+          ],
+          "zone": {
+            "x": 0.26,
+            "y": 0.11,
+            "w": 0.2,
+            "h": 0.03
+          },
+          "position_description": "Front-facing horizontal arm",
+          "styling_notes": "Ideal for hero pieces or a small curated selection."
+        },
+        {
+          "id": "back_arm",
+          "display_name": "Back Straight Arm",
+          "display_type": "hanging",
+          "orientation": "side_hanging",
+          "capacity": 5,
+          "suitable_categories": [
+            "tops",
+            "bottoms",
+            "outerwear",
+            "full_body"
+          ],
+          "zone": {
+            "x": 0.56,
+            "y": 0.06,
+            "w": 0.15,
+            "h": 0.03
+          },
+          "position_description": "Rear-facing horizontal arm",
+          "styling_notes": "Good for secondary items or completing a look."
+        },
+        {
+          "id": "left_arm",
+          "display_name": "Left Straight Arm",
+          "display_type": "hanging",
+          "orientation": "side_hanging",
+          "capacity": 5,
+          "suitable_categories": [
+            "tops",
+            "bottoms",
+            "outerwear",
+            "full_body"
+          ],
+          "zone": {
+            "x": 0.06,
+            "y": 0.11,
+            "w": 0.2,
+            "h": 0.03
+          },
+          "position_description": "Left-side horizontal arm",
+          "styling_notes": "Use for color-blocking or size runs."
+        },
+        {
+          "id": "right_arm",
+          "display_name": "Right Straight Arm",
+          "display_type": "hanging",
+          "orientation": "side_hanging",
+          "capacity": 5,
+          "suitable_categories": [
+            "tops",
+            "bottoms",
+            "outerwear",
+            "full_body"
+          ],
+          "zone": {
+            "x": 0.76,
+            "y": 0.11,
+            "w": 0.2,
+            "h": 0.03
+          },
+          "position_description": "Right-side horizontal arm",
+          "styling_notes": "Use for color-blocking or size runs."
+        }
+      ],
+      "total_capacity": 20,
+      "suitable_aesthetics": [
+        "contemporary",
+        "streetwear",
+        "minimalist"
+      ],
+      "fixture_notes": "A versatile 4-way rack for displaying a curated collection with 360-degree visibility. Ideal for central floor placement.",
+      "_source_image": "fix_1.jpg"
+    },
+    "slot_assignment": {
+      "slot_assignments": {
+        "front_arm": {
+          "assigned_items": [
+            "107667674.jpg",
+            "208784763.jpg"
+          ],
+          "display_arrangement": "Black mock neck crop top followed by the black/red tie-front t-shirt to create a dark, edgy base.",
+          "styling_note": "These items provide the 'minimalist' and 'edgy' foundation required by the moodboard, utilizing the black and red color palette."
+        },
+        "right_arm": {
+          "assigned_items": [
+            "161862906.jpg"
+          ],
+          "display_arrangement": "Floral skinny trousers hanging centered.",
+          "styling_note": "The vibrant red accents in the floral print align perfectly with the 'Rubby Fire' theme, adding a bold, artistic statement."
+        },
+        "left_arm": {
+          "assigned_items": [
+            "165661979.jpg"
+          ],
+          "display_arrangement": "A-line floral shorts hanging centered.",
+          "styling_note": "The tapestry texture and bold colors provide the 'vibrant' and 'artistic' feel requested, contrasting well with the minimalist tops."
+        }
+      },
+      "total_items_selected": 4,
+      "moodboard_alignment_score": 0.9,
+      "selection_reasoning": "I selected items that lean into the 'Rubby Fire' theme by prioritizing black, red, and vibrant floral patterns. The selection avoids muted pastels and cool blues, focusing on bold textures and statement pieces that feel both summer-casual and high-fashion editorial."
+    },
+    "moodboard_theme": "Rubby Fire",
+    "user_text": "Showcase a summer casual collection — light, breezy, effortless feel"
+  },
+  {
+    "run_id": "approach_A_fix_2_var00",
+    "approach": "A",
+    "fixture_name": "fix_2",
+    "variation_index": 0,
+    "output_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/fixture_display_experiment/outputs/runs/approach_A/approach_A_fix_2_var00.png",
+    "fixture_schema": {
+      "id": "double_rail_rolling_rack_industrial",
+      "display_name": "Double Rail Rolling Garment Rack",
+      "fixture_type": "rack",
+      "material": "brushed steel",
+      "style": "industrial minimalist",
+      "slots": [
+        {
+          "id": "front_hanging_rail",
+          "display_name": "Front Hanging Rail",
+          "display_type": "hanging",
+          "orientation": "side_hanging",
+          "capacity": 18,
+          "suitable_categories": [
+            "tops",
+            "bottoms",
+            "outerwear",
+            "full_body"
+          ],
+          "zone": {
+            "x": 0.04,
+            "y": 0.1,
+            "w": 0.92,
+            "h": 0.03
+          },
+          "position_description": "Main lower horizontal rail",
+          "styling_notes": "Primary display area for high-volume hanging merchandise."
+        },
+        {
+          "id": "back_hanging_rail",
+          "display_name": "Back Hanging Rail",
+          "display_type": "hanging",
+          "orientation": "side_hanging",
+          "capacity": 15,
+          "suitable_categories": [
+            "tops",
+            "bottoms",
+            "outerwear",
+            "full_body"
+          ],
+          "zone": {
+            "x": 0.13,
+            "y": 0.04,
+            "w": 0.79,
+            "h": 0.03
+          },
+          "position_description": "Upper, set-back horizontal rail",
+          "styling_notes": "Ideal for coordinating pieces or creating depth in the display. Slightly less accessible than the front rail."
+        },
+        {
+          "id": "bottom_base_shelf",
+          "display_name": "Bottom Base Frame",
+          "display_type": "folded",
+          "orientation": "flat",
+          "capacity": 5,
+          "suitable_categories": [
+            "bottoms",
+            "accessories"
+          ],
+          "zone": {
+            "x": 0.06,
+            "y": 0.73,
+            "w": 0.88,
+            "h": 0.18
+          },
+          "position_description": "Area between the bottom support bars",
+          "styling_notes": "Can hold a few folded items (like jeans) or shoe boxes, but use sparingly to avoid a cluttered look."
+        }
+      ],
+      "total_capacity": 38,
+      "suitable_aesthetics": [
+        "industrial",
+        "minimalist",
+        "contemporary",
+        "streetwear"
+      ],
+      "fixture_notes": "A versatile, mobile rack with adjustable height. Excellent for high-density hanging displays in various retail environments. The double rail allows for layered merchandising.",
+      "_source_image": "fix_2.jpg"
+    },
+    "slot_assignment": {
+      "slot_assignments": {
+        "front_hanging_rail": {
+          "assigned_items": [
+            "107667674.jpg",
+            "208784763.jpg"
+          ],
+          "display_arrangement": "Side-hanging, front-facing, layered to show the black mock neck base with the red-accented tie-front top.",
+          "styling_note": "The black and red color story aligns with the Rubby Fire theme, providing a bold, minimalist base for the collection."
+        },
+        "bottom_base_shelf": {
+          "assigned_items": [
+            "165661979.jpg",
+            "161862906.jpg"
+          ],
+          "display_arrangement": "Neatly folded and stacked, showcasing the vibrant floral patterns.",
+          "styling_note": "These bottoms add the necessary 'vibrant' and 'nature-inspired' elements to the display, contrasting with the minimalist tops."
+        }
+      },
+      "total_items_selected": 4,
+      "moodboard_alignment_score": 0.9,
+      "selection_reasoning": "The selection focuses on the 'Rubby Fire' theme by prioritizing black, red, and vibrant floral patterns. By pairing the minimalist black mock neck with the red-accented tie-front top, we create a dramatic, avant-garde silhouette. The floral bottoms introduce the requested natural inspiration and vibrant color palette while maintaining a summer-casual feel."
+    },
+    "moodboard_theme": "Rubby Fire",
+    "user_text": "Showcase a summer casual collection — light, breezy, effortless feel"
+  },
+  {
+    "run_id": "approach_A_fix_3_var00",
+    "approach": "A",
+    "fixture_name": "fix_3",
+    "variation_index": 0,
+    "output_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/fixture_display_experiment/outputs/runs/approach_A/approach_A_fix_3_var00.png",
+    "fixture_schema": {
+      "id": "chrome_two_arm_hook_stand",
+      "display_name": "Chrome Two-Arm Hook Stand",
+      "fixture_type": "stand",
+      "material": "chrome steel",
+      "style": "minimalist",
+      "slots": [
+        {
+          "id": "left_hook_arm",
+          "display_name": "Left Hook Arm",
+          "display_type": "hooked",
+          "orientation": "front_facing",
+          "capacity": 5,
+          "suitable_categories": [
+            "accessories",
+            "tops"
+          ],
+          "zone": {
+            "x": 0.301,
+            "y": 0.144,
+            "w": 0.199,
+            "h": 0.137
+          },
+          "position_description": "Lower horizontal arm extending to the left",
+          "styling_notes": "Ideal for displaying scarves, belts, or lightweight tops."
+        },
+        {
+          "id": "right_hook_arm",
+          "display_name": "Right Hook Arm",
+          "display_type": "hooked",
+          "orientation": "front_facing",
+          "capacity": 5,
+          "suitable_categories": [
+            "accessories",
+            "tops"
+          ],
+          "zone": {
+            "x": 0.531,
+            "y": 0.068,
+            "w": 0.186,
+            "h": 0.132
+          },
+          "position_description": "Upper horizontal arm extending to the right",
+          "styling_notes": "Ideal for displaying scarves, belts, or lightweight tops."
+        }
+      ],
+      "total_capacity": 10,
+      "suitable_aesthetics": [
+        "contemporary",
+        "minimalist",
+        "boutique"
+      ],
+      "fixture_notes": "A versatile stand for displaying a variety of small accessories or lightweight garments. The staggered arms create visual depth.",
+      "_source_image": "fix_3.jpg"
+    },
+    "slot_assignment": {
+      "slot_assignments": {
+        "left_hook_arm": {
+          "assigned_items": [
+            "107667674.jpg"
+          ],
+          "display_arrangement": "Single item centered on the hook",
+          "styling_note": "The black mock neck crop top provides a sleek, minimalist base that aligns with the 'Rubby Fire' aesthetic's focus on bold, sculptural silhouettes."
+        },
+        "right_hook_arm": {
+          "assigned_items": [
+            "208784763.jpg"
+          ],
+          "display_arrangement": "Single item centered on the hook",
+          "styling_note": "The tie-front t-shirt features red tones that directly connect to the 'Rubby Fire' color palette, adding a vibrant, passionate accent to the display."
+        }
+      },
+      "total_items_selected": 2,
+      "moodboard_alignment_score": 0.9,
+      "selection_reasoning": "To adhere to the 'Rubby Fire' moodboard while showcasing a summer casual collection, I selected items that emphasize the red/black color story. The black crop top provides a minimalist, avant-garde foundation, while the red-accented tie-front shirt introduces the required vibrant, passionate energy. These items are lightweight and suitable for the hook arm fixture, creating a cohesive, high-fashion editorial look."
+    },
+    "moodboard_theme": "Rubby Fire",
+    "user_text": "Showcase a summer casual collection — light, breezy, effortless feel"
+  },
+  {
+    "run_id": "approach_A_fix_4_var00",
+    "approach": "A",
+    "fixture_name": "fix_4",
+    "variation_index": 0,
+    "output_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/fixture_display_experiment/outputs/runs/approach_A/approach_A_fix_4_var00.png",
+    "fixture_schema": {
+      "id": "nesting_display_tables_3_tier",
+      "display_name": "3-Tier Nesting Display Tables",
+      "fixture_type": "table",
+      "material": "Brushed metal frame with light wood tops",
+      "style": "Minimalist, modern, industrial",
+      "slots": [
+        {
+          "id": "top_shelf",
+          "display_name": "Top Tier Shelf",
+          "display_type": "folded",
+          "orientation": "flat",
+          "capacity": 3,
+          "suitable_categories": [
+            "tops",
+            "accessories"
+          ],
+          "zone": {
+            "x": 0.33,
+            "y": 0.16,
+            "w": 0.33,
+            "h": 0.05
+          },
+          "position_description": "Highest, smallest display surface",
+          "styling_notes": "Ideal for highlighting a single hero item or small accessories like jewelry or wallets."
+        },
+        {
+          "id": "middle_shelf",
+          "display_name": "Middle Tier Shelf",
+          "display_type": "folded",
+          "orientation": "flat",
+          "capacity": 6,
+          "suitable_categories": [
+            "tops",
+            "bottoms",
+            "accessories"
+          ],
+          "zone": {
+            "x": 0.08,
+            "y": 0.3,
+            "w": 0.84,
+            "h": 0.08
+          },
+          "position_description": "Medium-sized display surface below the top tier",
+          "styling_notes": "Good for displaying a small collection of folded garments or a mix of products."
+        },
+        {
+          "id": "bottom_shelf",
+          "display_name": "Bottom Tier Shelf",
+          "display_type": "folded",
+          "orientation": "flat",
+          "capacity": 10,
+          "suitable_categories": [
+            "tops",
+            "bottoms",
+            "outerwear",
+            "accessories"
+          ],
+          "zone": {
+            "x": 0.19,
+            "y": 0.41,
+            "w": 0.57,
+            "h": 0.08
+          },
+          "position_description": "Lowest, largest display surface",
+          "styling_notes": "Best for bulkier items like folded sweaters or jeans, or for creating a larger product story."
+        }
+      ],
+      "total_capacity": 19,
+      "suitable_aesthetics": [
+        "contemporary",
+        "scandinavian",
+        "minimalist",
+        "industrial"
+      ],
+      "fixture_notes": "Versatile nesting tables allow for dynamic, multi-level product presentations. Can be used together as a single unit or separated for smaller displays.",
+      "_source_image": "fix_4.jpg"
+    },
+    "slot_assignment": {
+      "slot_assignments": {
+        "top_shelf": {
+          "assigned_items": [
+            "107667674.jpg"
+          ],
+          "display_arrangement": "Centered, folded neatly to highlight the mock neck silhouette.",
+          "styling_note": "The black mock neck provides a minimalist, sculptural base that anchors the 'Rubby Fire' theme."
+        },
+        "middle_shelf": {
+          "assigned_items": [
+            "208784763.jpg"
+          ],
+          "display_arrangement": "Folded to show the red plaid pattern, placed centrally.",
+          "styling_note": "The red in this piece directly aligns with the vibrant, passionate color palette of the moodboard."
+        },
+        "bottom_shelf": {
+          "assigned_items": [
+            "161862906.jpg",
+            "165661979.jpg"
+          ],
+          "display_arrangement": "Side-by-side, folded to showcase the floral and tapestry textures.",
+          "styling_note": "These bottoms introduce the requested bold textures and vibrant colors while maintaining the summer-to-fall transition feel."
+        }
+      },
+      "total_items_selected": 4,
+      "moodboard_alignment_score": 0.9,
+      "selection_reasoning": "The selection focuses on the 'Rubby Fire' theme by prioritizing red accents and bold, sculptural textures. The black mock neck acts as a neutral, avant-garde foundation, while the red plaid and vibrant floral/tapestry bottoms provide the necessary intensity and dramatic flair required by the moodboard."
+    },
+    "moodboard_theme": "Rubby Fire",
+    "user_text": "Showcase a summer casual collection — light, breezy, effortless feel"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "type": "wide-leg trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "orange",
+      "green",
+      "yellow",
+      "white",
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "linen"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "tropical",
+      "resort",
+      "bohemian",
+      "vibrant"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid white tank top",
+      "fitted crop top",
+      "espadrilles",
+      "leather sandals"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "heavy winter boots"
+    ]
+  },
+  "item_id": "208598861"
+}

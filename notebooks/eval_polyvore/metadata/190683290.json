@@ -1,0 +1,48 @@
+{
+  "type": "mock neck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "oversized",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "cozy",
+      "loungewear",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit jeans",
+      "leather leggings",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "bulky oversized pants"
+    ]
+  },
+  "item_id": "190683290"
+}

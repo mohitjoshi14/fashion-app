@@ -1,0 +1,50 @@
+{
+  "type": "belted wool coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wrap"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "minimalist",
+      "sophisticated",
+      "classic",
+      "elegant"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "leather boots",
+      "turtleneck sweaters"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "athletic wear"
+    ]
+  },
+  "item_id": "146070950"
+}

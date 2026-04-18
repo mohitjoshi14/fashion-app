@@ -1,0 +1,50 @@
+{
+  "type": "trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "burgundy",
+    "all": [
+      "burgundy",
+      "maroon"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "synthetic blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight-leg"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "minimalist",
+      "tailored",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "cream silk blouse",
+      "black turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bright neon tops",
+      "athletic hoodies"
+    ]
+  },
+  "item_id": "162019460"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "white",
+      "brown"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "cute",
+      "graphic",
+      "loungewear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "home"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "high-waisted jeans",
+      "leggings"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress pants"
+    ]
+  },
+  "item_id": "167877893"
+}

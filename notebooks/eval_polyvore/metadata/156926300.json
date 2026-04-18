@@ -1,0 +1,49 @@
+{
+  "type": "button-front mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "tan",
+    "all": [
+      "tan",
+      "brown"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux suede"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "boho",
+      "vintage-inspired",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daytime"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "cream turtleneck",
+      "denim jacket",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "evening wear"
+    ]
+  },
+  "item_id": "156926300"
+}

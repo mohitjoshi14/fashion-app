@@ -1,0 +1,46 @@
+{
+  "type": "bikini bottoms",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "nylon blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "high-waisted ruched"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "swimwear",
+      "minimalist",
+      "retro"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "matching black bikini top",
+      "patterned bikini top",
+      "beach cover-up"
+    ],
+    "avoid_with": [
+      "formal wear"
+    ]
+  },
+  "item_id": "167792481"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "camisole crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "tan",
+    "all": [
+      "tan",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "minimalist",
+      "casual",
+      "boho"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "midi skirts",
+      "layered under a blazer"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters"
+    ]
+  },
+  "item_id": "212510002"
+}

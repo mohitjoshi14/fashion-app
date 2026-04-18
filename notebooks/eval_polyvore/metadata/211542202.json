@@ -1,0 +1,51 @@
+{
+  "type": "denim shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "white",
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "distressed cut-offs"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "distressed",
+      "graphic",
+      "streetwear",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized graphic t-shirt",
+      "crop top",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazer",
+      "dress shoes"
+    ]
+  },
+  "item_id": "211542202"
+}

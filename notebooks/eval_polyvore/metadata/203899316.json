@@ -1,0 +1,55 @@
+{
+  "type": "corset crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "orange",
+      "red",
+      "purple",
+      "green",
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral embroidery",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped corset"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "bohemian",
+      "festival",
+      "summer",
+      "vintage-inspired"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "festival"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "maxi skirts",
+      "wide-leg linen trousers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "office trousers"
+    ]
+  },
+  "item_id": "203899316"
+}

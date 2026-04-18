@@ -1,0 +1,50 @@
+{
+  "type": "fringe tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "asymmetrical"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "boho",
+      "casual",
+      "festival",
+      "asymmetrical"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "festival"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "skinny jeans",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy wool trousers"
+    ]
+  },
+  "item_id": "150920890"
+}

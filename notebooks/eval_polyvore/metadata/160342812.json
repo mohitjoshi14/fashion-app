@@ -1,0 +1,55 @@
+{
+  "type": "long-sleeve boat neck top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "navy blue",
+      "red",
+      "yellow",
+      "blue",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped with graphic print",
+    "material": "cotton jersey"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "nautical",
+      "artistic",
+      "casual",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daytime"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "white trousers",
+      "navy blazer"
+    ],
+    "avoid_with": [
+      "heavily patterned bottoms",
+      "formal dress pants"
+    ]
+  },
+  "item_id": "160342812"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "button-down shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "off-white",
+    "all": [
+      "off-white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "silk"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "classic",
+      "minimalist",
+      "smart-casual",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "tailored trousers",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "heavily patterned bottoms",
+      "track pants"
+    ]
+  },
+  "item_id": "145868490"
+}

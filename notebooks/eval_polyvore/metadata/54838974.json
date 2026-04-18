@@ -1,0 +1,52 @@
+{
+  "type": "denim shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-waisted, raw hem"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "boho",
+      "distressed",
+      "casual",
+      "festival"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "festival",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white crop top",
+      "graphic t-shirt",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal blazer",
+      "dress shirt"
+    ]
+  },
+  "item_id": "54838974"
+}

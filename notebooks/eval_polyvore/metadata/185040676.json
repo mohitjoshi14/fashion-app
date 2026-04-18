@@ -1,0 +1,52 @@
+{
+  "type": "leggings",
+  "category": "bottoms",
+  "colors": {
+    "primary": "mustard yellow",
+    "all": [
+      "mustard yellow",
+      "navy blue",
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "abstract geometric",
+    "material": "synthetic blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "artistic",
+      "graphic",
+      "modern"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "activewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color oversized sweater",
+      "plain white t-shirt",
+      "denim jacket"
+    ],
+    "avoid_with": [
+      "other busy patterns",
+      "formal blazers"
+    ]
+  },
+  "item_id": "185040676"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "teal",
+    "all": [
+      "teal",
+      "blue",
+      "green",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "tropical print",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "tropical",
+      "bohemian",
+      "vacation",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim shorts",
+      "linen trousers",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy wool skirts"
+    ]
+  },
+  "item_id": "203029074"
+}

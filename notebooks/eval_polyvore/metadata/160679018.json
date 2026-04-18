@@ -1,0 +1,51 @@
+{
+  "type": "shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "teal",
+    "all": [
+      "teal",
+      "dark green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "regular",
+    "silhouette": "tailored"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "preppy",
+      "casual",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white polo shirt",
+      "striped breton top",
+      "loafers",
+      "white sneakers"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters",
+      "formal dress shirts"
+    ]
+  },
+  "item_id": "160679018"
+}

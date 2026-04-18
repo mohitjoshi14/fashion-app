@@ -1,0 +1,48 @@
+{
+  "type": "crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "mesh and cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "modern",
+      "sheer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted skirts",
+      "wide-leg trousers",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "low-rise bottoms"
+    ]
+  },
+  "item_id": "78911205"
+}

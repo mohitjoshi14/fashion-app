@@ -1,0 +1,52 @@
+{
+  "type": "distressed denim shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "light blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "high-waisted, frayed hem"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "boho",
+      "streetwear",
+      "distressed"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "festival"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "crop tops",
+      "graphic t-shirts",
+      "sandals",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress shirts"
+    ]
+  },
+  "item_id": "176228625"
+}

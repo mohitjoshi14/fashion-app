@@ -1,0 +1,49 @@
+{
+  "type": "sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "red",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral embroidery",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "bohemian",
+      "cozy",
+      "festive",
+      "vintage-inspired"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "holiday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "corduroy skirts"
+    ],
+    "avoid_with": [
+      "busy patterned bottoms"
+    ]
+  },
+  "item_id": "67123501"
+}

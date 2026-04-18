@@ -1,0 +1,50 @@
+{
+  "type": "tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "swing"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "bohemian",
+      "beachwear",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "linen trousers",
+      "maxi skirts"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy wool skirts"
+    ]
+  },
+  "item_id": "82171339"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "sleeveless vest",
+  "category": "outerwear",
+  "colors": {
+    "primary": "charcoal grey",
+    "all": [
+      "charcoal grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux suede and faux shearling"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "drape front"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "boho",
+      "cozy",
+      "layered",
+      "casual chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "long-sleeve fitted tops",
+      "turtlenecks",
+      "skinny jeans",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "formal evening gowns"
+    ]
+  },
+  "item_id": "156600261"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "blue",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "linen blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "nautical",
+      "preppy",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white tank top",
+      "espadrilles",
+      "denim jacket"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters",
+      "formal blazers"
+    ]
+  },
+  "item_id": "171138845"
+}

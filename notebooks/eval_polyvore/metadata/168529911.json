@@ -1,0 +1,50 @@
+{
+  "type": "t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "dusty rose",
+    "all": [
+      "dusty rose",
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "scoop neck"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "basic",
+      "everyday",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "white shorts",
+      "cardigans"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress slacks"
+    ]
+  },
+  "item_id": "168529911"
+}

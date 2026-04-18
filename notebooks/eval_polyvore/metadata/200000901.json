@@ -1,0 +1,52 @@
+{
+  "type": "wide-leg trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "chic",
+      "minimalist",
+      "bold",
+      "statement"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black or white fitted tank top",
+      "blouse",
+      "heeled sandals"
+    ],
+    "avoid_with": [
+      "heavily patterned tops",
+      "oversized sweaters"
+    ]
+  },
+  "item_id": "200000901"
+}

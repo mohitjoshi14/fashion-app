@@ -1,0 +1,49 @@
+{
+  "type": "teddy bear coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "pink",
+    "all": [
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux fur"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "cozy",
+      "chic",
+      "textured",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "skinny jeans",
+      "fitted turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "other heavy textured items"
+    ]
+  },
+  "item_id": "154221878"
+}

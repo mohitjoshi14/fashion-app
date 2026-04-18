@@ -1,0 +1,50 @@
+{
+  "type": "cable-knit sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "tan"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "cable-knit and open-knit",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "oversized"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "cozy",
+      "boho",
+      "casual",
+      "textured"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "skinny jeans",
+      "leggings",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky skirts",
+      "formal trousers"
+    ]
+  },
+  "item_id": "152132656"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "four_way_straight_arm_rack",
+  "display_name": "4-Way Straight Arm Garment Rack",
+  "fixture_type": "rack",
+  "material": "matte black steel",
+  "style": "minimalist industrial",
+  "slots": [
+    {
+      "id": "front_arm",
+      "display_name": "Front Straight Arm",
+      "display_type": "hanging",
+      "orientation": "side_hanging",
+      "capacity": 5,
+      "suitable_categories": [
+        "tops",
+        "bottoms",
+        "outerwear",
+        "full_body"
+      ],
+      "zone": {
+        "x": 0.26,
+        "y": 0.11,
+        "w": 0.2,
+        "h": 0.03
+      },
+      "position_description": "Front-facing horizontal arm",
+      "styling_notes": "Ideal for hero pieces or a small curated selection."
+    },
+    {
+      "id": "back_arm",
+      "display_name": "Back Straight Arm",
+      "display_type": "hanging",
+      "orientation": "side_hanging",
+      "capacity": 5,
+      "suitable_categories": [
+        "tops",
+        "bottoms",
+        "outerwear",
+        "full_body"
+      ],
+      "zone": {
+        "x": 0.56,
+        "y": 0.06,
+        "w": 0.15,
+        "h": 0.03
+      },
+      "position_description": "Rear-facing horizontal arm",
+      "styling_notes": "Good for secondary items or completing a look."
+    },
+    {
+      "id": "left_arm",
+      "display_name": "Left Straight Arm",
+      "display_type": "hanging",
+      "orientation": "side_hanging",
+      "capacity": 5,
+      "suitable_categories": [
+        "tops",
+        "bottoms",
+        "outerwear",
+        "full_body"
+      ],
+      "zone": {
+        "x": 0.06,
+        "y": 0.11,
+        "w": 0.2,
+        "h": 0.03
+      },
+      "position_description": "Left-side horizontal arm",
+      "styling_notes": "Use for color-blocking or size runs."
+    },
+    {
+      "id": "right_arm",
+      "display_name": "Right Straight Arm",
+      "display_type": "hanging",
+      "orientation": "side_hanging",
+      "capacity": 5,
+      "suitable_categories": [
+        "tops",
+        "bottoms",
+        "outerwear",
+        "full_body"
+      ],
+      "zone": {
+        "x": 0.76,
+        "y": 0.11,
+        "w": 0.2,
+        "h": 0.03
+      },
+      "position_description": "Right-side horizontal arm",
+      "styling_notes": "Use for color-blocking or size runs."
+    }
+  ],
+  "total_capacity": 20,
+  "suitable_aesthetics": [
+    "contemporary",
+    "streetwear",
+    "minimalist"
+  ],
+  "fixture_notes": "A versatile 4-way rack for displaying a curated collection with 360-degree visibility. Ideal for central floor placement.",
+  "_source_image": "fix_1.jpg"
+}

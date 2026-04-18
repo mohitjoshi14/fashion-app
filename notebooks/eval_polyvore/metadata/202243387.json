@@ -1,0 +1,50 @@
+{
+  "type": "tunic",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "oversized",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "bohemian",
+      "playful"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit leggings",
+      "skinny jeans",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "voluminous skirts",
+      "wide-leg trousers"
+    ]
+  },
+  "item_id": "202243387"
+}

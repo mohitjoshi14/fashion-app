@@ -1,0 +1,50 @@
+{
+  "type": "skater skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "pink",
+    "all": [
+      "pink",
+      "white",
+      "peach"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "kawaii",
+      "playful",
+      "casual",
+      "youthful"
+    ],
+    "occasion_suitability": [
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid white t-shirt",
+      "denim jacket",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "patterned tops"
+    ]
+  },
+  "item_id": "149897122"
+}

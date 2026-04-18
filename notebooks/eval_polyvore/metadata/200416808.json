@@ -1,0 +1,52 @@
+{
+  "type": "midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "off-white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "eyelet",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "bohemian",
+      "feminine",
+      "preppy",
+      "romantic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted tank top",
+      "denim jacket",
+      "espadrilles",
+      "sandals"
+    ],
+    "avoid_with": [
+      "heavy oversized sweaters",
+      "bulky winter boots"
+    ]
+  },
+  "item_id": "200416808"
+}

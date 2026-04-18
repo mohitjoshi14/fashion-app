@@ -1,0 +1,53 @@
+{
+  "type": "long-sleeve crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "blue",
+      "yellow",
+      "green",
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "fandom",
+      "sporty",
+      "graphic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "leggings",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "pencil skirts"
+    ]
+  },
+  "item_id": "63983121"
+}

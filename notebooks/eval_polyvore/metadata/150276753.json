@@ -1,0 +1,49 @@
+{
+  "type": "button-down shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "linen"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "preppy",
+      "resort"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "tailored trousers",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "heavy winter layers"
+    ]
+  },
+  "item_id": "150276753"
+}

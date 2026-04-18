@@ -1,0 +1,51 @@
+{
+  "type": "ruffle hem shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black and white",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "gingham",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "preppy",
+      "casual",
+      "girly",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color tank top",
+      "white blouse",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy winter boots"
+    ]
+  },
+  "item_id": "212846035"
+}

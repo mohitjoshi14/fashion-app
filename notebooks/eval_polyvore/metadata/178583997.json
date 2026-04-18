@@ -1,0 +1,52 @@
+{
+  "type": "pleated midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "chiffon"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "classic",
+      "minimalist",
+      "elegant",
+      "versatile"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "silk blouse",
+      "ankle boots",
+      "heels"
+    ],
+    "avoid_with": [
+      "oversized bulky sweaters that hide the waist"
+    ]
+  },
+  "item_id": "178583997"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "brown",
+      "red",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "crew neck"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "holiday",
+      "festive",
+      "casual",
+      "novelty"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "winter",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "leggings",
+      "casual trousers"
+    ],
+    "avoid_with": [
+      "formal slacks",
+      "business attire"
+    ]
+  },
+  "item_id": "193093771"
+}

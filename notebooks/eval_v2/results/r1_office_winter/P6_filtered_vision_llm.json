@@ -1,0 +1,39 @@
+{
+  "run_id": "r1_office_winter",
+  "pipeline": "P6_filtered_vision_llm",
+  "prompt": {
+    "occasion": "office wear",
+    "season": "winter"
+  },
+  "recommendations": [
+    {
+      "tops": "107667674",
+      "bottoms": "110956733",
+      "outerwear": "101311698"
+    },
+    {
+      "tops": "102089558",
+      "bottoms": "100468083",
+      "outerwear": "116336119"
+    },
+    {
+      "tops": "109145860",
+      "bottoms": "103142849",
+      "outerwear": "104614376"
+    },
+    {
+      "tops": "106377784",
+      "bottoms": "115196190",
+      "outerwear": "106451329"
+    },
+    {
+      "tops": "109430068",
+      "bottoms": "115197282"
+    }
+  ],
+  "latency_s": 8.61,
+  "input_tokens": 20030,
+  "output_tokens": 271,
+  "cost_usd": 0.005414,
+  "filter_size": 18
+}

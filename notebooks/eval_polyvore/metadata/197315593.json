@@ -1,0 +1,54 @@
+{
+  "type": "sleeveless blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "yellow",
+      "pink",
+      "orange",
+      "turquoise"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "playful",
+      "resort",
+      "graphic",
+      "summer-chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim shorts",
+      "linen trousers",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "heavy winter layers",
+      "formal blazers"
+    ]
+  },
+  "item_id": "197315593"
+}

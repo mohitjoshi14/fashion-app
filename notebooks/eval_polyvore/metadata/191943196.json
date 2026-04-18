@@ -1,0 +1,50 @@
+{
+  "type": "wide-leg trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "peach",
+    "all": [
+      "peach",
+      "light pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "bohemian",
+      "resort wear",
+      "chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted white tank top",
+      "tucked-in blouse",
+      "wedge sandals"
+    ],
+    "avoid_with": [
+      "oversized sweaters",
+      "bulky tunics"
+    ]
+  },
+  "item_id": "191943196"
+}

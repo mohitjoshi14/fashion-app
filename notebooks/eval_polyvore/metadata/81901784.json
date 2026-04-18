@@ -1,0 +1,52 @@
+{
+  "type": "quarter-zip pullover",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "athletic"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "athletic",
+      "sportswear",
+      "activewear",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "leggings",
+      "joggers",
+      "athletic shorts"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "dress skirts"
+    ]
+  },
+  "item_id": "81901784"
+}

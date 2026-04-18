@@ -1,0 +1,51 @@
+{
+  "type": "bomber jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "rose gold",
+    "all": [
+      "rose gold",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "metallic synthetic"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "sporty",
+      "metallic",
+      "streetwear",
+      "glam"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "white t-shirt",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "other metallic pieces",
+      "formal trousers"
+    ]
+  },
+  "item_id": "194777467"
+}

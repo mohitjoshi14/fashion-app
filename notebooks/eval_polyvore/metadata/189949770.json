@@ -1,0 +1,50 @@
+{
+  "type": "long-sleeve t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "peach",
+    "all": [
+      "peach",
+      "light pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "raglan sleeve"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "basic",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim jeans",
+      "blue jeans",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "heavy wool blazers"
+    ]
+  },
+  "item_id": "189949770"
+}

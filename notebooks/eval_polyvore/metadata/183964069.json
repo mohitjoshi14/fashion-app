@@ -1,0 +1,50 @@
+{
+  "type": "tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "sleeveless"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "graphic",
+      "casual",
+      "humorous",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "joggers",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "blazers",
+      "dress pants"
+    ]
+  },
+  "item_id": "183964069"
+}

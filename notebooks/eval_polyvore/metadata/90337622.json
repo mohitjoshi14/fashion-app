@@ -1,0 +1,49 @@
+{
+  "type": "open-front cardigan",
+  "category": "outerwear",
+  "colors": {
+    "primary": "turquoise",
+    "all": [
+      "turquoise",
+      "teal"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "jersey knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "drapey"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "layering",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white tank top",
+      "jeans",
+      "leggings"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "formal evening gowns"
+    ]
+  },
+  "item_id": "90337622"
+}

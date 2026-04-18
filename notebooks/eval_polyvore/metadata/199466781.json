@@ -1,0 +1,53 @@
+{
+  "type": "denim shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "pink",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral embroidery with distressed details",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "boho",
+      "distressed",
+      "casual",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "festival"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white crop top",
+      "graphic t-shirt",
+      "sneakers",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal blazer",
+      "dress shirt"
+    ]
+  },
+  "item_id": "199466781"
+}

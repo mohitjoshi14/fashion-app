@@ -1,0 +1,51 @@
+{
+  "type": "faux fur sweatshirt",
+  "category": "tops",
+  "colors": {
+    "primary": "leopard print",
+    "all": [
+      "black",
+      "beige",
+      "teal"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "leopard print",
+    "material": "faux fur"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "crew neck pullover"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "bold",
+      "statement",
+      "streetwear",
+      "cozy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "leather leggings",
+      "solid colored skirts"
+    ],
+    "avoid_with": [
+      "other animal prints",
+      "busy patterns"
+    ]
+  },
+  "item_id": "120253873"
+}

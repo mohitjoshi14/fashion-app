@@ -1,0 +1,49 @@
+{
+  "type": "cold-shoulder ruffle top",
+  "category": "tops",
+  "colors": {
+    "primary": "pink",
+    "all": [
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "flared"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "feminine",
+      "romantic",
+      "boho-chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim jeans",
+      "denim shorts",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "heavy winter layers",
+      "formal blazers"
+    ]
+  },
+  "item_id": "207909423"
+}

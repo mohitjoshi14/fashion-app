@@ -1,0 +1,49 @@
+{
+  "type": "graphic t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "dusty pink",
+    "all": [
+      "dusty pink",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "graphic",
+      "inspirational",
+      "everyday"
+    ],
+    "occasion_suitability": [
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "denim shorts",
+      "casual sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress trousers"
+    ]
+  },
+  "item_id": "76741433"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "open-front cardigan",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "drapey"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "casual",
+      "layering piece"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "jeans",
+      "leggings"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters"
+    ]
+  },
+  "item_id": "140955392"
+}

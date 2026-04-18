@@ -1,0 +1,51 @@
+{
+  "type": "blazer",
+  "category": "outerwear",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "tailored"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "classic",
+      "preppy",
+      "professional",
+      "structured"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "business casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black trousers",
+      "white blouse",
+      "pencil skirt"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "athletic wear"
+    ]
+  },
+  "item_id": "53182007"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "peplum sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "blush pink",
+    "all": [
+      "blush pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "fitted",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "feminine",
+      "minimalist",
+      "elegant"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "pencil skirts",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "voluminous maxi skirts",
+      "baggy cargo pants"
+    ]
+  },
+  "item_id": "185314986"
+}

@@ -1,0 +1,23 @@
+{
+  "slot_assignments": {
+    "front_hanging_rail": {
+      "assigned_items": [
+        "107667674.jpg",
+        "208784763.jpg"
+      ],
+      "display_arrangement": "Side-hanging, front-facing, layered to show the black mock neck base with the red-accented tie-front top.",
+      "styling_note": "The black and red color story aligns with the Rubby Fire theme, providing a bold, minimalist base for the collection."
+    },
+    "bottom_base_shelf": {
+      "assigned_items": [
+        "165661979.jpg",
+        "161862906.jpg"
+      ],
+      "display_arrangement": "Neatly folded and stacked, showcasing the vibrant floral patterns.",
+      "styling_note": "These bottoms add the necessary 'vibrant' and 'nature-inspired' elements to the display, contrasting with the minimalist tops."
+    }
+  },
+  "total_items_selected": 4,
+  "moodboard_alignment_score": 0.9,
+  "selection_reasoning": "The selection focuses on the 'Rubby Fire' theme by prioritizing black, red, and vibrant floral patterns. By pairing the minimalist black mock neck with the red-accented tie-front top, we create a dramatic, avant-garde silhouette. The floral bottoms introduce the requested natural inspiration and vibrant color palette while maintaining a summer-casual feel."
+}

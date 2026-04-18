@@ -1,0 +1,54 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "magenta",
+      "white",
+      "silver"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "embroidered",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "edgy",
+      "embellished",
+      "rock-chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black turtleneck",
+      "fitted white tank top",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "heavily patterned tops",
+      "formal blazers"
+    ]
+  },
+  "item_id": "170458522"
+}

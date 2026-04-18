@@ -1,0 +1,48 @@
+{
+  "type": "sleeveless blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "preppy",
+      "minimalist",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black tailored trousers",
+      "pencil skirt",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "patterned skirts that clash with the collar detail"
+    ]
+  },
+  "item_id": "98040379"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "draped sleeveless top",
+  "category": "tops",
+  "colors": {
+    "primary": "off-white",
+    "all": [
+      "off-white",
+      "cream"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "silk blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "draped"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "minimalist",
+      "elegant",
+      "architectural",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "minimalist jewelry"
+    ],
+    "avoid_with": [
+      "distressed denim",
+      "oversized cargo pants"
+    ]
+  },
+  "item_id": "209979707"
+}

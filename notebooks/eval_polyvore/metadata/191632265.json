@@ -1,0 +1,52 @@
+{
+  "type": "poncho cardigan",
+  "category": "outerwear",
+  "colors": {
+    "primary": "brown",
+    "all": [
+      "brown",
+      "tan",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "geometric",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "oversized",
+    "silhouette": "draped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "boho",
+      "southwestern",
+      "cozy",
+      "layered"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted jeans",
+      "leggings",
+      "ankle boots",
+      "long-sleeve base layer"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "oversized dresses"
+    ]
+  },
+  "item_id": "191632265"
+}

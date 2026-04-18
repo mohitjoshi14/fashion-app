@@ -1,0 +1,51 @@
+{
+  "type": "crew neck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "grey",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "marl",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "cozy",
+      "classic",
+      "heritage"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "chinos",
+      "collared shirts underneath"
+    ],
+    "avoid_with": [
+      "formal dress trousers",
+      "bright neon colors"
+    ]
+  },
+  "item_id": "99081332"
+}

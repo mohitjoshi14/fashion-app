@@ -1,0 +1,54 @@
+{
+  "type": "shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "multi-color",
+    "all": [
+      "black",
+      "green",
+      "orange",
+      "yellow",
+      "purple"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "tapestry"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "vintage",
+      "bohemian",
+      "retro",
+      "tapestry"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color tank top",
+      "fitted black turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "neon colors"
+    ]
+  },
+  "item_id": "165661979"
+}

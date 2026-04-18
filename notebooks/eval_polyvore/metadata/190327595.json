@@ -1,0 +1,49 @@
+{
+  "type": "mock neck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "cozy",
+      "basic",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blue jeans",
+      "midi skirts",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "busy patterns",
+      "clashing textures"
+    ]
+  },
+  "item_id": "190327595"
+}

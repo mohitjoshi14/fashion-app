@@ -1,0 +1,54 @@
+{
+  "type": "racerback tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "brown",
+      "black",
+      "orange",
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "racerback"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "graphic",
+      "artistic",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "leggings",
+      "casual sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress trousers"
+    ]
+  },
+  "item_id": "211971443"
+}

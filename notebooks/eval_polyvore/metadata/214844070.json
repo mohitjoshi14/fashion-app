@@ -1,0 +1,50 @@
+{
+  "type": "sleeveless mock neck bodysuit",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "ribbed",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "sleek",
+      "modern",
+      "basic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "midi skirts",
+      "blazers"
+    ],
+    "avoid_with": [
+      "bulky sweaters"
+    ]
+  },
+  "item_id": "214844070"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "skinny jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "gold",
+    "all": [
+      "gold",
+      "metallic"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "paisley",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "glam",
+      "statement",
+      "metallic",
+      "edgy"
+    ],
+    "occasion_suitability": [
+      "party",
+      "night out",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black silk camisole",
+      "black leather jacket",
+      "heeled ankle boots"
+    ],
+    "avoid_with": [
+      "other busy patterns",
+      "neon colors"
+    ]
+  },
+  "item_id": "169902128"
+}

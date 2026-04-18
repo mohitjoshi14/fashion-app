@@ -1,0 +1,49 @@
+{
+  "type": "off-the-shoulder crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "bell sleeve crop"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "boho",
+      "summery",
+      "playful"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "white linen pants",
+      "maxi skirts"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy winter layers"
+    ]
+  },
+  "item_id": "204838680"
+}

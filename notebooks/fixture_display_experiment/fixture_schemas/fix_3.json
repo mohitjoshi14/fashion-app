@@ -1,0 +1,55 @@
+{
+  "id": "chrome_two_arm_hook_stand",
+  "display_name": "Chrome Two-Arm Hook Stand",
+  "fixture_type": "stand",
+  "material": "chrome steel",
+  "style": "minimalist",
+  "slots": [
+    {
+      "id": "left_hook_arm",
+      "display_name": "Left Hook Arm",
+      "display_type": "hooked",
+      "orientation": "front_facing",
+      "capacity": 5,
+      "suitable_categories": [
+        "accessories",
+        "tops"
+      ],
+      "zone": {
+        "x": 0.301,
+        "y": 0.144,
+        "w": 0.199,
+        "h": 0.137
+      },
+      "position_description": "Lower horizontal arm extending to the left",
+      "styling_notes": "Ideal for displaying scarves, belts, or lightweight tops."
+    },
+    {
+      "id": "right_hook_arm",
+      "display_name": "Right Hook Arm",
+      "display_type": "hooked",
+      "orientation": "front_facing",
+      "capacity": 5,
+      "suitable_categories": [
+        "accessories",
+        "tops"
+      ],
+      "zone": {
+        "x": 0.531,
+        "y": 0.068,
+        "w": 0.186,
+        "h": 0.132
+      },
+      "position_description": "Upper horizontal arm extending to the right",
+      "styling_notes": "Ideal for displaying scarves, belts, or lightweight tops."
+    }
+  ],
+  "total_capacity": 10,
+  "suitable_aesthetics": [
+    "contemporary",
+    "minimalist",
+    "boutique"
+  ],
+  "fixture_notes": "A versatile stand for displaying a variety of small accessories or lightweight garments. The staggered arms create visual depth.",
+  "_source_image": "fix_3.jpg"
+}

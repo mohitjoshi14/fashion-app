@@ -1,0 +1,49 @@
+{
+  "type": "off-the-shoulder crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "flared"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "romantic",
+      "summery"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "midi skirts",
+      "wide-leg trousers"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "formal blazers"
+    ]
+  },
+  "item_id": "206757346"
+}

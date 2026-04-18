@@ -1,0 +1,50 @@
+{
+  "type": "t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "navy",
+    "all": [
+      "navy",
+      "white",
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "flag",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "patriotic",
+      "casual",
+      "graphic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "holiday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "blue jeans",
+      "white sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "patterned skirts"
+    ]
+  },
+  "item_id": "177006549"
+}

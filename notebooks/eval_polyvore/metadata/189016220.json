@@ -1,0 +1,52 @@
+{
+  "type": "blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "pink",
+      "white",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "chiffon"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "bishop sleeve crop top"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "romantic",
+      "bohemian",
+      "feminine",
+      "vintage-inspired"
+    ],
+    "occasion_suitability": [
+      "party",
+      "date night",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "leather mini skirt",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "patterned bottoms that clash with floral print"
+    ]
+  },
+  "item_id": "189016220"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "multi-colored",
+    "all": [
+      "pink",
+      "blue",
+      "tan",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "patchwork plaid and floral",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "mid-rise"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "bohemian",
+      "casual",
+      "eclectic",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color tank top",
+      "white t-shirt",
+      "denim jacket"
+    ],
+    "avoid_with": [
+      "other busy patterns",
+      "formal blouses"
+    ]
+  },
+  "item_id": "111524809"
+}

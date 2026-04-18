@@ -1,0 +1,50 @@
+{
+  "type": "coated skinny jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "coated denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "edgy",
+      "rock-chic",
+      "biker-inspired"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized knit sweaters",
+      "leather jackets",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "very loose-fitting trousers"
+    ]
+  },
+  "item_id": "183555557"
+}

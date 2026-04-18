@@ -1,0 +1,49 @@
+{
+  "type": "open-knit sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "sage green",
+    "all": [
+      "sage green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "open-knit",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "boho",
+      "cozy",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white camisole underneath",
+      "denim jeans",
+      "leggings"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "patterned skirts"
+    ]
+  },
+  "item_id": "68424679"
+}

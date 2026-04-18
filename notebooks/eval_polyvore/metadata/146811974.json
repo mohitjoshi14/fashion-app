@@ -1,0 +1,53 @@
+{
+  "type": "faux fur vest",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux fur"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "glamorous",
+      "bohemian",
+      "luxurious",
+      "layered"
+    ],
+    "occasion_suitability": [
+      "party",
+      "evening",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted long-sleeve tops",
+      "turtlenecks",
+      "skinny jeans",
+      "leather leggings"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "other heavy fur items"
+    ]
+  },
+  "item_id": "146811974"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "bralette",
+  "category": "tops",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "satin"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "lingerie",
+      "boudoir",
+      "strappy",
+      "seductive"
+    ],
+    "occasion_suitability": [
+      "party",
+      "intimate"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "blazer",
+      "sheer blouse"
+    ],
+    "avoid_with": [
+      "casual athletic wear"
+    ]
+  },
+  "item_id": "194730401"
+}

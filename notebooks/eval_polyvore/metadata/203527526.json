@@ -1,0 +1,53 @@
+{
+  "type": "patchwork jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "light blue",
+      "medium blue",
+      "dark blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "patchwork",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "streetwear",
+      "vintage-inspired",
+      "bohemian"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "oversized sweater",
+      "sneakers",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress shirts"
+    ]
+  },
+  "item_id": "203527526"
+}

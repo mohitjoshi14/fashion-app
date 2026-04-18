@@ -1,0 +1,48 @@
+{
+  "type": "peplum top",
+  "category": "tops",
+  "colors": {
+    "primary": "orange",
+    "all": [
+      "orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "fitted",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "elegant",
+      "structured",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "pencil skirt"
+    ],
+    "avoid_with": [
+      "voluminous skirts",
+      "wide-leg pants"
+    ]
+  },
+  "item_id": "200138015"
+}

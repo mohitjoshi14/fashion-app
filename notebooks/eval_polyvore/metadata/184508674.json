@@ -1,0 +1,49 @@
+{
+  "type": "off-the-shoulder bodysuit",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "jersey"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "feminine",
+      "minimalist",
+      "chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "midi skirts",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "low-rise bottoms"
+    ]
+  },
+  "item_id": "184508674"
+}

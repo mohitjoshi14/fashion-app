@@ -1,0 +1,49 @@
+{
+  "type": "sleeveless suede top",
+  "category": "tops",
+  "colors": {
+    "primary": "brown",
+    "all": [
+      "brown",
+      "tan"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "suede"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "bohemian",
+      "vintage",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white button-down shirt underneath",
+      "denim jeans",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "other heavy suede items",
+      "clashing earth tones"
+    ]
+  },
+  "item_id": "144423342"
+}

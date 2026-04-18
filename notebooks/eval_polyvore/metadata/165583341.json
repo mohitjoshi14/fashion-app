@@ -1,0 +1,50 @@
+{
+  "type": "blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "paint splatter",
+    "material": "polyester"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "oversized"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "artistic",
+      "vintage",
+      "bold",
+      "statement"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "leather leggings",
+      "neutral trousers"
+    ],
+    "avoid_with": [
+      "busy patterned bottoms",
+      "other bright primary colors"
+    ]
+  },
+  "item_id": "165583341"
+}

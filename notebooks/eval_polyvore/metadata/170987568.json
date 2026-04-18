@@ -1,0 +1,53 @@
+{
+  "type": "distressed skinny jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "light blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "distressed",
+      "streetwear",
+      "everyday"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized t-shirts",
+      "hoodies",
+      "sneakers",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress shirts"
+    ]
+  },
+  "item_id": "170987568"
+}

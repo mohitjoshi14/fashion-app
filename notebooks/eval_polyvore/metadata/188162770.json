@@ -1,0 +1,50 @@
+{
+  "type": "fuzzy knit sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "charcoal"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "mohair blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "cozy",
+      "casual",
+      "textured",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "leather leggings",
+      "denim skirts"
+    ],
+    "avoid_with": [
+      "bulky oversized scarves",
+      "patterned trousers"
+    ]
+  },
+  "item_id": "188162770"
+}

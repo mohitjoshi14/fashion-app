@@ -1,0 +1,47 @@
+{
+  "type": "crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "dusty rose",
+    "all": [
+      "dusty rose",
+      "mauve"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "edgy",
+      "streetwear",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "low-rise bottoms"
+    ]
+  },
+  "item_id": "200692556"
+}

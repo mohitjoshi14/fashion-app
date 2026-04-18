@@ -1,0 +1,122 @@
+[
+  {
+    "source_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/model_images/1.jpeg",
+    "backend": "fashn_human_parser",
+    "label": "dress",
+    "pixels": 66479,
+    "bbox_xyxy": [
+      109,
+      102,
+      344,
+      579
+    ],
+    "rgba_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser/1/dress.png",
+    "white_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser/1/dress_white.png",
+    "overlay_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser/1/_overlay.png"
+  },
+  {
+    "source_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/model_images/1.jpeg",
+    "backend": "fashn_human_parser_sam",
+    "label": "dress",
+    "pixels": 64198,
+    "bbox_xyxy": [
+      125,
+      103,
+      342,
+      578
+    ],
+    "rgba_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser_sam/1/dress.png",
+    "white_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser_sam/1/dress_white.png",
+    "overlay_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser_sam/1/_overlay.png"
+  },
+  {
+    "source_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/model_images/1.jpeg",
+    "backend": "segformer_b2_clothes",
+    "label": "dress",
+    "pixels": 65640,
+    "bbox_xyxy": [
+      124,
+      101,
+      343,
+      578
+    ],
+    "rgba_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes/1/dress.png",
+    "white_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes/1/dress_white.png",
+    "overlay_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes/1/_overlay.png"
+  },
+  {
+    "source_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/model_images/1.jpeg",
+    "backend": "segformer_b2_clothes_sam",
+    "label": "dress",
+    "pixels": 65327,
+    "bbox_xyxy": [
+      125,
+      103,
+      342,
+      578
+    ],
+    "rgba_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes_sam/1/dress.png",
+    "white_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes_sam/1/dress_white.png",
+    "overlay_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes_sam/1/_overlay.png"
+  },
+  {
+    "source_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/model_images/2.jpeg",
+    "backend": "fashn_human_parser",
+    "label": "dress",
+    "pixels": 86648,
+    "bbox_xyxy": [
+      42,
+      122,
+      337,
+      532
+    ],
+    "rgba_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser/2/dress.png",
+    "white_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser/2/dress_white.png",
+    "overlay_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser/2/_overlay.png"
+  },
+  {
+    "source_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/model_images/2.jpeg",
+    "backend": "fashn_human_parser_sam",
+    "label": "dress",
+    "pixels": 83133,
+    "bbox_xyxy": [
+      52,
+      123,
+      334,
+      526
+    ],
+    "rgba_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser_sam/2/dress.png",
+    "white_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser_sam/2/dress_white.png",
+    "overlay_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/fashn_human_parser_sam/2/_overlay.png"
+  },
+  {
+    "source_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/model_images/2.jpeg",
+    "backend": "segformer_b2_clothes",
+    "label": "dress",
+    "pixels": 85388,
+    "bbox_xyxy": [
+      52,
+      123,
+      337,
+      529
+    ],
+    "rgba_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes/2/dress.png",
+    "white_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes/2/dress_white.png",
+    "overlay_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes/2/_overlay.png"
+  },
+  {
+    "source_image": "/Users/mohitjoshi/Projects/fashion-app/notebooks/model_images/2.jpeg",
+    "backend": "segformer_b2_clothes_sam",
+    "label": "dress",
+    "pixels": 83110,
+    "bbox_xyxy": [
+      52,
+      123,
+      334,
+      526
+    ],
+    "rgba_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes_sam/2/dress.png",
+    "white_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes_sam/2/dress_white.png",
+    "overlay_path": "/Users/mohitjoshi/Projects/fashion-app/notebooks/outputs/clothes_extraction/segformer_b2_clothes_sam/2/_overlay.png"
+  }
+]

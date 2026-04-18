@@ -1,0 +1,50 @@
+{
+  "type": "stirrup trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "tapered"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "tailored",
+      "minimalist",
+      "retro-inspired"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized blazer",
+      "fitted turtleneck",
+      "pointed-toe heels"
+    ],
+    "avoid_with": [
+      "bulky sneakers",
+      "casual hoodies"
+    ]
+  },
+  "item_id": "199906596"
+}

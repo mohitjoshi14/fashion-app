@@ -1,0 +1,52 @@
+{
+  "type": "sweatshirt",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black",
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "cute",
+      "graphic",
+      "loungewear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "leggings",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "201537775"
+}

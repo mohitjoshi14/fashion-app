@@ -1,0 +1,48 @@
+{
+  "type": "shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cuffed hem"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "summer",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "striped tank top",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy winter boots"
+    ]
+  },
+  "item_id": "174692205"
+}

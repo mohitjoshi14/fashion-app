@@ -1,0 +1,53 @@
+{
+  "type": "shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white",
+      "pale pink",
+      "light blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "tropical",
+      "vacation",
+      "bohemian",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid white tank top",
+      "crop top",
+      "sandals"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters",
+      "formal blazers"
+    ]
+  },
+  "item_id": "134877968"
+}

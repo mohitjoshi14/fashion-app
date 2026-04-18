@@ -1,0 +1,53 @@
+{
+  "type": "leggings",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "yellow",
+      "pink",
+      "blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "novelty",
+      "playful",
+      "pop-culture",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color oversized t-shirt",
+      "denim jacket",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "patterned tops",
+      "formal blazers"
+    ]
+  },
+  "item_id": "156931171"
+}

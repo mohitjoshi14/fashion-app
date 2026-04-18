@@ -1,0 +1,50 @@
+{
+  "type": "striped long-sleeve sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "navy blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "nautical",
+      "preppy",
+      "classic",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "chinos",
+      "trench coat"
+    ],
+    "avoid_with": [
+      "heavily patterned bottoms"
+    ]
+  },
+  "item_id": "140915254"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "pea coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "double-breasted"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "classic",
+      "preppy",
+      "nautical",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark wash denim",
+      "black turtleneck",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "bright neon patterns",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "149806492"
+}

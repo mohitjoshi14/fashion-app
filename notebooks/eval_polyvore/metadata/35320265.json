@@ -1,0 +1,49 @@
+{
+  "type": "shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "hot pink",
+    "all": [
+      "hot pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "paperbag waist"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "playful",
+      "girly",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white tank top",
+      "graphic t-shirt",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy winter boots"
+    ]
+  },
+  "item_id": "35320265"
+}

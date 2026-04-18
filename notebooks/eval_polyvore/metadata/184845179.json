@@ -1,0 +1,53 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "silver"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "edgy",
+      "rock-chic",
+      "punk",
+      "embellished"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "graphic t-shirt",
+      "ankle boots",
+      "leather jacket"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "preppy blouses"
+    ]
+  },
+  "item_id": "184845179"
+}

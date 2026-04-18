@@ -1,0 +1,50 @@
+{
+  "type": "sleeveless button-down shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "minimalist",
+      "preppy",
+      "classic",
+      "business casual"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "heavy winter layers",
+      "athletic shorts"
+    ]
+  },
+  "item_id": "166690340"
+}

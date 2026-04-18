@@ -1,0 +1,52 @@
+{
+  "type": "faux fur collar coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "charcoal",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "colorblock",
+    "material": "wool blend, faux fur"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "drape front"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "elegant",
+      "sophisticated",
+      "chic",
+      "winter-glam"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "turtleneck sweaters",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "athletic wear"
+    ]
+  },
+  "item_id": "183989401"
+}

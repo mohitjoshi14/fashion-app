@@ -1,0 +1,52 @@
+{
+  "type": "plaid tunic blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "brown",
+    "all": [
+      "brown",
+      "black",
+      "cream",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "rayon/cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tunic"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "boho",
+      "preppy",
+      "relaxed"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark wash skinny jeans",
+      "leggings",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "patterned skirts",
+      "formal trousers"
+    ]
+  },
+  "item_id": "185215516"
+}

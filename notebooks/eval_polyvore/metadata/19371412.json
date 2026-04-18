@@ -1,0 +1,51 @@
+{
+  "type": "cuffed shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue",
+      "white",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-waisted"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "nautical",
+      "preppy",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white tank top",
+      "solid navy t-shirt",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "heavily patterned tops",
+      "formal blazers"
+    ]
+  },
+  "item_id": "19371412"
+}

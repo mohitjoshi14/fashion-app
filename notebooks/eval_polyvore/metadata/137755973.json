@@ -1,0 +1,53 @@
+{
+  "type": "trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "classic",
+      "preppy",
+      "tailored",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color turtleneck",
+      "fitted blazer",
+      "loafers",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "loud patterned tops",
+      "athletic hoodies"
+    ]
+  },
+  "item_id": "137755973"
+}

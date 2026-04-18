@@ -1,0 +1,2341 @@
+[
+  {
+    "set_id": "211305731",
+    "ground_truth": {
+      "tops": "182455006",
+      "bottoms": "179904105",
+      "outerwear": "191688466"
+    },
+    "wardrobe": [
+      {
+        "item_id": "140743092",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "200429442",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "84754893",
+        "category": "tops"
+      },
+      {
+        "item_id": "210228247",
+        "category": "tops"
+      },
+      {
+        "item_id": "191688466",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "182573206",
+        "category": "tops"
+      },
+      {
+        "item_id": "182455006",
+        "category": "tops"
+      },
+      {
+        "item_id": "206367135",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "179904105",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "199937475",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "116897453",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "145954105",
+        "category": "outerwear"
+      }
+    ]
+  },
+  {
+    "set_id": "171344131",
+    "ground_truth": {
+      "tops": "136317099",
+      "bottoms": "86479203"
+    },
+    "wardrobe": [
+      {
+        "item_id": "126815219",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "194408315",
+        "category": "tops"
+      },
+      {
+        "item_id": "117576567",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "213004875",
+        "category": "tops"
+      },
+      {
+        "item_id": "104575272",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "86479203",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "136317099",
+        "category": "tops"
+      },
+      {
+        "item_id": "115902161",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "221646656",
+    "ground_truth": {
+      "tops": "209238925",
+      "bottoms": "185040676"
+    },
+    "wardrobe": [
+      {
+        "item_id": "167792481",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "120253873",
+        "category": "tops"
+      },
+      {
+        "item_id": "178583997",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "185040676",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "209238925",
+        "category": "tops"
+      },
+      {
+        "item_id": "68424679",
+        "category": "tops"
+      },
+      {
+        "item_id": "200006002",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "171522490",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "222781658",
+    "ground_truth": {
+      "tops": "200787550",
+      "bottoms": "170613999"
+    },
+    "wardrobe": [
+      {
+        "item_id": "158291211",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "92732076",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "160342812",
+        "category": "tops"
+      },
+      {
+        "item_id": "170613999",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "200787550",
+        "category": "tops"
+      },
+      {
+        "item_id": "145868490",
+        "category": "tops"
+      },
+      {
+        "item_id": "65205037",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "191174159",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "215241540",
+    "ground_truth": {
+      "tops": "177183903",
+      "bottoms": "154960331",
+      "outerwear": "185842819"
+    },
+    "wardrobe": [
+      {
+        "item_id": "177183903",
+        "category": "tops"
+      },
+      {
+        "item_id": "212813860",
+        "category": "tops"
+      },
+      {
+        "item_id": "191617374",
+        "category": "tops"
+      },
+      {
+        "item_id": "103431956",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "147255789",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "116336119",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "154960331",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "150276753",
+        "category": "tops"
+      },
+      {
+        "item_id": "185842819",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "189461998",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "144351285",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "190530658",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "141377292",
+    "ground_truth": {
+      "tops": "99672147",
+      "bottoms": "107755977"
+    },
+    "wardrobe": [
+      {
+        "item_id": "174686226",
+        "category": "tops"
+      },
+      {
+        "item_id": "179404317",
+        "category": "tops"
+      },
+      {
+        "item_id": "173212917",
+        "category": "tops"
+      },
+      {
+        "item_id": "107755977",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "34494068",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "164710122",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "99672147",
+        "category": "tops"
+      },
+      {
+        "item_id": "200363939",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "210380527",
+    "ground_truth": {
+      "tops": "181144813",
+      "bottoms": "184090583",
+      "outerwear": "187637203"
+    },
+    "wardrobe": [
+      {
+        "item_id": "194730401",
+        "category": "tops"
+      },
+      {
+        "item_id": "136640367",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "189860516",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "206809631",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "187637203",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "63364617",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "203622949",
+        "category": "tops"
+      },
+      {
+        "item_id": "184090583",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "181144813",
+        "category": "tops"
+      },
+      {
+        "item_id": "193995893",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "183376442",
+        "category": "tops"
+      },
+      {
+        "item_id": "176228625",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "181964764",
+    "ground_truth": {
+      "tops": "152132656",
+      "bottoms": "115196190",
+      "outerwear": "146191145"
+    },
+    "wardrobe": [
+      {
+        "item_id": "160679018",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "203405376",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "99081332",
+        "category": "tops"
+      },
+      {
+        "item_id": "152132656",
+        "category": "tops"
+      },
+      {
+        "item_id": "156931171",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "146191145",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "191632265",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "204838680",
+        "category": "tops"
+      },
+      {
+        "item_id": "92577590",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "192578653",
+        "category": "tops"
+      },
+      {
+        "item_id": "115196190",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "203636956",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "222563289",
+    "ground_truth": {
+      "tops": "180446493",
+      "bottoms": "174692205"
+    },
+    "wardrobe": [
+      {
+        "item_id": "211032149",
+        "category": "tops"
+      },
+      {
+        "item_id": "116922017",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "81901784",
+        "category": "tops"
+      },
+      {
+        "item_id": "173053320",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "193644807",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "180446493",
+        "category": "tops"
+      },
+      {
+        "item_id": "174692205",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "64494232",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "211683963",
+    "ground_truth": {
+      "tops": "189949770",
+      "bottoms": "190900776"
+    },
+    "wardrobe": [
+      {
+        "item_id": "189949770",
+        "category": "tops"
+      },
+      {
+        "item_id": "213416028",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "154218824",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "190900776",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "204471158",
+        "category": "tops"
+      },
+      {
+        "item_id": "75687826",
+        "category": "tops"
+      },
+      {
+        "item_id": "199466781",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "140915254",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "218377237",
+    "ground_truth": {
+      "tops": "140970894",
+      "bottoms": "200155429"
+    },
+    "wardrobe": [
+      {
+        "item_id": "140970894",
+        "category": "tops"
+      },
+      {
+        "item_id": "200155429",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "199906596",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "54838974",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "212249867",
+        "category": "tops"
+      },
+      {
+        "item_id": "196658823",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "144423342",
+        "category": "tops"
+      },
+      {
+        "item_id": "208379300",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "219548918",
+    "ground_truth": {
+      "tops": "205364246",
+      "bottoms": "203587237"
+    },
+    "wardrobe": [
+      {
+        "item_id": "165661979",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "211244850",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "190683290",
+        "category": "tops"
+      },
+      {
+        "item_id": "155914926",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "205364246",
+        "category": "tops"
+      },
+      {
+        "item_id": "203587237",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "147324014",
+        "category": "tops"
+      },
+      {
+        "item_id": "152052310",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "215708922",
+    "ground_truth": {
+      "tops": "195893378",
+      "bottoms": "176960359",
+      "outerwear": "175925553"
+    },
+    "wardrobe": [
+      {
+        "item_id": "136562084",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "176960359",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "195893378",
+        "category": "tops"
+      },
+      {
+        "item_id": "150697152",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "203056031",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "106377784",
+        "category": "tops"
+      },
+      {
+        "item_id": "187751768",
+        "category": "tops"
+      },
+      {
+        "item_id": "175925553",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "197367694",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "190300093",
+        "category": "tops"
+      },
+      {
+        "item_id": "199006824",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "172514110",
+        "category": "outerwear"
+      }
+    ]
+  },
+  {
+    "set_id": "220204371",
+    "ground_truth": {
+      "tops": "198613802",
+      "bottoms": "122050295"
+    },
+    "wardrobe": [
+      {
+        "item_id": "122050295",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "198613802",
+        "category": "tops"
+      },
+      {
+        "item_id": "202881068",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "182338522",
+        "category": "tops"
+      },
+      {
+        "item_id": "209577224",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "206090401",
+        "category": "tops"
+      },
+      {
+        "item_id": "208784763",
+        "category": "tops"
+      },
+      {
+        "item_id": "132163102",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "209255506",
+    "ground_truth": {
+      "tops": "182828338",
+      "bottoms": "146458342",
+      "outerwear": "183989401"
+    },
+    "wardrobe": [
+      {
+        "item_id": "204795864",
+        "category": "tops"
+      },
+      {
+        "item_id": "205022436",
+        "category": "tops"
+      },
+      {
+        "item_id": "182828338",
+        "category": "tops"
+      },
+      {
+        "item_id": "166500587",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "164702813",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "146458342",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "165023451",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "183989401",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "171717262",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "103142849",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "195906360",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "212510002",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "183056502",
+    "ground_truth": {
+      "tops": "153515506",
+      "bottoms": "154218658"
+    },
+    "wardrobe": [
+      {
+        "item_id": "154218658",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "170552537",
+        "category": "tops"
+      },
+      {
+        "item_id": "179993900",
+        "category": "tops"
+      },
+      {
+        "item_id": "100085586",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "167300150",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "146811974",
+        "category": "tops"
+      },
+      {
+        "item_id": "146705011",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "153515506",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "216062936",
+    "ground_truth": {
+      "tops": "190327595",
+      "bottoms": "181845564",
+      "outerwear": "194939119"
+    },
+    "wardrobe": [
+      {
+        "item_id": "181845564",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "194939119",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "164950992",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "188778349",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "200416808",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "195498377",
+        "category": "tops"
+      },
+      {
+        "item_id": "214844070",
+        "category": "tops"
+      },
+      {
+        "item_id": "194937362",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "116297350",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "172913646",
+        "category": "tops"
+      },
+      {
+        "item_id": "70447331",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "190327595",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "218624427",
+    "ground_truth": {
+      "tops": "203899316",
+      "bottoms": "209354666"
+    },
+    "wardrobe": [
+      {
+        "item_id": "209979707",
+        "category": "tops"
+      },
+      {
+        "item_id": "209354666",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "122181093",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "208690123",
+        "category": "tops"
+      },
+      {
+        "item_id": "178982295",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "198393155",
+        "category": "tops"
+      },
+      {
+        "item_id": "206247817",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "203899316",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "221838290",
+    "ground_truth": {
+      "tops": "209912400",
+      "bottoms": "209914893"
+    },
+    "wardrobe": [
+      {
+        "item_id": "161862906",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "209970388",
+        "category": "tops"
+      },
+      {
+        "item_id": "208059239",
+        "category": "tops"
+      },
+      {
+        "item_id": "193089425",
+        "category": "tops"
+      },
+      {
+        "item_id": "209912400",
+        "category": "tops"
+      },
+      {
+        "item_id": "195352165",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "142865484",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "209914893",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "220997558",
+    "ground_truth": {
+      "tops": "207909423",
+      "bottoms": "203993626"
+    },
+    "wardrobe": [
+      {
+        "item_id": "183385729",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "137755973",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "203993626",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "156600261",
+        "category": "tops"
+      },
+      {
+        "item_id": "209830177",
+        "category": "tops"
+      },
+      {
+        "item_id": "189572751",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "185215516",
+        "category": "tops"
+      },
+      {
+        "item_id": "207909423",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "218227078",
+    "ground_truth": {
+      "tops": "203029074",
+      "bottoms": "202880399"
+    },
+    "wardrobe": [
+      {
+        "item_id": "82171339",
+        "category": "tops"
+      },
+      {
+        "item_id": "203029074",
+        "category": "tops"
+      },
+      {
+        "item_id": "202880399",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "132685906",
+        "category": "tops"
+      },
+      {
+        "item_id": "157874710",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "181091218",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "151492364",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "152036640",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "217741555",
+    "ground_truth": {
+      "tops": "199066343",
+      "bottoms": "183555557",
+      "outerwear": "191286021"
+    },
+    "wardrobe": [
+      {
+        "item_id": "199066343",
+        "category": "tops"
+      },
+      {
+        "item_id": "187889611",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "52366669",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "208626020",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "179845362",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "206780505",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "194275844",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "190749375",
+        "category": "tops"
+      },
+      {
+        "item_id": "183555557",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "126050900",
+        "category": "tops"
+      },
+      {
+        "item_id": "191286021",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "174197086",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "111694436",
+    "ground_truth": {
+      "tops": "98040379",
+      "bottoms": "100468083",
+      "outerwear": "101311698"
+    },
+    "wardrobe": [
+      {
+        "item_id": "98040379",
+        "category": "tops"
+      },
+      {
+        "item_id": "171161421",
+        "category": "tops"
+      },
+      {
+        "item_id": "193978425",
+        "category": "tops"
+      },
+      {
+        "item_id": "204074712",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "199020897",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "191907157",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "118704130",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "132650906",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "106451329",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "100468083",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "163113515",
+        "category": "tops"
+      },
+      {
+        "item_id": "101311698",
+        "category": "outerwear"
+      }
+    ]
+  },
+  {
+    "set_id": "223094351",
+    "ground_truth": {
+      "tops": "200138015",
+      "bottoms": "194090579"
+    },
+    "wardrobe": [
+      {
+        "item_id": "194599145",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "116420507",
+        "category": "tops"
+      },
+      {
+        "item_id": "194090579",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "38122395",
+        "category": "tops"
+      },
+      {
+        "item_id": "169734605",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "200138015",
+        "category": "tops"
+      },
+      {
+        "item_id": "152069838",
+        "category": "tops"
+      },
+      {
+        "item_id": "208598861",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "222112019",
+    "ground_truth": {
+      "tops": "208974795",
+      "bottoms": "191943196"
+    },
+    "wardrobe": [
+      {
+        "item_id": "191943196",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "208974795",
+        "category": "tops"
+      },
+      {
+        "item_id": "197799616",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "202757474",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "181237504",
+        "category": "tops"
+      },
+      {
+        "item_id": "118231094",
+        "category": "tops"
+      },
+      {
+        "item_id": "170458522",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "123169547",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "134983773",
+    "ground_truth": {
+      "tops": "118480162",
+      "bottoms": "118441370"
+    },
+    "wardrobe": [
+      {
+        "item_id": "206423312",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "172528424",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "63983121",
+        "category": "tops"
+      },
+      {
+        "item_id": "118441370",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "205482147",
+        "category": "tops"
+      },
+      {
+        "item_id": "64494232",
+        "category": "tops"
+      },
+      {
+        "item_id": "110956733",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "118480162",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "222790923",
+    "ground_truth": {
+      "tops": "194818001",
+      "bottoms": "195689065"
+    },
+    "wardrobe": [
+      {
+        "item_id": "196561747",
+        "category": "tops"
+      },
+      {
+        "item_id": "180870216",
+        "category": "tops"
+      },
+      {
+        "item_id": "169032784",
+        "category": "tops"
+      },
+      {
+        "item_id": "194818001",
+        "category": "tops"
+      },
+      {
+        "item_id": "195848512",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "139502312",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "195689065",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "209502828",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "215544700",
+    "ground_truth": {
+      "tops": "194895235",
+      "bottoms": "186317881",
+      "outerwear": "189022208"
+    },
+    "wardrobe": [
+      {
+        "item_id": "140955392",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "163549646",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "156720099",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "147322894",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "194895235",
+        "category": "tops"
+      },
+      {
+        "item_id": "146070950",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "186317881",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "170868218",
+        "category": "tops"
+      },
+      {
+        "item_id": "146238215",
+        "category": "tops"
+      },
+      {
+        "item_id": "166184661",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "206757346",
+        "category": "tops"
+      },
+      {
+        "item_id": "189022208",
+        "category": "outerwear"
+      }
+    ]
+  },
+  {
+    "set_id": "174085887",
+    "ground_truth": {
+      "tops": "142560667",
+      "bottoms": "143038546"
+    },
+    "wardrobe": [
+      {
+        "item_id": "111524809",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "201537775",
+        "category": "tops"
+      },
+      {
+        "item_id": "149008389",
+        "category": "tops"
+      },
+      {
+        "item_id": "181308153",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "177185229",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "142560667",
+        "category": "tops"
+      },
+      {
+        "item_id": "143038546",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "192188291",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "205995142",
+    "ground_truth": {
+      "tops": "167877893",
+      "bottoms": "177639998"
+    },
+    "wardrobe": [
+      {
+        "item_id": "203527526",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "177639998",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "151372729",
+        "category": "tops"
+      },
+      {
+        "item_id": "167877893",
+        "category": "tops"
+      },
+      {
+        "item_id": "185658260",
+        "category": "tops"
+      },
+      {
+        "item_id": "186801129",
+        "category": "tops"
+      },
+      {
+        "item_id": "126844736",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "205742034",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "87463593",
+    "ground_truth": {
+      "tops": "79634647",
+      "bottoms": "82188432"
+    },
+    "wardrobe": [
+      {
+        "item_id": "82188432",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "79634647",
+        "category": "tops"
+      },
+      {
+        "item_id": "133296938",
+        "category": "tops"
+      },
+      {
+        "item_id": "149482803",
+        "category": "tops"
+      },
+      {
+        "item_id": "146263364",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "69691538",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "207090228",
+        "category": "tops"
+      },
+      {
+        "item_id": "206270607",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "190185268",
+    "ground_truth": {
+      "tops": "172525729",
+      "bottoms": "156926300",
+      "outerwear": "150137992"
+    },
+    "wardrobe": [
+      {
+        "item_id": "156926300",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "169902128",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "147247374",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "188421126",
+        "category": "tops"
+      },
+      {
+        "item_id": "150137992",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "192565637",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "172525729",
+        "category": "tops"
+      },
+      {
+        "item_id": "171138845",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "198514805",
+        "category": "tops"
+      },
+      {
+        "item_id": "183964069",
+        "category": "tops"
+      },
+      {
+        "item_id": "96831883",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "18118626",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "222105122",
+    "ground_truth": {
+      "tops": "184508674",
+      "bottoms": "200000901"
+    },
+    "wardrobe": [
+      {
+        "item_id": "166009182",
+        "category": "tops"
+      },
+      {
+        "item_id": "170394787",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "184508674",
+        "category": "tops"
+      },
+      {
+        "item_id": "200000901",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "173191662",
+        "category": "tops"
+      },
+      {
+        "item_id": "184014742",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "165583341",
+        "category": "tops"
+      },
+      {
+        "item_id": "19371412",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "199639781",
+    "ground_truth": {
+      "tops": "109430068",
+      "bottoms": "99599724"
+    },
+    "wardrobe": [
+      {
+        "item_id": "137677357",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "181060969",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "99599724",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "177006549",
+        "category": "tops"
+      },
+      {
+        "item_id": "109430068",
+        "category": "tops"
+      },
+      {
+        "item_id": "152479880",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "162381282",
+        "category": "tops"
+      },
+      {
+        "item_id": "188257321",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "188580155",
+    "ground_truth": {
+      "tops": "156591727",
+      "bottoms": "42768787",
+      "outerwear": "160843513"
+    },
+    "wardrobe": [
+      {
+        "item_id": "42768787",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "61408848",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "201889058",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "144344884",
+        "category": "tops"
+      },
+      {
+        "item_id": "150920195",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "156591727",
+        "category": "tops"
+      },
+      {
+        "item_id": "156246359",
+        "category": "tops"
+      },
+      {
+        "item_id": "160843513",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "180357653",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "39676844",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "189074384",
+        "category": "tops"
+      },
+      {
+        "item_id": "197275863",
+        "category": "outerwear"
+      }
+    ]
+  },
+  {
+    "set_id": "221704591",
+    "ground_truth": {
+      "tops": "172318461",
+      "bottoms": "171800867",
+      "outerwear": "205138675"
+    },
+    "wardrobe": [
+      {
+        "item_id": "172318461",
+        "category": "tops"
+      },
+      {
+        "item_id": "205138675",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "132747249",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "101254211",
+        "category": "tops"
+      },
+      {
+        "item_id": "69636247",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "209179461",
+        "category": "tops"
+      },
+      {
+        "item_id": "71811509",
+        "category": "tops"
+      },
+      {
+        "item_id": "211542202",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "97815408",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "171800867",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "125185854",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "194592022",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "221842856",
+    "ground_truth": {
+      "tops": "206239719",
+      "bottoms": "191539190"
+    },
+    "wardrobe": [
+      {
+        "item_id": "206239719",
+        "category": "tops"
+      },
+      {
+        "item_id": "35320265",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "173431604",
+        "category": "tops"
+      },
+      {
+        "item_id": "78911205",
+        "category": "tops"
+      },
+      {
+        "item_id": "126844858",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "67123501",
+        "category": "tops"
+      },
+      {
+        "item_id": "144256863",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "191539190",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "222782294",
+    "ground_truth": {
+      "tops": "195913422",
+      "bottoms": "154960861"
+    },
+    "wardrobe": [
+      {
+        "item_id": "195913422",
+        "category": "tops"
+      },
+      {
+        "item_id": "191642657",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "154960861",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "148616049",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "140393304",
+        "category": "tops"
+      },
+      {
+        "item_id": "135439568",
+        "category": "tops"
+      },
+      {
+        "item_id": "172373814",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "189016220",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "208696159",
+    "ground_truth": {
+      "tops": "185759206",
+      "bottoms": "183713664"
+    },
+    "wardrobe": [
+      {
+        "item_id": "185759206",
+        "category": "tops"
+      },
+      {
+        "item_id": "202975247",
+        "category": "tops"
+      },
+      {
+        "item_id": "212846035",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "214780138",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "183713664",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "157915004",
+        "category": "tops"
+      },
+      {
+        "item_id": "156526511",
+        "category": "tops"
+      },
+      {
+        "item_id": "140516706",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "215870644",
+    "ground_truth": {
+      "tops": "102089558",
+      "bottoms": "170987568",
+      "outerwear": "185660390"
+    },
+    "wardrobe": [
+      {
+        "item_id": "211654560",
+        "category": "tops"
+      },
+      {
+        "item_id": "102089558",
+        "category": "tops"
+      },
+      {
+        "item_id": "184845179",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "154221878",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "197129937",
+        "category": "tops"
+      },
+      {
+        "item_id": "191787563",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "149806492",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "185660390",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "170987568",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "164690478",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "53182007",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "118617737",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "172749324",
+    "ground_truth": {
+      "tops": "140366060",
+      "bottoms": "148376481"
+    },
+    "wardrobe": [
+      {
+        "item_id": "98754943",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "169917571",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "181836910",
+        "category": "tops"
+      },
+      {
+        "item_id": "188162770",
+        "category": "tops"
+      },
+      {
+        "item_id": "110800901",
+        "category": "tops"
+      },
+      {
+        "item_id": "148376481",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "140366060",
+        "category": "tops"
+      },
+      {
+        "item_id": "185170765",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "205129453",
+    "ground_truth": {
+      "tops": "112548732",
+      "bottoms": "134877968"
+    },
+    "wardrobe": [
+      {
+        "item_id": "134877968",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "194939884",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "204167406",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "200692556",
+        "category": "tops"
+      },
+      {
+        "item_id": "134948651",
+        "category": "tops"
+      },
+      {
+        "item_id": "153442867",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "187672955",
+        "category": "tops"
+      },
+      {
+        "item_id": "112548732",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "198478208",
+    "ground_truth": {
+      "tops": "166690340",
+      "bottoms": "162019460",
+      "outerwear": "146631450"
+    },
+    "wardrobe": [
+      {
+        "item_id": "203721288",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "162019460",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "178931680",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "185657938",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "1071100",
+        "category": "tops"
+      },
+      {
+        "item_id": "150920890",
+        "category": "tops"
+      },
+      {
+        "item_id": "207708427",
+        "category": "tops"
+      },
+      {
+        "item_id": "166690340",
+        "category": "tops"
+      },
+      {
+        "item_id": "104614376",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "189461998",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "146631450",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "201604313",
+        "category": "outerwear"
+      }
+    ]
+  },
+  {
+    "set_id": "217600775",
+    "ground_truth": {
+      "tops": "195485550",
+      "bottoms": "193706704"
+    },
+    "wardrobe": [
+      {
+        "item_id": "195485550",
+        "category": "tops"
+      },
+      {
+        "item_id": "185314986",
+        "category": "tops"
+      },
+      {
+        "item_id": "176960448",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "182624901",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "190858243",
+        "category": "tops"
+      },
+      {
+        "item_id": "193706704",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "173843319",
+        "category": "tops"
+      },
+      {
+        "item_id": "194276089",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "219934235",
+    "ground_truth": {
+      "tops": "205306007",
+      "bottoms": "203814166",
+      "outerwear": "194777467"
+    },
+    "wardrobe": [
+      {
+        "item_id": "203814166",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "194777467",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "165600514",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "166854199",
+        "category": "tops"
+      },
+      {
+        "item_id": "50975807",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "195614955",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "184324949",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "168529911",
+        "category": "tops"
+      },
+      {
+        "item_id": "148108564",
+        "category": "tops"
+      },
+      {
+        "item_id": "205306007",
+        "category": "tops"
+      },
+      {
+        "item_id": "165651783",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "180707863",
+        "category": "outerwear"
+      }
+    ]
+  },
+  {
+    "set_id": "215669808",
+    "ground_truth": {
+      "tops": "200188332",
+      "bottoms": "174443767"
+    },
+    "wardrobe": [
+      {
+        "item_id": "185904576",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "201540142",
+        "category": "tops"
+      },
+      {
+        "item_id": "76741433",
+        "category": "tops"
+      },
+      {
+        "item_id": "174443767",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "142048426",
+        "category": "tops"
+      },
+      {
+        "item_id": "200188332",
+        "category": "tops"
+      },
+      {
+        "item_id": "115197282",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "133942412",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "215974976",
+    "ground_truth": {
+      "tops": "197315593",
+      "bottoms": "192876363"
+    },
+    "wardrobe": [
+      {
+        "item_id": "209808122",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "156717098",
+        "category": "tops"
+      },
+      {
+        "item_id": "205300645",
+        "category": "tops"
+      },
+      {
+        "item_id": "197315593",
+        "category": "tops"
+      },
+      {
+        "item_id": "107667674",
+        "category": "tops"
+      },
+      {
+        "item_id": "72087127",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "148626166",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "192876363",
+        "category": "bottoms"
+      }
+    ]
+  },
+  {
+    "set_id": "211948467",
+    "ground_truth": {
+      "tops": "186534332",
+      "bottoms": "163598275"
+    },
+    "wardrobe": [
+      {
+        "item_id": "211015673",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "177594492",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "210759650",
+        "category": "tops"
+      },
+      {
+        "item_id": "162234177",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "163598275",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "188257321",
+        "category": "tops"
+      },
+      {
+        "item_id": "186534332",
+        "category": "tops"
+      },
+      {
+        "item_id": "193093771",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "222958270",
+    "ground_truth": {
+      "tops": "210468810",
+      "bottoms": "209990547"
+    },
+    "wardrobe": [
+      {
+        "item_id": "186023221",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "209990547",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "106239071",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "144031167",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "177290485",
+        "category": "tops"
+      },
+      {
+        "item_id": "211971443",
+        "category": "tops"
+      },
+      {
+        "item_id": "191184290",
+        "category": "tops"
+      },
+      {
+        "item_id": "210468810",
+        "category": "tops"
+      }
+    ]
+  },
+  {
+    "set_id": "217963807",
+    "ground_truth": {
+      "tops": "202243387",
+      "bottoms": "187827886",
+      "outerwear": "199895770"
+    },
+    "wardrobe": [
+      {
+        "item_id": "202243387",
+        "category": "tops"
+      },
+      {
+        "item_id": "192592256",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "187827886",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "109145860",
+        "category": "tops"
+      },
+      {
+        "item_id": "205389378",
+        "category": "tops"
+      },
+      {
+        "item_id": "144672636",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "149897122",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "180748304",
+        "category": "tops"
+      },
+      {
+        "item_id": "183841817",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "88430311",
+        "category": "bottoms"
+      },
+      {
+        "item_id": "199895770",
+        "category": "outerwear"
+      },
+      {
+        "item_id": "90337622",
+        "category": "outerwear"
+      }
+    ]
+  }
+]

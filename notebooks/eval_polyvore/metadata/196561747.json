@@ -1,0 +1,49 @@
+{
+  "type": "short-sleeve knit sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "pale pink",
+      "mustard yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "gingham",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "preppy",
+      "vintage-inspired",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "a-line midi skirt"
+    ],
+    "avoid_with": [
+      "heavy winter layers",
+      "patterned bottoms that clash with gingham"
+    ]
+  },
+  "item_id": "196561747"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "button-down shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "green",
+    "all": [
+      "green",
+      "brown",
+      "black",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "camouflage",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "military-inspired",
+      "utility",
+      "casual",
+      "rugged"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "white tank top",
+      "black leggings"
+    ],
+    "avoid_with": [
+      "other camouflage patterns",
+      "formal trousers"
+    ]
+  },
+  "item_id": "177290485"
+}

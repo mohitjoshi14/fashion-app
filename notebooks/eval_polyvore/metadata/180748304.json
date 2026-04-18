@@ -1,0 +1,50 @@
+{
+  "type": "sleeveless draped blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "asymmetrical draped"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "elegant",
+      "draped",
+      "minimalist",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirt",
+      "blazer"
+    ],
+    "avoid_with": [
+      "baggy cargo pants",
+      "distressed denim"
+    ]
+  },
+  "item_id": "180748304"
+}

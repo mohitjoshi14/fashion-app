@@ -1,0 +1,51 @@
+{
+  "type": "suede jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "brown",
+    "all": [
+      "brown",
+      "tan"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "suede"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "open-front"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "boho",
+      "minimalist",
+      "casual",
+      "chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "denim jeans",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "heavy athletic wear",
+      "formal evening gowns"
+    ]
+  },
+  "item_id": "144672636"
+}

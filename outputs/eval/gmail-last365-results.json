@@ -1,0 +1,2872 @@
+{
+  "generatedAt": "2026-04-11T02:42:40.676Z",
+  "corpusPath": "/Users/mohitjoshi/Projects/fashion-app/outputs/eval/gmail-last365-corpus.json",
+  "labelsPath": "/Users/mohitjoshi/Projects/fashion-app/outputs/eval/gmail-last365-labels.json",
+  "corpusMessageCount": 111,
+  "labeledMessageCount": 111,
+  "retrievalEvals": {
+    "archiveOrderQuery": {
+      "confusionMatrix": {
+        "tp": 95,
+        "fp": 1,
+        "fn": 14,
+        "tn": 1
+      },
+      "metrics": {
+        "precision": 0.9895833333333334,
+        "recall": 0.8715596330275229,
+        "f1": 0.9268292682926829
+      },
+      "falsePositives": [
+        {
+          "messageId": "19cf209e67e91730",
+          "subject": "You just won rewards on your purchase!",
+          "from": "customercare@ajio.com",
+          "notes": "Post-purchase promotional rewards email; not an order lifecycle mail."
+        }
+      ],
+      "falseNegatives": [
+        {
+          "messageId": "19a0e6465babd5ea",
+          "subject": "Your Myntra return request processed.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": ""
+        },
+        {
+          "messageId": "19a0e60a254727e0",
+          "subject": "Your Myntra return request processed.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": ""
+        },
+        {
+          "messageId": "19a0e5c7d2fc84c1",
+          "subject": "Your Myntra return request processed.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": ""
+        },
+        {
+          "messageId": "19a0e55351371685",
+          "subject": "Your Myntra return request processed.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": ""
+        },
+        {
+          "messageId": "19a0e5137e5148c8",
+          "subject": "Your Myntra return request processed.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": ""
+        },
+        {
+          "messageId": "19a0e4de06580c57",
+          "subject": "Your Myntra return request processed.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": ""
+        },
+        {
+          "messageId": "19a0e4a6b5195fb0",
+          "subject": "Your Myntra return request processed.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": ""
+        },
+        {
+          "messageId": "199f5e3e6a94d095",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5e12b2d166b5",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5e10e8cc8f68",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5decd98e595d",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5dea129f2173",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5de05b3d34d9",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5dd70c3a794b",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        }
+      ]
+    },
+    "currentOrderQuery": {
+      "confusionMatrix": {
+        "tp": 102,
+        "fp": 0,
+        "fn": 7,
+        "tn": 2
+      },
+      "metrics": {
+        "precision": 1,
+        "recall": 0.9357798165137615,
+        "f1": 0.966824644549763
+      },
+      "falsePositives": [],
+      "falseNegatives": [
+        {
+          "messageId": "199f5e3e6a94d095",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5e12b2d166b5",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5e10e8cc8f68",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5decd98e595d",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5dea129f2173",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5de05b3d34d9",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        },
+        {
+          "messageId": "199f5dd70c3a794b",
+          "subject": "Your Myntra return request accepted",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+        }
+      ]
+    }
+  },
+  "emailClassificationEval": {
+    "confusionMatrix": {
+      "tp": 65,
+      "fp": 0,
+      "fn": 44,
+      "tn": 2
+    },
+    "metrics": {
+      "precision": 1,
+      "recall": 0.5963302752293578,
+      "f1": 0.7471264367816092
+    },
+    "mismatches": [
+      {
+        "messageId": "19d5e7c0f81e13fc",
+        "subject": "Refund initiated - Women Printed Fit & Flare...",
+        "from": "refund-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d5e7c0cbbbd998",
+        "subject": "Refund Initiated - Women Printed Fit & Flare Dress",
+        "from": "refund-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d2060698840760",
+        "subject": "      Return request initiated for your AJIO order with Women Printed Fit & Flare Dress ",
+        "from": "\"return-confirm@ajio.com\" <return-confirm@ajio.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d1f90a1a875e69",
+        "subject": "Order Delivered - Women Printed Fit & Flare Dress",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d1f70310c83079",
+        "subject": "Partial Order Delivered - Women Angular Oversized Polarised Sunglasses",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d1e7dcffecd0e6",
+        "subject": "Out For Delivery - Women Angular Oversized Polarised Sunglasses",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d18b4decdb9eed",
+        "subject": "Out For Delivery - Women Printed Fit & Flare Dress",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d15ac409b0371b",
+        "subject": "Order Delivered - Men Regular Fit City Shorts",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d14f860493c702",
+        "subject": "Partial Order Delivered - Women Floral Print A-Line Kurta",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d13c6bd19e5197",
+        "subject": "Out For Delivery - Women Floral Print A-Line Kurta",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d136eded2db191",
+        "subject": "Out For Delivery - Men Regular Fit City Shorts",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d0b7dc1c673d32",
+        "subject": "Order Shipped - Women Angular Oversized Polarised Sunglasses",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d06208f86e7791",
+        "subject": "Order Shipped - Men Regular Fit City Shorts",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d060b0eb1d3dd7",
+        "subject": "Partial Order Delivered - Men Waffle Textured Regular Fit Polo T-Shirt",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d05802b22e99fc",
+        "subject": "Partial Order Delivered - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d055a8e165e007",
+        "subject": "Partial Order Shipped - Women Floral Print A-Line Kurta",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d04ed5ee861ad4",
+        "subject": "Out For Delivery - Men Waffle Textured Regular Fit Polo T-Shirt",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d04910fde9803e",
+        "subject": "Out For Delivery - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d03da23156f526",
+        "subject": "Out For Delivery - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d0316fa93e1453",
+        "subject": "Partial Order Shipped - Women Printed Fit & Flare Dress",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d009736bb7d66b",
+        "subject": "Exchange request initiated for your AJIO order with Men Regular Fit City Shorts",
+        "from": "AJIO <mail-noreply@ajio.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19d004389a386f63",
+        "subject": "Partial Order Delivered - Men Regular Fit City Shorts and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d0043806a3c558",
+        "subject": "Partial Order Delivered - Men Regular Fit Polo T-Shirt with Logo Print",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19cff2a8cd18e36f",
+        "subject": "Out For Delivery - Men Regular Fit Polo T-Shirt with Logo Print",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19cff299314ef780",
+        "subject": "Out For Delivery - Men Regular Fit City Shorts and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19cf5f328408ae8f",
+        "subject": "Partial Order Shipped - Men Regular Fit City Shorts and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19cf51c0e5218ed6",
+        "subject": "Partial Order Shipped - Men Regular Fit Polo T-Shirt with Logo Print",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19cf505a6f9d533b",
+        "subject": "Partial Order Shipped - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19cf47402b50e33f",
+        "subject": "Partial Order Shipped - Men Waffle Textured Regular Fit Polo T-Shirt",
+        "from": "ship-confirm@ajio.com",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19cf209e94f8de13",
+        "subject": "Success! Your AJIO Item of Men Cloud94 Regular Fit Polo T-Shirt ... +(8) is on its way to you!",
+        "from": "Ajio Order Update <order-confirm@ajio.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "no_items_extracted",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e6465babd5ea",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e60a254727e0",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e5c7d2fc84c1",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e55351371685",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e5137e5148c8",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e4de06580c57",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e4a6b5195fb0",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": ""
+      },
+      {
+        "messageId": "199f5e3e6a94d095",
+        "subject": "Your Myntra return request accepted",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+      },
+      {
+        "messageId": "199f5e12b2d166b5",
+        "subject": "Your Myntra return request accepted",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+      },
+      {
+        "messageId": "199f5e10e8cc8f68",
+        "subject": "Your Myntra return request accepted",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+      },
+      {
+        "messageId": "199f5decd98e595d",
+        "subject": "Your Myntra return request accepted",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+      },
+      {
+        "messageId": "199f5dea129f2173",
+        "subject": "Your Myntra return request accepted",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+      },
+      {
+        "messageId": "199f5de05b3d34d9",
+        "subject": "Your Myntra return request accepted",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+      },
+      {
+        "messageId": "199f5dd70c3a794b",
+        "subject": "Your Myntra return request accepted",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedTransactionalOrder": true,
+        "predictedTransactionalOrder": false,
+        "rejectionReason": "missing_order_keyword",
+        "predictedItems": [],
+        "notes": "Transactional return workflow email, but visible preview did not expose a confident product name/count."
+      }
+    ]
+  },
+  "itemExtractionEval": {
+    "labeledTransactionalMessages": 109,
+    "countLabeledMessages": 102,
+    "exactCountAccuracy": 0.22549019607843138,
+    "totalGoldItems": 145,
+    "totalPredictedItems": 190,
+    "matchedItems": 108,
+    "metrics": {
+      "precision": 0.5684210526315789,
+      "recall": 0.7448275862068966,
+      "f1": 0.644776119402985
+    },
+    "mismatches": [
+      {
+        "messageId": "19d5e7c0f81e13fc",
+        "subject": "Refund initiated - Women Printed Fit & Flare...",
+        "from": "refund-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Printed Fit & Flare"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d5e7c0cbbbd998",
+        "subject": "Refund Initiated - Women Printed Fit & Flare Dress",
+        "from": "refund-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Printed Fit & Flare Dress"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d3356d88bb8c38",
+        "subject": "Your Myntra fwd order item(s) are delivered. Please share feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 3,
+        "expectedItems": [
+          {
+            "name": "Voyage Unisex Black Lens & Black Wayfarer Sung"
+          },
+          {
+            "name": "Espee Men Grey Lens & Black Square Sunglasses"
+          },
+          {
+            "name": "Unisex Black Lens & Black Wayfarer Sung"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Your Myntra fwd order item(s) are delivered. Please share feedback",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/13/jMF6OLS6_5a592f0022a846c7af529a35acf0586b.png",
+            "productUrl": null
+          },
+          {
+            "name": "Voyage Unisex Black Lens & Black Wayfarer Sung...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/NOVEMBER/8/f6Jt3u6o_b61310d2c05e40b0a50cb0abe0cac7ce.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Espee Men Grey Lens & Black Square Sunglasses...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17838018/2023/8/25/a5d3d377-e7de-457e-a5b9-f5c65c77ffdc1692960348108-Voyage-Unisex-Black-Lens--Black-Wayfarer-Sunglasses-with-UV--1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Unisex Black Lens & Black Wayfarer Sung...",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/12/FOXTHRNM_3c6390bd79b143e89348dff94089e765.png",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d32d665fe5bfcf",
+        "subject": "Your Myntra order item is out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Routes by All About You Floral Print Square Neck Flutter Sleeve"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Routes by All About You Floral Print Square Neck Flutter Sleeve...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Item Is Arriving Today on Sat, 28 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d32d4b75f59959",
+        "subject": "Your Myntra fwd order item(s) are out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 3,
+        "expectedItems": [
+          {
+            "name": "Voyage Unisex Black Lens & Black Wayfarer Sung"
+          },
+          {
+            "name": "Espee Men Grey Lens & Black Square Sunglasses"
+          },
+          {
+            "name": "Unisex Black Lens & Black Wayfarer Sung"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Your Myntra fwd order item(s) are out for delivery",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/13/HHeFAFGy_399a64652d19452197bc1f23a909d318.png",
+            "productUrl": null
+          },
+          {
+            "name": "Voyage Unisex Black Lens & Black Wayfarer Sung...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/NOVEMBER/8/f6Jt3u6o_b61310d2c05e40b0a50cb0abe0cac7ce.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Espee Men Grey Lens & Black Square Sunglasses...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17838018/2023/8/25/a5d3d377-e7de-457e-a5b9-f5c65c77ffdc1692960348108-Voyage-Unisex-Black-Lens--Black-Wayfarer-Sunglasses-with-UV--1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Unisex Black Lens & Black Wayfarer Sung...",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/12/FOXTHRNM_3c6390bd79b143e89348dff94089e765.png",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Items Are Arriving Today on Sat, 28 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d32d34c358277d",
+        "subject": "Your Myntra order item is out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21934312/2024/11/5/6dcf8b09-078b-49f3-9f76-bae6ca9426501730813401874-Park-Avenue-Cotton-Rich-Polo-Collar-Slim-Fit-T-shirt-2881730-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Item Is Arriving Today on Sat, 28 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d237184ab3bac6",
+        "subject": "Your Myntra order item has been shipped.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Routes by All About You Floral Print Square Neck Flutter Sleeve"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Routes by All About You Floral Print Square Neck Flutter Sleeve...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your Order on Wed, 25 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d230808940ff16",
+        "subject": "Your Myntra  order item has been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir"
+          },
+          {
+            "name": "Routes by All About You"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21934312/2024/11/5/6dcf8b09-078b-49f3-9f76-bae6ca9426501730813401874-Park-Avenue-Cotton-Rich-Polo-Collar-Slim-Fit-T-shirt-2881730-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Routes by All About You",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your Order on Wed, 25 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d2060698840760",
+        "subject": "      Return request initiated for your AJIO order with Women Printed Fit & Flare Dress ",
+        "from": "\"return-confirm@ajio.com\" <return-confirm@ajio.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Printed Fit & Flare Dress"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d1f90a1a875e69",
+        "subject": "Order Delivered - Women Printed Fit & Flare Dress",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Printed Fit & Flare Dress"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d1f70310c83079",
+        "subject": "Partial Order Delivered - Women Angular Oversized Polarised Sunglasses",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Angular Oversized Polarised Sunglasses"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d1f1c00fddea20",
+        "subject": "Your Myntra  fwd order item(s) have been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 4,
+        "expectedItems": [
+          {
+            "name": "Voyage Unisex Black Lens & Black Wayfarer Sung"
+          },
+          {
+            "name": "Espee Men Grey Lens & Black Square Sunglasses"
+          },
+          {
+            "name": "Unisex Black Lens & Black Wayfarer Sung"
+          },
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir... Est. delivery by Sat, 28 Mar"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Your Myntra fwd order item(s) have been shipped",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/11/fAMCKbK5_bd89d92983f94a74a4ccdbcd53dda675.png",
+            "productUrl": null
+          },
+          {
+            "name": "Voyage Unisex Black Lens & Black Wayfarer Sung...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/NOVEMBER/8/f6Jt3u6o_b61310d2c05e40b0a50cb0abe0cac7ce.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Espee Men Grey Lens & Black Square Sunglasses...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17838018/2023/8/25/a5d3d377-e7de-457e-a5b9-f5c65c77ffdc1692960348108-Voyage-Unisex-Black-Lens--Black-Wayfarer-Sunglasses-with-UV--1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Unisex Black Lens & Black Wayfarer Sung...",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/12/FOXTHRNM_3c6390bd79b143e89348dff94089e765.png",
+            "productUrl": null
+          },
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir... Est. delivery by Sat, 28 Mar",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21934312/2024/11/5/6dcf8b09-078b-49f3-9f76-bae6ca9426501730813401874-Park-Avenue-Cotton-Rich-Polo-Collar-Slim-Fit-T-shirt-2881730-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir... Est. delivery by Sat, 28 Mar",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your fwd Order on Tue, 24 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d1e995900ea75b",
+        "subject": "Your fwd Order Confirmation.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 3,
+        "expectedItems": [
+          {
+            "name": "Espee Men Grey Lens & Black Square Sunglasses"
+          },
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir"
+          },
+          {
+            "name": "Unisex Black Lens & Black Wayfarer Sung"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Your fwd Order Confirmation.",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/4/7rkKJ87p_747cbd5a1b9f46b39819127c65b44e58.png",
+            "productUrl": null
+          },
+          {
+            "name": "Espee Men Grey Lens & Black Square Sunglasses...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21934312/2024/11/5/6dcf8b09-078b-49f3-9f76-bae6ca9426501730813401874-Park-Avenue-Cotton-Rich-Polo-Collar-Slim-Fit-T-shirt-2881730-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/NOVEMBER/8/f6Jt3u6o_b61310d2c05e40b0a50cb0abe0cac7ce.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17838018/2023/8/25/a5d3d377-e7de-457e-a5b9-f5c65c77ffdc1692960348108-Voyage-Unisex-Black-Lens--Black-Wayfarer-Sunglasses-with-UV--1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Unisex Black Lens & Black Wayfarer Sung...",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/12/FOXTHRNM_3c6390bd79b143e89348dff94089e765.png",
+            "productUrl": null
+          },
+          {
+            "name": "Your fwd Order Confirmation.",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2023/3/10/8cbfdbe8-5b9c-46c1-92b8-c2601a37038e1678437743391-rose-gold.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "on Tue, 24 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d1e7dcffecd0e6",
+        "subject": "Out For Delivery - Women Angular Oversized Polarised Sunglasses",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Angular Oversized Polarised Sunglasses"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d1904731d8f272",
+        "subject": "Your Myntra exchange order item delivered.Please share feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27429748/2024/2/7/2835f00f-751d-40ef-bc03-1a9aba84efea1707305450426UnitedColorsofBenettonBoysStripedV-NeckPocketsT-shirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've delivered your exchange on Mon, 23 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d18b4decdb9eed",
+        "subject": "Out For Delivery - Women Printed Fit & Flare Dress",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Printed Fit & Flare Dress"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d18a90a85ec068",
+        "subject": "Your Myntra exchange order item is out for exchange",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27429748/2024/2/7/2835f00f-751d-40ef-bc03-1a9aba84efea1707305450426UnitedColorsofBenettonBoysStripedV-NeckPocketsT-shirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your exchange is arriving today on Mon, 23 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d15ac409b0371b",
+        "subject": "Order Delivered - Men Regular Fit City Shorts",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit City Shorts"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d14f860493c702",
+        "subject": "Partial Order Delivered - Women Floral Print A-Line Kurta",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Floral Print A-Line Kurta"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d13c6bd19e5197",
+        "subject": "Out For Delivery - Women Floral Print A-Line Kurta",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Floral Print A-Line Kurta"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d13795ce9fe01a",
+        "subject": "Your Myntra order item is out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Item Is Arriving Today on Sun, 22 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d136eded2db191",
+        "subject": "Out For Delivery - Men Regular Fit City Shorts",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit City Shorts"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d11f5546b67bdc",
+        "subject": "Your Myntra order item has been shipped.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your Order on Sun, 22 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d0f38e74a89c57",
+        "subject": "Your Myntra exchange order item has been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27429748/2024/2/7/2835f00f-751d-40ef-bc03-1a9aba84efea1707305450426UnitedColorsofBenettonBoysStripedV-NeckPocketsT-shirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your exchange order is shipped on Sat, 21 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d0ee1fafc33987",
+        "subject": "Your Myntra exchange request confirmation",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27429748/2024/2/7/2835f00f-751d-40ef-bc03-1a9aba84efea1707305450426UnitedColorsofBenettonBoysStripedV-NeckPocketsT-shirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your exchange is Confirmed on Sat, 21 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d0e5ff8f25f300",
+        "subject": "Your Myntra order item is out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Item Is Arriving Today on Sat, 21 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d0e5f7157c1370",
+        "subject": "Your Myntra order item(s) are out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto"
+          },
+          {
+            "name": "United Colors of Benetton Boys Shorts"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/FEBRUARY/28/YmpiQXrj_92ef3377b32d47309c2ac37ea8044564.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Shorts",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27420620/2024/2/7/8bb84bc2-520e-47a9-871c-a053d38cc0681707301832871UnitedColorsofBenettonBoysShorts1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Items Are Arriving Today on Sat, 21 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d0b7dc1c673d32",
+        "subject": "Order Shipped - Women Angular Oversized Polarised Sunglasses",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Angular Oversized Polarised Sunglasses"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d0aaf9ad6edbba",
+        "subject": "Your Myntra  order item(s) have been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 3,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto"
+          },
+          {
+            "name": "United Colors of Benetton Boys Shorts"
+          },
+          {
+            "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott... Est. delivery by Mon, 23 Mar"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/FEBRUARY/28/YmpiQXrj_92ef3377b32d47309c2ac37ea8044564.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Shorts",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27420620/2024/2/7/8bb84bc2-520e-47a9-871c-a053d38cc0681707301832871UnitedColorsofBenettonBoysShorts1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott... Est. delivery by Mon, 23 Mar",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your Order on Fri, 20 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d0a7865c74453c",
+        "subject": "Your Myntra  order item has been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets"
+          },
+          {
+            "name": "United Colors of Benetton"
+          },
+          {
+            "name": "United Colors of Benetton Boys Shorts Est. delivery by Mon, 23 Mar"
+          },
+          {
+            "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott... Est. delivery by Mon, 23 Mar"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27420620/2024/2/7/8bb84bc2-520e-47a9-871c-a053d38cc0681707301832871UnitedColorsofBenettonBoysShorts1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Shorts Est. delivery by Mon, 23 Mar",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/FEBRUARY/28/YmpiQXrj_92ef3377b32d47309c2ac37ea8044564.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott... Est. delivery by Mon, 23 Mar",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your Order on Fri, 20 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "19d0a1c309a63bb0",
+        "subject": "Your  Myntra Order Confirmation.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 3,
+        "expectedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets"
+          },
+          {
+            "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto"
+          },
+          {
+            "name": "Sit Back And Relax. Your Order Is Confirmed on Fri, 20 Mar"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27420620/2024/2/7/8bb84bc2-520e-47a9-871c-a053d38cc0681707301832871UnitedColorsofBenettonBoysShorts1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/FEBRUARY/28/YmpiQXrj_92ef3377b32d47309c2ac37ea8044564.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Sit Back And Relax. Your Order Is Confirmed on Fri, 20 Mar",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d06208f86e7791",
+        "subject": "Order Shipped - Men Regular Fit City Shorts",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit City Shorts"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d060b0eb1d3dd7",
+        "subject": "Partial Order Delivered - Men Waffle Textured Regular Fit Polo T-Shirt",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Waffle Textured Regular Fit Polo T-Shirt"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d05802b22e99fc",
+        "subject": "Partial Order Delivered - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Women Casual Cotton Striped Straight Kurta"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d055a8e165e007",
+        "subject": "Partial Order Shipped - Women Floral Print A-Line Kurta",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Floral Print A-Line Kurta"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d04ed5ee861ad4",
+        "subject": "Out For Delivery - Men Waffle Textured Regular Fit Polo T-Shirt",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Waffle Textured Regular Fit Polo T-Shirt"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d04910fde9803e",
+        "subject": "Out For Delivery - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Women Casual Cotton Striped Straight Kurta"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d03da23156f526",
+        "subject": "Out For Delivery - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Women Casual Cotton Striped Straight Kurta"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d0316fa93e1453",
+        "subject": "Partial Order Shipped - Women Printed Fit & Flare Dress",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Women Printed Fit & Flare Dress"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d009736bb7d66b",
+        "subject": "Exchange request initiated for your AJIO order with Men Regular Fit City Shorts",
+        "from": "AJIO <mail-noreply@ajio.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit City Shorts"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19d004389a386f63",
+        "subject": "Partial Order Delivered - Men Regular Fit City Shorts and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit City Shorts"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19d0043806a3c558",
+        "subject": "Partial Order Delivered - Men Regular Fit Polo T-Shirt with Logo Print",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit Polo T-Shirt with Logo Print"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19cff2a8cd18e36f",
+        "subject": "Out For Delivery - Men Regular Fit Polo T-Shirt with Logo Print",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit Polo T-Shirt with Logo Print"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19cff299314ef780",
+        "subject": "Out For Delivery - Men Regular Fit City Shorts and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit City Shorts"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19cf5f328408ae8f",
+        "subject": "Partial Order Shipped - Men Regular Fit City Shorts and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit City Shorts"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19cf51c0e5218ed6",
+        "subject": "Partial Order Shipped - Men Regular Fit Polo T-Shirt with Logo Print",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Regular Fit Polo T-Shirt with Logo Print"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19cf505a6f9d533b",
+        "subject": "Partial Order Shipped - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Women Casual Cotton Striped Straight Kurta"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": "Count inferred from subject suffix 'and 1 more item(s)'. Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "19cf47402b50e33f",
+        "subject": "Partial Order Shipped - Men Waffle Textured Regular Fit Polo T-Shirt",
+        "from": "ship-confirm@ajio.com",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Waffle Textured Regular Fit Polo T-Shirt"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19cf209e94f8de13",
+        "subject": "Success! Your AJIO Item of Men Cloud94 Regular Fit Polo T-Shirt ... +(8) is on its way to you!",
+        "from": "Ajio Order Update <order-confirm@ajio.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Men Cloud94 Regular Fit Polo T-Shirt"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "no_items_extracted",
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e6465babd5ea",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "missing_order_keyword",
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e60a254727e0",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "missing_order_keyword",
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e5c7d2fc84c1",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "missing_order_keyword",
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e55351371685",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "missing_order_keyword",
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e5137e5148c8",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "missing_order_keyword",
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e4de06580c57",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "missing_order_keyword",
+        "notes": ""
+      },
+      {
+        "messageId": "19a0e4a6b5195fb0",
+        "subject": "Your Myntra return request processed.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [],
+        "rejectionReason": "missing_order_keyword",
+        "notes": ""
+      },
+      {
+        "messageId": "199fba00acffec20",
+        "subject": "Your Myntra return request processed. Please share your feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Initiated YourRefund",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199fb82580fbf544",
+        "subject": "Your Myntra return request processed. Please share your feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Initiated YourRefund",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199fb8250201d296",
+        "subject": "Your Myntra return request processed. Please share your feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Initiated YourRefund",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199fb6f95a6248a8",
+        "subject": "Your Myntra return request processed. Please share your feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Initiated YourRefund",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199fb6e13b2af4db",
+        "subject": "Your Myntra return request processed. Please share your feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Initiated YourRefund",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199fb6bfdb260e7d",
+        "subject": "Your Myntra return request processed. Please share your feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Initiated YourRefund",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199fb6a8ddb117cb",
+        "subject": "Your Myntra return request processed. Please share your feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square Cushion Cover"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Initiated YourRefund",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199fafd29946a73b",
+        "subject": "Your MExpress+ order item(s) have been shipped.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "DREAM WEAVERZ Yellow Geometric Pure Cotton 220 TC Kin"
+          },
+          {
+            "name": "DREAM WEAVERZ Pink Polka Dots Pure Cotton 220 TC King"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "DREAM WEAVERZ Yellow Geometric Pure Cotton 220 TC Kin...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/32209857/2025/1/4/2993ad8e-2ec0-4f5f-8ab3-0ff03beb3e911735929561694DreamWeaverzKingSizeBedsheet-Pink3.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "DREAM WEAVERZ Pink Polka Dots Pure Cotton 220 TC King...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/24842096/2025/4/15/0ab3e7d1-f285-4d6d-b9c5-25754b3407a31744716173526-DREAM-WEAVERZ-Yellow--White-Geometric-printed-Pure-Cotton-Ki-2.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "on Sun, 19 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199fa92441a860be",
+        "subject": "Your M-Now order item is delivered. Please share feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Shilpa sharma!",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/14/X8HEJGsr_e510fbf313c24db6bbfe317e11667213.png",
+            "productUrl": null
+          },
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MAY/2/OXVVX117_f4123f4945d54bb58604d10d26e61d3e.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/18/zoJbDP5t_7abc62d4a5454d8191e40edda77c1cb2.png",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199fa7fa7617dfa3",
+        "subject": "Your Myntra order item is out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Shilpa sharma!",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/19/mW4WTJbp_155a9e9ca1ad421082047cfdc6c4c6eb.png",
+            "productUrl": null
+          },
+          {
+            "name": "Your Myntra order item is out for delivery",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/15/QuURZGIh_7f38e03e645f4e37920d704e6d2a1e27.png",
+            "productUrl": null
+          },
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MAY/2/OXVVX117_f4123f4945d54bb58604d10d26e61d3e.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/18/zoJbDP5t_7abc62d4a5454d8191e40edda77c1cb2.png",
+            "productUrl": null
+          },
+          {
+            "name": "Your M-Now Order Item Is Out For Delivery",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199fa7e706ef127b",
+        "subject": "Your M-Now Myntra Order Confirmation.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "DREAM WEAVERZ Yellow Geometric Pure Cotton 220 TC Kin"
+          },
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Shilpa sharma!",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/3/1NTZL9zP_2fa18dbbacfa45489aeac11ca5ca5405.png",
+            "productUrl": null
+          },
+          {
+            "name": "DREAM WEAVERZ Yellow Geometric Pure Cotton 220 TC Kin...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MAY/2/OXVVX117_f4123f4945d54bb58604d10d26e61d3e.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/18/zoJbDP5t_7abc62d4a5454d8191e40edda77c1cb2.png",
+            "productUrl": null
+          },
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/24842096/2025/4/15/0ab3e7d1-f285-4d6d-b9c5-25754b3407a31744716173526-DREAM-WEAVERZ-Yellow--White-Geometric-printed-Pure-Cotton-Ki-2.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/32209857/2025/1/4/2993ad8e-2ec0-4f5f-8ab3-0ff03beb3e911735929561694DreamWeaverzKingSizeBedsheet-Pink3.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your M-Now Myntra Order Confirmation.",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2021/12/5/5e44ae17-b59e-4c1b-b1d9-238843e843651638707583545-WhatsApp-Image-2021-11-08-at-12.02.13-AM.jpeg",
+            "productUrl": null
+          },
+          {
+            "name": "on Sun, 19 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199f0b2c361a457e",
+        "subject": "Your Myntra order item is out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Item Is Arriving Today on Fri, 17 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199f08b8135cd380",
+        "subject": "Your Myntra order item(s) are out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Items Are Arriving Today on Fri, 17 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199eb0c4c66f6d52",
+        "subject": "Your Myntra order item is out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Sangria Floral Printed Pure Cotton Tiered Maxi"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Sangria Floral Printed Pure Cotton Tiered Maxi ...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/22/yICC4vlD_91afba6925a34fc981edfe9fc5acb1bf.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Order Item Is Arriving Today on Thu, 16 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199e20b04b08cdbd",
+        "subject": "Your M-Express order item(s) are delivered. Please share feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic"
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199e1c4c4f616475",
+        "subject": "Your Myntra order item(s) have been shipped.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your Order on Tue, 14 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199e1746571bbd77",
+        "subject": "Your Myntra order item has been shipped.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your Order on Tue, 14 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199e1117bdc0292f",
+        "subject": "Your M-Express order item(s) are out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic"
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your M-Express Order Items Are Out For Delivery on Tue, 14 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199d98b2abc7aa69",
+        "subject": "Your Myntra  order item has been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "Sangria Floral Printed Pure Cotton Tiered Maxi"
+          },
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck... Est. delivery by Sun, 19 Oct"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Sangria Floral Printed Pure Cotton Tiered Maxi ...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/22/yICC4vlD_91afba6925a34fc981edfe9fc5acb1bf.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck... Est. delivery by Sun, 19 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your Order on Sun, 12 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199d7f5219545605",
+        "subject": "Your Myntra  order item(s) have been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 4,
+        "expectedItems": [
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic"
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs"
+          },
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck... Est. delivery by Sun, 19 Oct"
+          },
+          {
+            "name": "Sangria Floral Printed Pure Cotton Tiered Maxi ... Est. delivery by Thu, 16 Oct"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Accessorize Curve Teardrop Shaped Studs",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck... Est. delivery by Sun, 19 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Sangria Floral Printed Pure Cotton Tiered Maxi ... Est. delivery by Thu, 16 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/22/yICC4vlD_91afba6925a34fc981edfe9fc5acb1bf.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your M-Express Order on Sun, 12 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199d746210454fa7",
+        "subject": "Your Myntra  order item(s) have been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 6,
+        "expectedItems": [
+          {
+            "name": "Roadster Men White Striped Polo Collar Pure Cott"
+          },
+          {
+            "name": "MANGO Striped Monochrome Pure Cotton T-shirt"
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic Est. delivery by Tue, 14 Oct"
+          },
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck... Est. delivery by Sun, 19 Oct"
+          },
+          {
+            "name": "Indo Era Floral Printed V-Neck Linen Straight Ku... Est. delivery by Tue, 14 Oct"
+          },
+          {
+            "name": "+ 2 more item(s)"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "Roadster Men White Striped Polo Collar Pure Cott...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/6/7qNg6EwW_2525393a2473433bbfcd0bd8c7c93848.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "MANGO Striped Monochrome Pure Cotton T-shirt",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/12504226/2021/1/25/de361852-0591-4d88-af19-2b8975a49ec71611576110763-Roadster-Men-Tshirts-2651611576109813-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic Est. delivery by Tue, 14 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck... Est. delivery by Sun, 19 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Indo Era Floral Printed V-Neck Linen Straight Ku... Est. delivery by Tue, 14 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "+ 2 more item(s)",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "on Sun, 12 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199d7252b542c173",
+        "subject": "Your Myntra  order item has been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "all about you Women Printed Drop-Shoulder Sleeves Pur"
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic Est. delivery by Tue, 14 Oct"
+          },
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck... Est. delivery by Sun, 19 Oct"
+          },
+          {
+            "name": "Indo Era Floral Printed V-Neck Linen Straight Ku... Est. delivery by Tue, 14 Oct"
+          },
+          {
+            "name": "+ 4 more item(s)"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "all about you Women Printed Drop-Shoulder Sleeves Pur...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21047918/2025/8/4/dd3c89b4-598a-477d-ae95-398f83670f561754286916871-all-about-you-Pure-Cotton-Pale-White-Drop-Shoulder-Vacay-Chi-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic Est. delivery by Tue, 14 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck... Est. delivery by Sun, 19 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Indo Era Floral Printed V-Neck Linen Straight Ku... Est. delivery by Tue, 14 Oct",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "+ 4 more item(s)",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/12504226/2021/1/25/de361852-0591-4d88-af19-2b8975a49ec71611576110763-Roadster-Men-Tshirts-2651611576109813-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "on Sun, 12 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "199d6f7b6d5dec45",
+        "subject": "Your MExpress+ Myntra Order Confirmation.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 3,
+        "expectedItems": [
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck"
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic"
+          },
+          {
+            "name": "This tshirt is so cute. #casualwear #tshirts"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21047918/2025/8/4/dd3c89b4-598a-477d-ae95-398f83670f561754286916871-all-about-you-Pure-Cotton-Pale-White-Drop-Shoulder-Vacay-Chi-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/12504226/2021/1/25/de361852-0591-4d88-af19-2b8975a49ec71611576110763-Roadster-Men-Tshirts-2651611576109813-1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/6/7qNg6EwW_2525393a2473433bbfcd0bd8c7c93848.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/22/yICC4vlD_91afba6925a34fc981edfe9fc5acb1bf.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your MExpress+ Myntra Order Confirmation.",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2023/6/5/6ee3d57c-7d07-498e-8019-ddefb729b07c1685970844851-AirBrush_20230604022408.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "This tshirt is so cute. #casualwear #tshirts",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2022/4/7/54454214-402a-4e7e-8984-01d5b69ffc831649327865020-Queen-Andro.png",
+            "productUrl": null
+          },
+          {
+            "name": "on Sun, 12 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "199d3e3b25b8c57a",
+        "subject": "Your  Myntra Order Confirmation.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square"
+          },
+          {
+            "name": "Sit Back And Relax. Your Order Is Confirmed on Sat, 11 Oct"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "ZEBA Black & Copper-Toned Embroidered Square...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your Myntra Order Confirmation.",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2021/2/5/bf692543-d40c-4592-8b9a-1328aebb42731612503959426-croppedImage-1612503954216.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Sit Back And Relax. Your Order Is Confirmed on Sat, 11 Oct",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "198d6bf79b857984",
+        "subject": "Your M-Express order item(s) are delivered. Please share feedback",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "198d67adcb9369aa",
+        "subject": "Your M-Express order item(s) are out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your M-Express Order Items Are Out For Delivery on Sat, 23 Aug",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "198d53acfb6bac28",
+        "subject": "Your M-Express order item is out for delivery",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/OCTOBER/26/ceA1jf55_48046c75d99f415e8d24fd52dfa164b5.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "Your M-Express Order Item Is Out For Delivery on Sat, 23 Aug",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "198cf3c2e448f67a",
+        "subject": "Your M-Express order item(s) have been shipped.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your M-Express Order on Fri, 22 Aug",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      },
+      {
+        "messageId": "198cbcc64645173e",
+        "subject": "Your Myntra  order item has been shipped",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 1,
+        "expectedItems": [
+          {
+            "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre"
+          },
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress Est. delivery by Sat, 23 Aug"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/OCTOBER/26/ceA1jf55_48046c75d99f415e8d24fd52dfa164b5.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress Est. delivery by Sat, 23 Aug",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress Est. delivery by Sat, 23 Aug",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "We've Shipped Your M-Express Order on Thu, 21 Aug",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": ""
+      },
+      {
+        "messageId": "198cb5dd620c7bb0",
+        "subject": "Your M-Express Myntra Order Confirmation.",
+        "from": "Myntra Updates <updates@myntra.com>",
+        "expectedItemCount": 2,
+        "expectedItems": [
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress"
+          },
+          {
+            "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre"
+          }
+        ],
+        "predictedItems": [
+          {
+            "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/OCTOBER/26/ceA1jf55_48046c75d99f415e8d24fd52dfa164b5.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre...",
+            "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+            "productUrl": null
+          },
+          {
+            "name": "on Thu, 21 Aug",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+            "productUrl": null
+          }
+        ],
+        "rejectionReason": null,
+        "notes": "Item names taken from confident unique product-like rows only."
+      }
+    ]
+  }
+}

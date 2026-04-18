@@ -1,0 +1,50 @@
+{
+  "type": "asymmetrical tiered maxi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "dusty pink",
+    "all": [
+      "dusty pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "chiffon"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "asymmetrical tiered"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "bohemian",
+      "romantic",
+      "ethereal",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted tank top",
+      "bodysuit",
+      "strappy sandals"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "heavy boots"
+    ]
+  },
+  "item_id": "203993626"
+}

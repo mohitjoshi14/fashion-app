@@ -1,0 +1,52 @@
+{
+  "type": "leather trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "silver"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped straight leg"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "edgy",
+      "rock-chic",
+      "motorcycle-inspired",
+      "statement"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized knit sweaters",
+      "fitted turtlenecks",
+      "ankle boots",
+      "heeled sandals"
+    ],
+    "avoid_with": [
+      "other heavy leather pieces",
+      "formal blazers"
+    ]
+  },
+  "item_id": "181091218"
+}

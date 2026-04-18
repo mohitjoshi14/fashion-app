@@ -1,0 +1,47 @@
+{
+  "type": "camisole",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "chiffon"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tiered"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "boho",
+      "minimalist",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "skinny jeans",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "heavy winter layers"
+    ]
+  },
+  "item_id": "136317099"
+}

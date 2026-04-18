@@ -1,0 +1,51 @@
+{
+  "type": "wide-leg trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot and geometric print",
+    "material": "crepe or silk blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "bohemian",
+      "chic",
+      "statement piece",
+      "high-waisted"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black or white tucked-in blouse",
+      "fitted tank top",
+      "heeled sandals"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "oversized sweaters"
+    ]
+  },
+  "item_id": "187827886"
+}

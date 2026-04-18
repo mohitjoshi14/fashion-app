@@ -1,0 +1,48 @@
+{
+  "type": "v-neck blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-low hem"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "minimalist",
+      "smart casual",
+      "professional"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white trousers",
+      "slim-fit jeans",
+      "pencil skirt"
+    ],
+    "avoid_with": [
+      "oversized baggy pants"
+    ]
+  },
+  "item_id": "156717098"
+}

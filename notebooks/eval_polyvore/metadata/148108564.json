@@ -1,0 +1,51 @@
+{
+  "type": "sweatshirt",
+  "category": "tops",
+  "colors": {
+    "primary": "off-white",
+    "all": [
+      "off-white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "crew neck"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "minimalist",
+      "french-chic",
+      "graphic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blue jeans",
+      "leather skirt",
+      "trench coat"
+    ],
+    "avoid_with": [
+      "formal dress pants",
+      "ball gowns"
+    ]
+  },
+  "item_id": "148108564"
+}

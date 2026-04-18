@@ -1,0 +1,51 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "minimalist",
+      "chic",
+      "modern"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tucked-in blouse",
+      "fitted turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "bulky sweaters"
+    ]
+  },
+  "item_id": "176960448"
+}

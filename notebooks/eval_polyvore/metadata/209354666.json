@@ -1,0 +1,50 @@
+{
+  "type": "flare jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "indigo"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "flared"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "vintage-inspired",
+      "boho"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "daily wear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted t-shirts",
+      "cropped tops",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized tunics that hide the flare"
+    ]
+  },
+  "item_id": "209354666"
+}

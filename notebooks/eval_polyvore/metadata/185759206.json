@@ -1,0 +1,51 @@
+{
+  "type": "v-neck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "sage green",
+    "all": [
+      "sage green",
+      "light green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "ribbed",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "cozy",
+      "minimalist",
+      "casual",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark wash denim jeans",
+      "white button-down shirt underneath",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "neon colors",
+      "formal dress pants"
+    ]
+  },
+  "item_id": "185759206"
+}

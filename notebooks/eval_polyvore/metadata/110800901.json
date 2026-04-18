@@ -1,0 +1,52 @@
+{
+  "type": "sports bra",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "racerback"
+  },
+  "style": {
+    "formality": 0.0,
+    "style_tags": [
+      "athletic",
+      "sportswear",
+      "activewear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "workout"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "leggings",
+      "track pants",
+      "running shorts"
+    ],
+    "avoid_with": [
+      "blazers",
+      "formal trousers"
+    ]
+  },
+  "item_id": "110800901"
+}

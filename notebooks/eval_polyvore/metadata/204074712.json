@@ -1,0 +1,49 @@
+{
+  "type": "culottes",
+  "category": "bottoms",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "minimalist",
+      "chic",
+      "structured"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white tucked-in blouse",
+      "fitted tank top",
+      "heeled sandals"
+    ],
+    "avoid_with": [
+      "oversized sweaters",
+      "bulky layers"
+    ]
+  },
+  "item_id": "204074712"
+}

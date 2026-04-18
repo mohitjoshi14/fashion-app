@@ -1,0 +1,54 @@
+{
+  "type": "wrap skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "pink",
+      "teal",
+      "navy"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "bohemian",
+      "feminine",
+      "romantic",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white camisole",
+      "denim jacket",
+      "espadrilles",
+      "sandals"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters",
+      "formal blazers"
+    ]
+  },
+  "item_id": "171800867"
+}

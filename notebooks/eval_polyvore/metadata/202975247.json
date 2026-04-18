@@ -1,0 +1,51 @@
+{
+  "type": "tie-front button-down shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "preppy",
+      "nautical",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "white linen trousers",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "formal suit trousers",
+      "patterned skirts that clash with stripes"
+    ]
+  },
+  "item_id": "202975247"
+}

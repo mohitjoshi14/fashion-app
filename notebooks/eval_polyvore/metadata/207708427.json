@@ -1,0 +1,51 @@
+{
+  "type": "off-the-shoulder crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "bell sleeve crop"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "boho",
+      "nautical",
+      "summer",
+      "playful"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "white linen trousers",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy winter skirts"
+    ]
+  },
+  "item_id": "207708427"
+}

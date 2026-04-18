@@ -1,0 +1,47 @@
+{
+  "type": "cold-shoulder long sleeve top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "curved hem"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "feminine",
+      "trendy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "denim skirts"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "formal blazers"
+    ]
+  },
+  "item_id": "212813860"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "pink",
+    "all": [
+      "pink",
+      "green",
+      "red",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "luxury",
+      "logo-mania",
+      "casual",
+      "designer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "white sneakers",
+      "leather skirt"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "patterned blazers"
+    ]
+  },
+  "item_id": "204471158"
+}

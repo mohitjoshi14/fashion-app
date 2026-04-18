@@ -1,0 +1,49 @@
+{
+  "type": "asymmetric pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "synthetic blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "asymmetric pencil"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "minimalist",
+      "modern",
+      "chic"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted bodysuit",
+      "silk blouse",
+      "heeled sandals"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "casual graphic tees"
+    ]
+  },
+  "item_id": "196658823"
+}

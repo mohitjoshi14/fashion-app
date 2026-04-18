@@ -1,0 +1,79 @@
+{
+  "id": "double_rail_rolling_rack_industrial",
+  "display_name": "Double Rail Rolling Garment Rack",
+  "fixture_type": "rack",
+  "material": "brushed steel",
+  "style": "industrial minimalist",
+  "slots": [
+    {
+      "id": "front_hanging_rail",
+      "display_name": "Front Hanging Rail",
+      "display_type": "hanging",
+      "orientation": "side_hanging",
+      "capacity": 18,
+      "suitable_categories": [
+        "tops",
+        "bottoms",
+        "outerwear",
+        "full_body"
+      ],
+      "zone": {
+        "x": 0.04,
+        "y": 0.1,
+        "w": 0.92,
+        "h": 0.03
+      },
+      "position_description": "Main lower horizontal rail",
+      "styling_notes": "Primary display area for high-volume hanging merchandise."
+    },
+    {
+      "id": "back_hanging_rail",
+      "display_name": "Back Hanging Rail",
+      "display_type": "hanging",
+      "orientation": "side_hanging",
+      "capacity": 15,
+      "suitable_categories": [
+        "tops",
+        "bottoms",
+        "outerwear",
+        "full_body"
+      ],
+      "zone": {
+        "x": 0.13,
+        "y": 0.04,
+        "w": 0.79,
+        "h": 0.03
+      },
+      "position_description": "Upper, set-back horizontal rail",
+      "styling_notes": "Ideal for coordinating pieces or creating depth in the display. Slightly less accessible than the front rail."
+    },
+    {
+      "id": "bottom_base_shelf",
+      "display_name": "Bottom Base Frame",
+      "display_type": "folded",
+      "orientation": "flat",
+      "capacity": 5,
+      "suitable_categories": [
+        "bottoms",
+        "accessories"
+      ],
+      "zone": {
+        "x": 0.06,
+        "y": 0.73,
+        "w": 0.88,
+        "h": 0.18
+      },
+      "position_description": "Area between the bottom support bars",
+      "styling_notes": "Can hold a few folded items (like jeans) or shoe boxes, but use sparingly to avoid a cluttered look."
+    }
+  ],
+  "total_capacity": 38,
+  "suitable_aesthetics": [
+    "industrial",
+    "minimalist",
+    "contemporary",
+    "streetwear"
+  ],
+  "fixture_notes": "A versatile, mobile rack with adjustable height. Excellent for high-density hanging displays in various retail environments. The double rail allows for layered merchandising.",
+  "_source_image": "fix_2.jpg"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "camisole",
+  "category": "tops",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "geometric",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "ruffled"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "bohemian",
+      "feminine",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim shorts",
+      "linen trousers",
+      "sandals"
+    ],
+    "avoid_with": [
+      "heavy wool blazers",
+      "formal suit pants"
+    ]
+  },
+  "item_id": "171161421"
+}

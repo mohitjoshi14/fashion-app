@@ -1,0 +1,51 @@
+{
+  "type": "muscle tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "sleeveless"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "graphic",
+      "slogan",
+      "sporty"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "leggings",
+      "joggers"
+    ],
+    "avoid_with": [
+      "blazers",
+      "formal trousers"
+    ]
+  },
+  "item_id": "209970388"
+}

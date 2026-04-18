@@ -1,0 +1,49 @@
+{
+  "type": "sleeveless blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "asymmetrical hem"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "minimalist",
+      "smart casual",
+      "layered"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white trousers",
+      "denim jeans",
+      "pencil skirts"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "patterned bottoms that clash with yellow"
+    ]
+  },
+  "item_id": "173212917"
+}

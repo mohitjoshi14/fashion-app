@@ -1,0 +1,48 @@
+{
+  "type": "ribbed knit short-sleeve sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "midi skirts",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters"
+    ]
+  },
+  "item_id": "169032784"
+}

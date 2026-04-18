@@ -1,0 +1,52 @@
+{
+  "type": "double-breasted blazer",
+  "category": "outerwear",
+  "colors": {
+    "primary": "pink",
+    "all": [
+      "pink",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "color-blocked",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "structured"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "preppy",
+      "chic",
+      "modern",
+      "tailored"
+    ],
+    "occasion_suitability": [
+      "office",
+      "smart-casual",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white trousers",
+      "black slim-fit jeans",
+      "heeled loafers"
+    ],
+    "avoid_with": [
+      "heavily patterned skirts",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "185660390"
+}

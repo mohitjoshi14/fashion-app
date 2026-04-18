@@ -1,0 +1,78 @@
+{
+  "id": "nesting_display_tables_3_tier",
+  "display_name": "3-Tier Nesting Display Tables",
+  "fixture_type": "table",
+  "material": "Brushed metal frame with light wood tops",
+  "style": "Minimalist, modern, industrial",
+  "slots": [
+    {
+      "id": "top_shelf",
+      "display_name": "Top Tier Shelf",
+      "display_type": "folded",
+      "orientation": "flat",
+      "capacity": 3,
+      "suitable_categories": [
+        "tops",
+        "accessories"
+      ],
+      "zone": {
+        "x": 0.33,
+        "y": 0.16,
+        "w": 0.33,
+        "h": 0.05
+      },
+      "position_description": "Highest, smallest display surface",
+      "styling_notes": "Ideal for highlighting a single hero item or small accessories like jewelry or wallets."
+    },
+    {
+      "id": "middle_shelf",
+      "display_name": "Middle Tier Shelf",
+      "display_type": "folded",
+      "orientation": "flat",
+      "capacity": 6,
+      "suitable_categories": [
+        "tops",
+        "bottoms",
+        "accessories"
+      ],
+      "zone": {
+        "x": 0.08,
+        "y": 0.3,
+        "w": 0.84,
+        "h": 0.08
+      },
+      "position_description": "Medium-sized display surface below the top tier",
+      "styling_notes": "Good for displaying a small collection of folded garments or a mix of products."
+    },
+    {
+      "id": "bottom_shelf",
+      "display_name": "Bottom Tier Shelf",
+      "display_type": "folded",
+      "orientation": "flat",
+      "capacity": 10,
+      "suitable_categories": [
+        "tops",
+        "bottoms",
+        "outerwear",
+        "accessories"
+      ],
+      "zone": {
+        "x": 0.19,
+        "y": 0.41,
+        "w": 0.57,
+        "h": 0.08
+      },
+      "position_description": "Lowest, largest display surface",
+      "styling_notes": "Best for bulkier items like folded sweaters or jeans, or for creating a larger product story."
+    }
+  ],
+  "total_capacity": 19,
+  "suitable_aesthetics": [
+    "contemporary",
+    "scandinavian",
+    "minimalist",
+    "industrial"
+  ],
+  "fixture_notes": "Versatile nesting tables allow for dynamic, multi-level product presentations. Can be used together as a single unit or separated for smaller displays.",
+  "_source_image": "fix_4.jpg"
+}

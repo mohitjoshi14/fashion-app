@@ -1,0 +1,52 @@
+{
+  "type": "longline cardigan",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "light grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "longline"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "cozy",
+      "loungewear",
+      "layering piece"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted t-shirts",
+      "jeans",
+      "leggings",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters underneath"
+    ]
+  },
+  "item_id": "147247374"
+}

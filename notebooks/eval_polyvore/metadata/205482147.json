@@ -1,0 +1,49 @@
+{
+  "type": "mesh crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "mesh",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "athleisure",
+      "sporty",
+      "streetwear",
+      "edgy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "sports bra",
+      "high-waisted leggings",
+      "biker shorts"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress pants"
+    ]
+  },
+  "item_id": "205482147"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "graphic sweatshirt",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "oversized with ruffled sleeves"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "sporty",
+      "whimsical",
+      "fandom"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "leggings",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "pencil skirts"
+    ]
+  },
+  "item_id": "212249867"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "high-waisted skinny jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "distressed",
+      "edgy",
+      "minimalist",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized sweaters",
+      "graphic t-shirts",
+      "ankle boots",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress shoes"
+    ]
+  },
+  "item_id": "206423312"
+}

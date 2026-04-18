@@ -1,0 +1,49 @@
+{
+  "type": "blazer dress",
+  "category": "dress",
+  "colors": {
+    "primary": "purple",
+    "all": [
+      "purple"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "tailored",
+    "silhouette": "structured"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "chic",
+      "sophisticated",
+      "power dressing"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black tights",
+      "heeled ankle boots",
+      "minimalist gold jewelry"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "casual sneakers"
+    ]
+  },
+  "item_id": "172514110"
+}

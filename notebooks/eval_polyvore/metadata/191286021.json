@@ -1,0 +1,53 @@
+{
+  "type": "biker jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "tweed",
+    "material": "tweed and leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "edgy",
+      "sophisticated",
+      "moto",
+      "textured"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "leather trousers",
+      "white silk camisole"
+    ],
+    "avoid_with": [
+      "heavy patterned skirts",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "191286021"
+}

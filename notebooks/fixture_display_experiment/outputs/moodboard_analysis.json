@@ -1,0 +1,38 @@
+{
+  "theme": "Rubby Fire",
+  "mood": "intense, passionate, bold, dramatic, vibrant",
+  "color_palette": {
+    "dominant": [
+      "vibrant red",
+      "deep crimson",
+      "scarlet"
+    ],
+    "accent": [
+      "black",
+      "coral pink",
+      "white",
+      "teal green"
+    ],
+    "avoid": [
+      "muted pastels",
+      "cool blues",
+      "earthy browns",
+      "neon yellow"
+    ]
+  },
+  "style_direction": "sculptural forms, dramatic silhouettes, natural inspirations, bold textures, avant-garde design",
+  "season_feel": "late summer into fall",
+  "occasion_feel": "high fashion, editorial, dramatic evening wear, artistic statement",
+  "texture_notes": "sculptural fabric folds, delicate petals, berry textures, smooth candle wax, hard buttons, stained glass",
+  "display_atmosphere": "dramatic lighting, minimalist backdrop to highlight the red, perhaps some natural elements like dark wood or stone to contrast",
+  "keywords": [
+    "red",
+    "fire",
+    "passion",
+    "sculptural",
+    "nature",
+    "dramatic",
+    "avant-garde",
+    "vibrant"
+  ]
+}

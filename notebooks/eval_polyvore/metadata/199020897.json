@@ -1,0 +1,49 @@
+{
+  "type": "bomber jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "satin"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "sporty",
+      "casual",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "leggings",
+      "white sneakers"
+    ],
+    "avoid_with": [
+      "formal dress pants",
+      "business attire"
+    ]
+  },
+  "item_id": "199020897"
+}

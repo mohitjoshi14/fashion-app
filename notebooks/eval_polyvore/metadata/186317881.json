@@ -1,0 +1,53 @@
+{
+  "type": "pleated midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "burgundy",
+    "all": [
+      "burgundy",
+      "navy blue",
+      "silver"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "satin"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "chic",
+      "structured",
+      "grommet detail"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "crisp white button-down shirt",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "athletic sneakers"
+    ]
+  },
+  "item_id": "186317881"
+}

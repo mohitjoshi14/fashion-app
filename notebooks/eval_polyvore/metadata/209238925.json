@@ -1,0 +1,53 @@
+{
+  "type": "peplum blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "blue",
+      "gold",
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "tropical",
+      "bohemian",
+      "summer",
+      "playful"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim shorts",
+      "slim-fit capris",
+      "sandals"
+    ],
+    "avoid_with": [
+      "patterned bottoms",
+      "formal blazers"
+    ]
+  },
+  "item_id": "209238925"
+}

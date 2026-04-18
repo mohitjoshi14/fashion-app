@@ -1,0 +1,50 @@
+{
+  "type": "graphic t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "band merch",
+      "casual",
+      "rock",
+      "indie"
+    ],
+    "occasion_suitability": [
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "leather jacket",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "210759650"
+}

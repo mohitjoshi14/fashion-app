@@ -1,0 +1,52 @@
+{
+  "type": "skort",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black",
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "asymmetrical wrap"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "preppy",
+      "playful",
+      "casual",
+      "youthful"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "summer outing"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted black crop top",
+      "white sneakers",
+      "tucked-in graphic tee"
+    ],
+    "avoid_with": [
+      "oversized bulky sweaters",
+      "formal blazers"
+    ]
+  },
+  "item_id": "181308153"
+}

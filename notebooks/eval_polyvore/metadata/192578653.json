@@ -1,0 +1,49 @@
+{
+  "type": "ruffle sleeve blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "feminine",
+      "casual",
+      "bright"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim jeans",
+      "high-waisted midi skirts",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "neon patterned bottoms",
+      "heavy winter trousers"
+    ]
+  },
+  "item_id": "192578653"
+}

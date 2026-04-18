@@ -1,0 +1,52 @@
+{
+  "type": "cropped wide-leg jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "distressed/bleached",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "distressed",
+      "streetwear",
+      "bohemian"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted t-shirt",
+      "sneakers",
+      "ankle boots",
+      "tank top"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress shoes"
+    ]
+  },
+  "item_id": "142865484"
+}

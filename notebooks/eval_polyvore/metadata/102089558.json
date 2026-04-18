@@ -1,0 +1,48 @@
+{
+  "type": "sleeveless top",
+  "category": "tops",
+  "colors": {
+    "primary": "black and white",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "gingham",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "preppy",
+      "minimalist",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "white trousers",
+      "pencil skirts"
+    ],
+    "avoid_with": [
+      "busy patterned bottoms"
+    ]
+  },
+  "item_id": "102089558"
+}

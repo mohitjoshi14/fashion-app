@@ -1,0 +1,52 @@
+{
+  "type": "waterfall cardigan",
+  "category": "outerwear",
+  "colors": {
+    "primary": "camel",
+    "all": [
+      "camel",
+      "tan"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "draped"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "layered",
+      "chic",
+      "draped"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted long-sleeve tops",
+      "skinny jeans",
+      "turtlenecks"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "voluminous skirts"
+    ]
+  },
+  "item_id": "146191145"
+}

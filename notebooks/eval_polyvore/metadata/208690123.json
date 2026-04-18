@@ -1,0 +1,50 @@
+{
+  "type": "tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "hot pink",
+    "all": [
+      "hot pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-low hem"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "summer",
+      "basic",
+      "sleeveless"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "white jeans",
+      "maxi skirts"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress trousers"
+    ]
+  },
+  "item_id": "208690123"
+}

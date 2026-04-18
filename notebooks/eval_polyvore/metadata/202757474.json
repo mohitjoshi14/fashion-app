@@ -1,0 +1,51 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black and white",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "gingham",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "classic",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color blouse",
+      "fitted turtleneck",
+      "loafers",
+      "pumps"
+    ],
+    "avoid_with": [
+      "busy patterns",
+      "plaid tops"
+    ]
+  },
+  "item_id": "202757474"
+}

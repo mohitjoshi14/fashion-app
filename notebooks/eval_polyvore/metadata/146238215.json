@@ -1,0 +1,50 @@
+{
+  "type": "cable-knit short sleeve sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "off-white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "cable-knit",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "preppy",
+      "classic",
+      "cozy",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "midi skirts",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "bulky oversized cardigans"
+    ]
+  },
+  "item_id": "146238215"
+}

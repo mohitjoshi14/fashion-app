@@ -1,0 +1,54 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "pink",
+      "orange",
+      "yellow",
+      "purple",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral applique",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "feminine",
+      "chic",
+      "embellished"
+    ],
+    "occasion_suitability": [
+      "party",
+      "dinner",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color silk blouse",
+      "fitted turtleneck",
+      "heeled sandals"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "132747249"
+}

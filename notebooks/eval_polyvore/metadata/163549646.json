@@ -1,0 +1,51 @@
+{
+  "type": "varsity jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "navy blue",
+      "red",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "satin"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "sporty",
+      "collegiate",
+      "streetwear",
+      "retro"
+    ],
+    "occasion_suitability": [
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "mini skirts",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "dress shirts"
+    ]
+  },
+  "item_id": "163549646"
+}

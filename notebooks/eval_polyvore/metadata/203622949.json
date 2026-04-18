@@ -1,0 +1,50 @@
+{
+  "type": "off-shoulder ruffle blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "ruffled"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "romantic",
+      "feminine",
+      "bohemian",
+      "vibrant"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim jeans",
+      "high-waisted denim shorts",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "oversized blazers",
+      "patterned bottoms that clash"
+    ]
+  },
+  "item_id": "203622949"
+}

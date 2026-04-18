@@ -1,0 +1,53 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "green",
+      "red",
+      "brown",
+      "blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "vintage-inspired",
+      "botanical",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color tucked-in blouse",
+      "fitted turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "139502312"
+}

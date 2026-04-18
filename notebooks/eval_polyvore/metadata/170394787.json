@@ -1,0 +1,54 @@
+{
+  "type": "leggings",
+  "category": "bottoms",
+  "colors": {
+    "primary": "multicolor",
+    "all": [
+      "yellow",
+      "blue",
+      "red",
+      "green",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "abstract paint splatter",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "artistic",
+      "vibrant",
+      "athleisure",
+      "bold"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "activewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color tank top",
+      "neutral oversized t-shirt",
+      "denim jacket"
+    ],
+    "avoid_with": [
+      "other busy patterns",
+      "formal blazers"
+    ]
+  },
+  "item_id": "170394787"
+}

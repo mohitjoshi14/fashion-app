@@ -1,0 +1,52 @@
+{
+  "type": "maxi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "purple",
+      "maroon",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "mandala",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "column"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "ethnic",
+      "festival"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color tank top",
+      "fitted crop top",
+      "sandals"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "heavy winter sweaters"
+    ]
+  },
+  "item_id": "203636956"
+}

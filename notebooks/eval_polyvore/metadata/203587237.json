@@ -1,0 +1,53 @@
+{
+  "type": "track pants",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "tapered"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "sportswear",
+      "athleisure",
+      "athletic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "hoodies",
+      "t-shirts",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "dress shirts",
+      "blazers",
+      "formal shoes"
+    ]
+  },
+  "item_id": "203587237"
+}

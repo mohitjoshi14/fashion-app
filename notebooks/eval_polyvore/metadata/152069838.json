@@ -1,0 +1,51 @@
+{
+  "type": "hoodie",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "athletic"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "athletic",
+      "sportswear",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "activewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "leggings",
+      "joggers",
+      "athletic shorts"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "152069838"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "blazer",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid with contrast piping",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "structured"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "smart casual",
+      "minimalist",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "white button-down shirt",
+      "jeans"
+    ],
+    "avoid_with": [
+      "track pants",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "164950992"
+}

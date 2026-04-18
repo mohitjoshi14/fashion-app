@@ -1,0 +1,50 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral lace",
+    "material": "lace"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "elegant",
+      "feminine",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white silk blouse",
+      "black camisole",
+      "nude heels"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "clashing patterns"
+    ]
+  },
+  "item_id": "184090583"
+}

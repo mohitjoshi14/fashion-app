@@ -1,0 +1,51 @@
+{
+  "type": "ringer t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "white",
+      "dark blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "crew neck"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "retro",
+      "sporty",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "white jeans",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "200787550"
+}

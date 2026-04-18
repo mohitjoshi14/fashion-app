@@ -1,0 +1,47 @@
+{
+  "type": "mock neck crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "casual",
+      "modern"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "midi skirts",
+      "layered under blazers"
+    ],
+    "avoid_with": [
+      "low-rise bottoms"
+    ]
+  },
+  "item_id": "107667674"
+}

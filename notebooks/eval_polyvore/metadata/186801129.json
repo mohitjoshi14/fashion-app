@@ -1,0 +1,51 @@
+{
+  "type": "pussy-bow blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "polka dot",
+    "material": "silk"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "blouson"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "vintage-inspired",
+      "feminine",
+      "classic",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirt",
+      "blazer"
+    ],
+    "avoid_with": [
+      "patterned bottoms",
+      "track pants"
+    ]
+  },
+  "item_id": "186801129"
+}

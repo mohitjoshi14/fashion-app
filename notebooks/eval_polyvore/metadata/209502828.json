@@ -1,0 +1,47 @@
+{
+  "type": "jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "tapered"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "minimalist",
+      "summer-staple"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "pastel shirts",
+      "navy blazers",
+      "striped tees"
+    ],
+    "avoid_with": [
+      "heavy dark winter layers"
+    ]
+  },
+  "item_id": "209502828"
+}

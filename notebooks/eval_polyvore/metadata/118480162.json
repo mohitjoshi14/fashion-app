@@ -1,0 +1,51 @@
+{
+  "type": "draped crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "satin"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "draped cowl neck"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "elegant",
+      "evening",
+      "glamorous",
+      "draped"
+    ],
+    "occasion_suitability": [
+      "party",
+      "formal",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "pencil skirt",
+      "tailored blazer"
+    ],
+    "avoid_with": [
+      "casual cargo pants",
+      "distressed denim"
+    ]
+  },
+  "item_id": "118480162"
+}

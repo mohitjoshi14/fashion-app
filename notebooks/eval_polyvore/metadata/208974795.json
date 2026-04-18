@@ -1,0 +1,51 @@
+{
+  "type": "criss-cross halter tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "peach",
+    "all": [
+      "peach",
+      "light orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "y2k",
+      "minimalist",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "denim shorts",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy winter layers"
+    ]
+  },
+  "item_id": "208974795"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "peplum shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "pink",
+    "all": [
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "feminine",
+      "preppy",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "denim jeans",
+      "pencil skirts"
+    ],
+    "avoid_with": [
+      "voluminous skirts",
+      "wide-leg trousers"
+    ]
+  },
+  "item_id": "198613802"
+}

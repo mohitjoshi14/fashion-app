@@ -1,0 +1,50 @@
+{
+  "type": "flared trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "flared with front slits"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "minimalist",
+      "chic",
+      "tailored"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "silk blouse",
+      "fitted turtleneck",
+      "pointed-toe heels"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "bulky sneakers"
+    ]
+  },
+  "item_id": "200006002"
+}

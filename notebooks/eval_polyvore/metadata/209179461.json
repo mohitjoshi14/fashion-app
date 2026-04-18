@@ -1,0 +1,49 @@
+{
+  "type": "off-shoulder blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white",
+      "red",
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "mixed floral and striped",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "asymmetrical"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "casual",
+      "statement"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white skinny jeans",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "heavily patterned bottoms"
+    ]
+  },
+  "item_id": "209179461"
+}

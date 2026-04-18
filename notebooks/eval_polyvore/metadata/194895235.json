@@ -1,0 +1,49 @@
+{
+  "type": "cold-shoulder knit sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "magenta",
+    "all": [
+      "magenta",
+      "white",
+      "lavender"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "space-dyed",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cold-shoulder"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "avant-garde",
+      "textured",
+      "edgy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night-out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted leather pants",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "busy patterned skirts"
+    ]
+  },
+  "item_id": "194895235"
+}

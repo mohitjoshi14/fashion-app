@@ -1,0 +1,50 @@
+{
+  "type": "cargo pants",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "utilitarian",
+      "casual",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted t-shirts",
+      "hoodies",
+      "sneakers",
+      "combat boots"
+    ],
+    "avoid_with": [
+      "formal dress shirts",
+      "blazers"
+    ]
+  },
+  "item_id": "148376481"
+}

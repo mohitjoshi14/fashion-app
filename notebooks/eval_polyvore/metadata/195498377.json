@@ -1,0 +1,55 @@
+{
+  "type": "hawaiian shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "multicolor",
+    "all": [
+      "white",
+      "green",
+      "yellow",
+      "blue",
+      "black",
+      "orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "tropical floral",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "tropical",
+      "vacation",
+      "resort wear",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "chino shorts",
+      "denim shorts",
+      "white linen trousers"
+    ],
+    "avoid_with": [
+      "formal suit trousers",
+      "patterned bottoms"
+    ]
+  },
+  "item_id": "195498377"
+}

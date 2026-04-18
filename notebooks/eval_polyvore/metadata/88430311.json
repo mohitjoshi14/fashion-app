@@ -1,0 +1,56 @@
+{
+  "type": "sweatpants",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white",
+      "gold",
+      "red",
+      "green",
+      "blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "loungewear",
+      "fandom",
+      "casual",
+      "athletic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "lounging"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color t-shirt",
+      "hoodie",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "blazer",
+      "dress shirt",
+      "formal shoes"
+    ]
+  },
+  "item_id": "88430311"
+}

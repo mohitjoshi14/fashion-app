@@ -1,0 +1,51 @@
+{
+  "type": "leather biker jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "silver"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "leather"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "edgy",
+      "biker",
+      "rock-chic",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night-out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "distressed denim",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal evening gowns",
+      "business suits"
+    ]
+  },
+  "item_id": "180707863"
+}

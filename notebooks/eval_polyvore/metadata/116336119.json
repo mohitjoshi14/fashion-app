@@ -1,0 +1,52 @@
+{
+  "type": "fur coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "brown",
+    "all": [
+      "brown",
+      "beige",
+      "cream",
+      "tan"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "color-blocked",
+    "material": "fur"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "luxury",
+      "glamorous",
+      "vintage-inspired",
+      "statement"
+    ],
+    "occasion_suitability": [
+      "formal",
+      "party",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "silk slip dress",
+      "heeled boots"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "casual sportswear"
+    ]
+  },
+  "item_id": "116336119"
+}

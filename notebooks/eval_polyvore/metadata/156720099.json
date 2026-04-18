@@ -1,0 +1,53 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black",
+      "blue",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "tweed"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "classic",
+      "chic",
+      "academic"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid turtleneck",
+      "fitted blouse",
+      "knee-high boots"
+    ],
+    "avoid_with": [
+      "patterned tops",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "156720099"
+}

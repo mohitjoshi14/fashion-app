@@ -1,0 +1,52 @@
+{
+  "type": "skinny trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "red",
+      "green",
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "statement",
+      "vibrant",
+      "botanical"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid white blouse",
+      "neutral tank top",
+      "denim jacket"
+    ],
+    "avoid_with": [
+      "other busy floral prints",
+      "clashing patterns"
+    ]
+  },
+  "item_id": "161862906"
+}

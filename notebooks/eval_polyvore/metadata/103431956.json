@@ -1,0 +1,50 @@
+{
+  "type": "jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "medium blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "color-blocked",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "streetwear",
+      "patchwork"
+    ],
+    "occasion_suitability": [
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "hoodie",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazer",
+      "dress shoes"
+    ]
+  },
+  "item_id": "103431956"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "culottes",
+  "category": "bottoms",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "tailored",
+      "paperbag-waist"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "slim-fit blouse",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized sweaters",
+      "bulky tunics"
+    ]
+  },
+  "item_id": "185170765"
+}

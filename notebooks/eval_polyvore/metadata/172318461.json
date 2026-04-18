@@ -1,0 +1,53 @@
+{
+  "type": "camisole",
+  "category": "tops",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue",
+      "pink",
+      "light blue",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tiered"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "boho",
+      "feminine",
+      "casual",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "white linen trousers",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy wool skirts"
+    ]
+  },
+  "item_id": "172318461"
+}

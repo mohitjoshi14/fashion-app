@@ -1,0 +1,48 @@
+{
+  "type": "short-sleeve sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "olive green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "crew neck"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "preppy",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "midi skirts",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "overly athletic shorts"
+    ]
+  },
+  "item_id": "190749375"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "cape coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "oversized",
+    "silhouette": "draped"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "minimalist",
+      "elegant",
+      "sophisticated",
+      "layered"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "turtleneck sweaters",
+      "leather gloves",
+      "knee-high boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "voluminous skirts"
+    ]
+  },
+  "item_id": "197275863"
+}

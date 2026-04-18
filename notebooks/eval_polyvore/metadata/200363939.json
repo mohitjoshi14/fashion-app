@@ -1,0 +1,50 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "textured knit",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "classic",
+      "vibrant"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white blouse",
+      "fitted navy top",
+      "neutral heels"
+    ],
+    "avoid_with": [
+      "clashing neon prints",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "200363939"
+}

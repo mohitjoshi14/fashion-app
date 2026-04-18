@@ -1,0 +1,50 @@
+{
+  "type": "trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "windowpane check",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "minimalist",
+      "smart casual"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black blouse",
+      "white t-shirt",
+      "navy blazer"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "plaid shirts"
+    ]
+  },
+  "item_id": "147322894"
+}

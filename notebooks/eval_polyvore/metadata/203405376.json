@@ -1,0 +1,50 @@
+{
+  "type": "cardigan",
+  "category": "outerwear",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "preppy",
+      "basic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "floral dresses",
+      "dark denim jeans",
+      "pencil skirts"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters"
+    ]
+  },
+  "item_id": "203405376"
+}

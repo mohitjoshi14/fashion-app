@@ -1,0 +1,50 @@
+{
+  "type": "pleated mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "preppy",
+      "tennis-core",
+      "youthful",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "oversized sweater",
+      "sneakers",
+      "loafers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "business attire"
+    ]
+  },
+  "item_id": "122050295"
+}

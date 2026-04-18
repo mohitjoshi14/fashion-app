@@ -1,0 +1,50 @@
+{
+  "type": "blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "silk"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped with waist tie"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "elegant",
+      "minimalist",
+      "sophisticated",
+      "two-tone"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted black trousers",
+      "pencil skirt"
+    ],
+    "avoid_with": [
+      "low-rise jeans",
+      "oversized baggy pants"
+    ]
+  },
+  "item_id": "194818001"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "teal",
+      "green",
+      "lime"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "synthetic blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "mermaid"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "avant-garde",
+      "artistic",
+      "statement"
+    ],
+    "occasion_suitability": [
+      "party",
+      "evening",
+      "creative"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black fitted turtleneck",
+      "minimalist heels"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "oversized sweaters"
+    ]
+  },
+  "item_id": "65205037"
+}

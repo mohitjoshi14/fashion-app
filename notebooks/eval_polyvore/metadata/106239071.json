@@ -1,0 +1,51 @@
+{
+  "type": "sweat shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "sage green",
+    "all": [
+      "sage green",
+      "white",
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cuffed hem"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "athleisure",
+      "loungewear",
+      "sporty"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "lounging"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white tank top",
+      "oversized graphic t-shirt",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "blazers",
+      "formal dress shirts"
+    ]
+  },
+  "item_id": "106239071"
+}

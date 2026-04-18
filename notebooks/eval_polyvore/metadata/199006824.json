@@ -1,0 +1,49 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "asymmetrical wrap"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "edgy",
+      "chic",
+      "modern",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "party",
+      "night out",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized knit sweater",
+      "fitted turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky athletic wear"
+    ]
+  },
+  "item_id": "199006824"
+}

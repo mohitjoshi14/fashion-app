@@ -1,0 +1,50 @@
+{
+  "type": "bomber jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "burgundy",
+    "all": [
+      "burgundy",
+      "navy blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend and quilted nylon"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped bomber"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "sporty",
+      "streetwear",
+      "utilitarian",
+      "layered"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit jeans",
+      "dark trousers",
+      "high-top sneakers"
+    ],
+    "avoid_with": [
+      "formal dress pants",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "189022208"
+}

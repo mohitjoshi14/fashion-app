@@ -1,0 +1,51 @@
+{
+  "type": "lace camisole",
+  "category": "tops",
+  "colors": {
+    "primary": "purple",
+    "all": [
+      "purple",
+      "lavender"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "lace"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "romantic",
+      "lingerie-inspired",
+      "feminine",
+      "y2k"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "leather jacket",
+      "blazer"
+    ],
+    "avoid_with": [
+      "formal office trousers",
+      "heavy winter sweaters"
+    ]
+  },
+  "item_id": "207090228"
+}

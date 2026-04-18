@@ -1,0 +1,51 @@
+{
+  "type": "dolphin shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "athletic"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "athletic",
+      "sporty",
+      "casual",
+      "loungewear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized t-shirt",
+      "crop top",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "blazer",
+      "formal blouse"
+    ]
+  },
+  "item_id": "164690478"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "paperbag waist skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "leather"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "paperbag waist"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "edgy",
+      "chic",
+      "modern",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "silk blouse",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized bulky sweaters",
+      "other leather pieces"
+    ]
+  },
+  "item_id": "146705011"
+}

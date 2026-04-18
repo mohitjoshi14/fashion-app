@@ -1,0 +1,50 @@
+{
+  "type": "muscle tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "sleeveless"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "rock-n-roll",
+      "casual",
+      "edgy",
+      "graphic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "concert"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "distressed denim jeans",
+      "leather jacket",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "204795864"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tunic"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "whimsical",
+      "casual",
+      "cozy",
+      "novelty"
+    ],
+    "occasion_suitability": [
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "skinny jeans",
+      "leggings",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "pencil skirts"
+    ]
+  },
+  "item_id": "187751768"
+}

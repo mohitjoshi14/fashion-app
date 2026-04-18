@@ -1,0 +1,51 @@
+{
+  "type": "tapered trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "leaf print",
+    "material": "viscose blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tapered"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "statement",
+      "bold",
+      "artistic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black blouse",
+      "white fitted tank top",
+      "black heels"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "clashing colors"
+    ]
+  },
+  "item_id": "165651783"
+}

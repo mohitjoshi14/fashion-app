@@ -1,0 +1,49 @@
+{
+  "type": "crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "square neck"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "minimalist",
+      "athleisure",
+      "basic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "denim shorts",
+      "leggings",
+      "oversized blazer"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ]
+  },
+  "item_id": "173843319"
+}

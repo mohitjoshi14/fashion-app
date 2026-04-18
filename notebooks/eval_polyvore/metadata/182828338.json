@@ -1,0 +1,48 @@
+{
+  "type": "cable-knit turtleneck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "charcoal grey",
+    "all": [
+      "charcoal grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "cable-knit",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "cozy",
+      "classic",
+      "preppy",
+      "winter-essential"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "midi skirts",
+      "trousers"
+    ],
+    "avoid_with": [
+      "heavy patterned bottoms"
+    ]
+  },
+  "item_id": "182828338"
+}

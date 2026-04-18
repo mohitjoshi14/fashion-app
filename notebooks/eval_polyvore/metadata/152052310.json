@@ -1,0 +1,50 @@
+{
+  "type": "turtleneck cable-knit sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "teal",
+    "all": [
+      "teal",
+      "blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "cable-knit",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "oversized",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "cozy",
+      "winter-wear",
+      "chunky",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit jeans",
+      "leggings",
+      "leather boots"
+    ],
+    "avoid_with": [
+      "voluminous skirts",
+      "other chunky knitwear"
+    ]
+  },
+  "item_id": "152052310"
+}

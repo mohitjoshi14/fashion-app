@@ -1,0 +1,49 @@
+{
+  "type": "parka",
+  "category": "outerwear",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "synthetic blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "winter-wear",
+      "utilitarian"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "thermal leggings",
+      "winter boots"
+    ],
+    "avoid_with": [
+      "formal evening wear",
+      "light summer dresses"
+    ]
+  },
+  "item_id": "191688466"
+}

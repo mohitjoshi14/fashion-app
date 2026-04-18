@@ -1,0 +1,48 @@
+{
+  "type": "button-down shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "star print",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "casual",
+      "playful",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black trousers",
+      "denim jeans",
+      "leather skirt"
+    ],
+    "avoid_with": [
+      "other busy patterns"
+    ]
+  },
+  "item_id": "190300093"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "crop tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "minimalist",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "midi skirts",
+      "linen trousers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy winter layers"
+    ]
+  },
+  "item_id": "109430068"
+}

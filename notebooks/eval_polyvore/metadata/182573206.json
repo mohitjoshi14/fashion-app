@@ -1,0 +1,52 @@
+{
+  "type": "pussy-bow blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "tan",
+      "camel"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "silk"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "blouson"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "classic",
+      "elegant",
+      "minimalist",
+      "professional"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "blazers"
+    ],
+    "avoid_with": [
+      "distressed denim",
+      "sportswear"
+    ]
+  },
+  "item_id": "182573206"
+}

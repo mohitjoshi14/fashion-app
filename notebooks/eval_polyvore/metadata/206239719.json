@@ -1,0 +1,49 @@
+{
+  "type": "blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "v-neck with puff sleeves"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "feminine",
+      "minimalist",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white trousers",
+      "blue denim jeans",
+      "pencil skirts"
+    ],
+    "avoid_with": [
+      "brightly patterned bottoms"
+    ]
+  },
+  "item_id": "206239719"
+}

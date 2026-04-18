@@ -1,0 +1,52 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black and white",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "graphic",
+      "monochrome",
+      "modern",
+      "geometric"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black blouse",
+      "white tucked-in camisole",
+      "heels"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "horizontal striped shirts"
+    ]
+  },
+  "item_id": "118441370"
+}

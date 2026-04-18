@@ -1,0 +1,52 @@
+{
+  "type": "button-down shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "tailored"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "classic",
+      "minimalist",
+      "professional",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "denim jeans",
+      "blazers"
+    ],
+    "avoid_with": [
+      "overly athletic wear"
+    ]
+  },
+  "item_id": "144344884"
+}

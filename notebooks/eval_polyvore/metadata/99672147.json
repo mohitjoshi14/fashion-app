@@ -1,0 +1,49 @@
+{
+  "type": "crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "minimalist",
+      "casual",
+      "basic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "denim shorts",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress pants"
+    ]
+  },
+  "item_id": "99672147"
+}

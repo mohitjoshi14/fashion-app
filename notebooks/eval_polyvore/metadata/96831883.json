@@ -1,0 +1,50 @@
+{
+  "type": "shearling-lined moto coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "teal",
+    "all": [
+      "teal",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "suede/shearling"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "asymmetrical moto"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "edgy",
+      "biker",
+      "urban",
+      "winter-chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit black jeans",
+      "leather ankle boots",
+      "turtleneck sweaters"
+    ],
+    "avoid_with": [
+      "formal evening gowns",
+      "oversized baggy trousers"
+    ]
+  },
+  "item_id": "96831883"
+}

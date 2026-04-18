@@ -1,0 +1,53 @@
+{
+  "type": "wide-leg trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white",
+      "silver"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral embroidery",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "bohemian",
+      "elegant",
+      "embroidered",
+      "statement"
+    ],
+    "occasion_suitability": [
+      "party",
+      "evening",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted solid-colored camisole",
+      "silk blouse",
+      "heeled sandals"
+    ],
+    "avoid_with": [
+      "oversized sweaters",
+      "patterned tops"
+    ]
+  },
+  "item_id": "164710122"
+}

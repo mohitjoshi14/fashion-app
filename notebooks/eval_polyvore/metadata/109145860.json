@@ -1,0 +1,49 @@
+{
+  "type": "sleeveless tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "charcoal grey",
+    "all": [
+      "charcoal grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "minimalist",
+      "basic",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear",
+      "layering"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "cardigans",
+      "blazers",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "formal ballgowns"
+    ]
+  },
+  "item_id": "109145860"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "biker jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "tan",
+    "all": [
+      "tan",
+      "beige",
+      "camel"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "edgy",
+      "biker",
+      "minimalist",
+      "urban"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "evening",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "white t-shirt",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal evening gowns",
+      "heavy winter parkas"
+    ]
+  },
+  "item_id": "104614376"
+}

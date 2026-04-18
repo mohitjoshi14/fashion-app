@@ -1,0 +1,51 @@
+{
+  "type": "biker jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "navy",
+    "all": [
+      "navy",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool and leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "edgy",
+      "motorcycle",
+      "urban",
+      "chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "skinny jeans",
+      "turtleneck sweaters",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal evening gowns",
+      "sweatpants"
+    ]
+  },
+  "item_id": "92577590"
+}

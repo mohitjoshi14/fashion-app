@@ -1,0 +1,52 @@
+{
+  "type": "overcoat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "tweed",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "classic",
+      "minimalist",
+      "smart-casual",
+      "tailored"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "turtleneck sweaters",
+      "slim-fit trousers",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "athletic wear"
+    ]
+  },
+  "item_id": "184324949"
+}

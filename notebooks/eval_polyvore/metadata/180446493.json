@@ -1,0 +1,52 @@
+{
+  "type": "peplum tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "yellow",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "fruit print",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "fitted",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "vacation",
+      "summer",
+      "feminine",
+      "Mediterranean"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim jeans",
+      "high-waisted linen shorts",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "heavy winter trousers",
+      "formal blazers"
+    ]
+  },
+  "item_id": "180446493"
+}

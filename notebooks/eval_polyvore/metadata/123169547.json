@@ -1,0 +1,52 @@
+{
+  "type": "hoodie",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black",
+      "red",
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "pullover"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "streetwear",
+      "casual",
+      "floral-accent"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black leggings",
+      "distressed denim jeans",
+      "white sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "patterned skirts"
+    ]
+  },
+  "item_id": "123169547"
+}

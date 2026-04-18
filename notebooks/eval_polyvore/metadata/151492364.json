@@ -1,0 +1,51 @@
+{
+  "type": "jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "denim blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "denim",
+      "vintage wash"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "sneakers",
+      "oversized sweater"
+    ],
+    "avoid_with": [
+      "formal dress shirts",
+      "dress shoes"
+    ]
+  },
+  "item_id": "151492364"
+}

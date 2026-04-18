@@ -1,0 +1,51 @@
+{
+  "type": "kimono-style blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "viscose"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "kimono"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "resort",
+      "relaxed"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim jeans",
+      "slim-fit trousers",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "patterned bottoms",
+      "bulky sweaters"
+    ]
+  },
+  "item_id": "135439568"
+}

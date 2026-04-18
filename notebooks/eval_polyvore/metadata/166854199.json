@@ -1,0 +1,54 @@
+{
+  "type": "sleeveless knit crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "red",
+      "blue",
+      "green",
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "bohemian",
+      "vintage-inspired",
+      "feminine",
+      "cozy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "linen midi skirts",
+      "white shorts"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "heavy winter layers"
+    ]
+  },
+  "item_id": "166854199"
+}

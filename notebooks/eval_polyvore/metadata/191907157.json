@@ -1,0 +1,51 @@
+{
+  "type": "faux leather leggings",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "edgy",
+      "modern",
+      "chic",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized sweaters",
+      "blazers",
+      "ankle boots",
+      "heels"
+    ],
+    "avoid_with": [
+      "very tight tops",
+      "other leather pieces"
+    ]
+  },
+  "item_id": "191907157"
+}

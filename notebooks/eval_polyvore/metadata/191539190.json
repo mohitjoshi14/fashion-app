@@ -1,0 +1,55 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "red",
+      "blue",
+      "white",
+      "orange",
+      "purple"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "paisley",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "bohemian",
+      "classic",
+      "vibrant"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color blouse",
+      "fitted turtleneck",
+      "heels"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "191539190"
+}

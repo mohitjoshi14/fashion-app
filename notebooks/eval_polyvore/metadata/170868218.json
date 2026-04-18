@@ -1,0 +1,50 @@
+{
+  "type": "off-the-shoulder ruffle top",
+  "category": "tops",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "ruffled"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "bohemian",
+      "romantic",
+      "feminine",
+      "vacation"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "white linen trousers",
+      "high-waisted jeans"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "patterned skirts that clash with the ruffle volume"
+    ]
+  },
+  "item_id": "170868218"
+}

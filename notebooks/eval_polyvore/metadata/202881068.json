@@ -1,0 +1,50 @@
+{
+  "type": "asymmetric mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "modern",
+      "asymmetric"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted tank top",
+      "oversized blazer",
+      "sneakers",
+      "strappy sandals"
+    ],
+    "avoid_with": [
+      "bulky sweaters",
+      "heavy winter boots"
+    ]
+  },
+  "item_id": "202881068"
+}

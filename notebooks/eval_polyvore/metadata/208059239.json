@@ -1,0 +1,50 @@
+{
+  "type": "sleeveless cowl-neck top",
+  "category": "tops",
+  "colors": {
+    "primary": "green",
+    "all": [
+      "green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "silk blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "draped"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "elegant",
+      "draped",
+      "minimalist",
+      "chic"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "blazers"
+    ],
+    "avoid_with": [
+      "baggy cargo pants",
+      "heavy knitwear"
+    ]
+  },
+  "item_id": "208059239"
+}

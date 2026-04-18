@@ -1,0 +1,51 @@
+{
+  "type": "blazer coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "smart casual",
+      "preppy",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black turtleneck",
+      "dark denim jeans",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "heavily patterned shirts",
+      "athletic wear"
+    ]
+  },
+  "item_id": "145954105"
+}

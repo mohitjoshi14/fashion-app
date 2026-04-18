@@ -1,0 +1,53 @@
+{
+  "type": "pleated midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "multicolor",
+    "all": [
+      "copper",
+      "black",
+      "olive",
+      "bronze"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "metallic knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "metallic",
+      "glam",
+      "pleated",
+      "festive"
+    ],
+    "occasion_suitability": [
+      "party",
+      "evening",
+      "holiday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid black turtleneck",
+      "fitted bodysuit",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "oversized sweaters that hide the waist"
+    ]
+  },
+  "item_id": "116922017"
+}

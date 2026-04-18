@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Eval V2 — Outfit Scorer</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f7; color: #1d1d1f; }
+
+  /* ── Setup ── */
+  #setup { max-width: 500px; margin: 80px auto; background: #fff; border: 1px solid #e5e5ea; border-radius: 16px; padding: 36px; }
+  #setup h2 { font-size: 20px; margin-bottom: 6px; }
+  #setup p  { font-size: 13px; color: #6e6e73; margin-bottom: 22px; }
+  .load-row { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .load-row label { font-size: 13px; font-weight: 600; width: 160px; flex-shrink: 0; }
+  .load-row .st   { font-size: 11px; }
+  .load-row .st.ok { color: #34c759; }
+  .load-row .st.no { color: #ff3b30; }
+  .file-btn { padding: 6px 14px; border-radius: 7px; border: 1px solid #d2d2d7; background: #fff; font-size: 12px; cursor: pointer; white-space: nowrap; }
+  .file-btn:hover { background: #f5f5f7; }
+  .setup-note { font-size: 11px; color: #8e8e93; margin-top: 8px; }
+  .btn-primary { margin-top: 20px; width: 100%; padding: 12px; background: #0071e3; color: #fff; border: none; border-radius: 10px; font-size: 15px; font-weight: 600; cursor: pointer; }
+  .btn-primary:disabled { background: #a0c4f0; cursor: default; }
+
+  /* ── App ── */
+  #app { display: none; }
+
+  header {
+    position: sticky; top: 0; z-index: 100;
+    background: #fff; border-bottom: 1px solid #d2d2d7;
+    padding: 10px 24px; display: flex; align-items: center; gap: 16px;
+  }
+  header h1 { font-size: 15px; font-weight: 600; flex-shrink: 0; }
+  .prog-wrap { flex: 1; background: #e5e5ea; border-radius: 4px; height: 6px; }
+  .prog-bar  { height: 6px; background: #0071e3; border-radius: 4px; transition: width .3s; }
+  .prog-lbl  { font-size: 12px; color: #6e6e73; white-space: nowrap; }
+  .hdr-btn   { padding: 5px 13px; border-radius: 7px; border: 1px solid #d2d2d7; background: #fff; font-size: 12px; cursor: pointer; white-space: nowrap; }
+  .hdr-btn:hover { background: #f5f5f7; }
+
+  /* ── Context tabs ── */
+  .tabs { display: flex; gap: 0; border-bottom: 1px solid #d2d2d7; background: #fff; padding: 0 24px; }
+  .tab  { padding: 12px 20px; font-size: 13px; font-weight: 500; cursor: pointer; border-bottom: 2px solid transparent; color: #6e6e73; }
+  .tab.active { border-bottom-color: #0071e3; color: #0071e3; font-weight: 600; }
+
+  /* ── Grid ── */
+  main { max-width: 1200px; margin: 0 auto; padding: 24px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+
+  /* ── Outfit card ── */
+  .outfit-card {
+    background: #fff; border: 1px solid #e5e5ea; border-radius: 14px;
+    overflow: hidden; transition: box-shadow .15s;
+  }
+  .outfit-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.08); }
+  .outfit-card.rated { border-color: #0071e3; }
+
+  /* Fixed-height image strip — each image is a square tile at 1/3 of card width */
+  .card-images {
+    display: flex;
+    height: 160px;         /* fixed height so 2-item and 3-item cards look consistent */
+    background: #f5f5f7;
+    overflow: hidden;
+  }
+  .card-images .img-slot {
+    flex: 1;
+    border-right: 2px solid #fff;
+    overflow: hidden;
+    position: relative;
+  }
+  .card-images .img-slot:last-child { border-right: none; }
+  .card-images img {
+    width: 100%; height: 100%;
+    object-fit: cover; object-position: top center;
+    display: block;
+  }
+  .img-slot .cat-label {
+    position: absolute; bottom: 4px; left: 4px;
+    font-size: 9px; font-weight: 700; text-transform: uppercase;
+    background: rgba(0,0,0,.45); color: #fff;
+    padding: 2px 5px; border-radius: 3px; letter-spacing: .04em;
+  }
+
+  .card-body { padding: 12px 14px 14px; }
+  .card-num  { font-size: 10px; color: #8e8e93; margin-bottom: 6px; }
+
+  /* ── Star rating ── */
+  .stars { display: flex; gap: 4px; margin-bottom: 6px; }
+  .star  { font-size: 22px; cursor: pointer; color: #d2d2d7; transition: color .1s; user-select: none; line-height: 1; }
+  .star.on { color: #ff9500; }
+  .stars:hover .star { color: #ff9500; }
+  .star:hover ~ .star { color: #d2d2d7 !important; }
+  .score-label { font-size: 11px; color: #6e6e73; min-height: 16px; }
+
+  /* ── Toast ── */
+  .toast {
+    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+    background: #1d1d1f; color: #fff; padding: 9px 18px;
+    border-radius: 10px; font-size: 13px; opacity: 0;
+    transition: opacity .3s; pointer-events: none; z-index: 300;
+  }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+
+<!-- ══ Setup ══ -->
+<div id="setup">
+  <h2>Eval V2 — Outfit Scorer</h2>
+  <p>Load result files for each run, then rate outfits 1–5. You can load runs separately — they merge automatically.</p>
+
+  <div class="load-row">
+    <label>r1 results (5 files)</label>
+    <button class="file-btn" onclick="document.getElementById('r1Files').click()">Choose files…</button>
+    <span class="st no" id="stR1">not loaded</span>
+    <input type="file" id="r1Files" accept=".json" multiple style="display:none" onchange="loadFiles(this, 'r1')">
+  </div>
+
+  <div class="load-row">
+    <label>r2 results (5 files)</label>
+    <button class="file-btn" onclick="document.getElementById('r2Files').click()">Choose files…</button>
+    <span class="st no" id="stR2">not loaded</span>
+    <input type="file" id="r2Files" accept=".json" multiple style="display:none" onchange="loadFiles(this, 'r2')">
+  </div>
+
+  <div class="load-row">
+    <label>Resume scores <small style="font-weight:400">(optional)</small></label>
+    <button class="file-btn" onclick="document.getElementById('scoresFile').click()">Choose file…</button>
+    <span class="st" id="stScores">—</span>
+    <input type="file" id="scoresFile" accept=".json" style="display:none" onchange="loadScores(this)">
+  </div>
+
+  <p class="setup-note">Data is cached in localStorage — reload the page to auto-resume without re-importing.</p>
+  <button class="btn-primary" id="btnStart" onclick="startApp()" disabled>Start Scoring</button>
+</div>
+
+<!-- ══ App ══ -->
+<div id="app">
+  <header>
+    <h1>Eval V2 — Outfit Scorer</h1>
+    <div class="prog-wrap"><div class="prog-bar" id="progBar"></div></div>
+    <div class="prog-lbl" id="progLbl">0 / 0 scored</div>
+    <button class="hdr-btn" onclick="exportScores()">Export JSON</button>
+    <button class="hdr-btn" style="color:#ff3b30" onclick="resetApp()">Reset</button>
+  </header>
+
+  <div class="tabs" id="tabs"></div>
+  <main><div class="grid" id="grid"></div></main>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const LS_RESULTS = 'ev2_results';
+const LS_SCORES  = 'ev2_scores';
+const SCORE_LABELS = ['', 'Poor fit', 'Below avg', 'Acceptable', 'Good', 'Excellent'];
+const IMG_BASE = '../eval_polyvore/images/';
+
+let combos   = [];
+let scores   = {};
+let contexts = [];
+let activeCtx = '';
+
+// ── Loading ────────────────────────────────────────────────────────────────
+
+function loadFiles(input, tag) {
+  const files = Array.from(input.files);
+  if (!files.length) return;
+  let done = 0;
+  const newRecords = [];
+  for (const f of files) {
+    const r = new FileReader();
+    r.onload = e => {
+      try { newRecords.push(JSON.parse(e.target.result)); } catch {}
+      if (++done === files.length) {
+        // Merge with existing records in localStorage
+        const existing = JSON.parse(localStorage.getItem(LS_RESULTS) || '[]');
+        // Deduplicate by run_id + pipeline
+        const merged = [...existing];
+        for (const rec of newRecords) {
+          const idx = merged.findIndex(e => e.run_id === rec.run_id && e.pipeline === rec.pipeline);
+          if (idx >= 0) merged[idx] = rec; else merged.push(rec);
+        }
+        localStorage.setItem(LS_RESULTS, JSON.stringify(merged));
+
+        const totalCombos = merged.reduce((s, r) => s + (r.recommendations?.length || 0), 0);
+        const el = document.getElementById(tag === 'r1' ? 'stR1' : 'stR2');
+        el.textContent = `✓ ${files.length} files loaded`;
+        el.className = 'st ok';
+        checkReady(merged);
+      }
+    };
+    r.readAsText(f);
+  }
+}
+
+function loadScores(input) {
+  const r = new FileReader();
+  r.onload = e => {
+    try {
+      const data = JSON.parse(e.target.result);
+      localStorage.setItem(LS_SCORES, JSON.stringify(data));
+      const n = Array.isArray(data) ? data.length : 0;
+      document.getElementById('stScores').textContent = `✓ ${n} scores imported`;
+      document.getElementById('stScores').className = 'st ok';
+    } catch { alert('Invalid JSON'); }
+  };
+  r.readAsText(input.files[0]);
+}
+
+function checkReady(records) {
+  const runs = new Set(records.map(r => r.run_id));
+  document.getElementById('btnStart').disabled = runs.size === 0;
+  if (runs.size > 0) startApp();  // auto-start when data is ready
+}
+
+// ── Boot ───────────────────────────────────────────────────────────────────
+
+function startApp() {
+  const raw   = localStorage.getItem(LS_RESULTS);
+  const rawSc = localStorage.getItem(LS_SCORES);
+  if (!raw) return;
+
+  const records = JSON.parse(raw);
+  const saved   = rawSc ? JSON.parse(rawSc) : [];
+
+  scores = {};
+  for (const s of saved) scores[s.combo_id] = s.score;
+
+  // Flatten records into combos, shuffle within each run
+  combos = [];
+  const byCtx = {};
+  for (const rec of records) {
+    for (let i = 0; i < (rec.recommendations || []).length; i++) {
+      const combo = {
+        combo_id:  `${rec.run_id}__${rec.pipeline}__rec${i}`,
+        run_id:    rec.run_id,
+        pipeline:  rec.pipeline,
+        rec_index: i,
+        prompt:    rec.prompt,
+        outfit:    rec.recommendations[i],
+      };
+      (byCtx[rec.run_id] = byCtx[rec.run_id] || []).push(combo);
+    }
+  }
+  // Deduplicate identical outfit combos within each run (same items = same outfit)
+  for (const ctx in byCtx) {
+    const seen = new Set();
+    byCtx[ctx] = byCtx[ctx].filter(combo => {
+      const fp = Object.entries(combo.outfit).sort().map(([k,v]) => `${k}:${v}`).join('|');
+      if (seen.has(fp)) return false;
+      seen.add(fp); return true;
+    });
+    byCtx[ctx].sort(() => Math.random() - 0.5);
+  }
+
+  // Sort contexts alphabetically so r1 comes before r2
+  contexts = Object.keys(byCtx).sort();
+  for (const ctx of contexts) combos.push(...byCtx[ctx]);
+  activeCtx = contexts[0] || '';
+
+  document.getElementById('setup').style.display = 'none';
+  document.getElementById('app').style.display   = 'block';
+  renderTabs();
+  renderGrid();
+}
+
+// Auto-resume on reload
+window.addEventListener('DOMContentLoaded', () => {
+  const r = localStorage.getItem(LS_RESULTS);
+  const s = localStorage.getItem(LS_SCORES);
+  if (r) {
+    const records = JSON.parse(r);
+    const runs = [...new Set(records.map(r => r.run_id))].sort();
+    runs.forEach(run => {
+      const tag = run.startsWith('r1') ? 'r1' : 'r2';
+      const el = document.getElementById(`st${tag.charAt(0).toUpperCase() + tag.slice(1)}`);
+      if (el) { el.textContent = '✓ cached'; el.className = 'st ok'; }
+    });
+    document.getElementById('btnStart').disabled = false;
+    if (s) {
+      const n = JSON.parse(s).length;
+      document.getElementById('stScores').textContent = `✓ ${n} scores (cached)`;
+      document.getElementById('stScores').className = 'st ok';
+    }
+    startApp();
+  }
+});
+
+// ── Render ─────────────────────────────────────────────────────────────────
+
+function renderTabs() {
+  document.getElementById('tabs').innerHTML = contexts.map(ctx => {
+    const rec = combos.find(c => c.run_id === ctx);
+    const label = rec?.prompt
+      ? `${rec.prompt.occasion}, ${rec.prompt.season}`
+      : ctx;
+    const done  = combos.filter(c => c.run_id === ctx && scores[c.combo_id] !== undefined).length;
+    const total = combos.filter(c => c.run_id === ctx).length;
+    return `<div class="tab${ctx === activeCtx ? ' active' : ''}" onclick="switchCtx('${ctx}')">${label} <span style="font-size:11px;opacity:.6">${done}/${total}</span></div>`;
+  }).join('');
+}
+
+function switchCtx(ctx) {
+  activeCtx = ctx;
+  renderTabs();
+  renderGrid();
+}
+
+function renderGrid() {
+  const filtered = combos.filter(c => c.run_id === activeCtx);
+  document.getElementById('grid').innerHTML = filtered.map((combo, idx) => cardHTML(combo, idx + 1)).join('');
+  updateProgress();
+}
+
+function cardHTML(combo, num) {
+  const outfit = combo.outfit || {};
+  const score  = scores[combo.combo_id];
+  const rated  = score !== undefined;
+
+  // Image slots — tops, bottoms, outerwear (if present)
+  const cats = ['tops', 'bottoms', 'outerwear'].filter(c => outfit[c]);
+  const slots = cats.map(cat => `
+    <div class="img-slot">
+      <img src="${IMG_BASE}${outfit[cat]}.jpg" alt="${cat}" loading="lazy"
+           onerror="this.style.display='none'">
+      <div class="cat-label">${cat === 'outerwear' ? 'outer' : cat}</div>
+    </div>`).join('');
+
+  const starsHTML = [1,2,3,4,5].map(n =>
+    `<span class="star${rated && score >= n ? ' on' : ''}"
+           onmouseenter="hover('${combo.combo_id}',${n})"
+           onmouseleave="unhover('${combo.combo_id}')"
+           onclick="rate('${combo.combo_id}',${n})">★</span>`
+  ).join('');
+
+  return `<div class="outfit-card${rated ? ' rated' : ''}" id="card-${combo.combo_id}">
+    <div class="card-images">${slots}</div>
+    <div class="card-body">
+      <div class="card-num">Outfit #${num}</div>
+      <div class="stars" id="stars-${combo.combo_id}">${starsHTML}</div>
+      <div class="score-label" id="lbl-${combo.combo_id}">${rated ? SCORE_LABELS[score] : 'Click to rate'}</div>
+    </div>
+  </div>`;
+}
+
+// ── Interaction ─────────────────────────────────────────────────────────────
+
+function rate(comboId, n) {
+  scores[comboId] = scores[comboId] === n ? undefined : n;
+  if (scores[comboId] === undefined) delete scores[comboId];
+  persistScores();
+  // Re-render just this card's stars and border
+  const card  = document.getElementById(`card-${comboId}`);
+  const sc    = scores[comboId];
+  const rated = sc !== undefined;
+  if (card) card.className = 'outfit-card' + (rated ? ' rated' : '');
+  document.querySelectorAll(`#stars-${comboId} .star`).forEach((s, i) => s.classList.toggle('on', rated && i < sc));
+  const lbl = document.getElementById(`lbl-${comboId}`);
+  if (lbl) lbl.textContent = rated ? SCORE_LABELS[sc] : 'Click to rate';
+  updateProgress();
+}
+
+function hover(comboId, n) {
+  document.querySelectorAll(`#stars-${comboId} .star`).forEach((s, i) => s.classList.toggle('on', i < n));
+  const lbl = document.getElementById(`lbl-${comboId}`);
+  if (lbl) lbl.textContent = SCORE_LABELS[n] || '';
+}
+
+function unhover(comboId) {
+  const cur = scores[comboId];  // always read current score, not baked-in value
+  document.querySelectorAll(`#stars-${comboId} .star`).forEach((s, i) => s.classList.toggle('on', cur !== undefined && i < cur));
+  const lbl = document.getElementById(`lbl-${comboId}`);
+  if (lbl) lbl.textContent = cur !== undefined ? SCORE_LABELS[cur] : 'Click to rate';
+}
+
+function updateProgress() {
+  const total = combos.length;
+  const done  = Object.keys(scores).length;
+  document.getElementById('progBar').style.width = total ? `${(done/total)*100}%` : '0%';
+  document.getElementById('progLbl').textContent  = `${done} / ${total} scored`;
+  renderTabs();  // update per-tab counts
+}
+
+// ── Persistence ─────────────────────────────────────────────────────────────
+
+function persistScores() {
+  const arr = combos
+    .filter(c => scores[c.combo_id] !== undefined)
+    .map(c => ({
+      combo_id:  c.combo_id,
+      run_id:    c.run_id,
+      pipeline:  c.pipeline,
+      rec_index: c.rec_index,
+      score:     scores[c.combo_id],
+    }));
+  localStorage.setItem(LS_SCORES, JSON.stringify(arr));
+}
+
+function exportScores() {
+  const arr = combos
+    .filter(c => scores[c.combo_id] !== undefined)
+    .map(c => ({
+      combo_id:  c.combo_id,
+      run_id:    c.run_id,
+      pipeline:  c.pipeline,
+      rec_index: c.rec_index,
+      score:     scores[c.combo_id],
+    }));
+  const blob = new Blob([JSON.stringify(arr, null, 2)], {type: 'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'human_scores.json';
+  a.click();
+  URL.revokeObjectURL(a.href);
+  showToast(`Exported ${arr.length} scores`);
+}
+
+function resetApp() {
+  if (!confirm('Clear all cached data and scores?')) return;
+  [LS_RESULTS, LS_SCORES].forEach(k => localStorage.removeItem(k));
+  location.reload();
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2500);
+}
+</script>
+</body>
+</html>

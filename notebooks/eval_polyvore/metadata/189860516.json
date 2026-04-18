@@ -1,0 +1,53 @@
+{
+  "type": "faux fur coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "white",
+      "black",
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "color-blocked",
+    "material": "faux fur"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "glamorous",
+      "statement",
+      "luxurious",
+      "maximalist"
+    ],
+    "occasion_suitability": [
+      "party",
+      "evening",
+      "winter-event"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "winter",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit black trousers",
+      "simple slip dress",
+      "heeled ankle boots"
+    ],
+    "avoid_with": [
+      "other heavy patterns",
+      "bulky oversized sweaters"
+    ]
+  },
+  "item_id": "189860516"
+}

@@ -1,0 +1,46 @@
+{
+  "runs": [
+    {
+      "run_id": "r1_office_winter",
+      "occasion": "office wear",
+      "season": "winter"
+    },
+    {
+      "run_id": "r2_party_summer",
+      "occasion": "party wear",
+      "season": "summer"
+    }
+  ],
+  "pipelines": [
+    {
+      "id": "P1_text_llm",
+      "prompt_sensitive": true,
+      "description": "All metadata as text → LLM selects 3 outfits. No visual retrieval."
+    },
+    {
+      "id": "P2_clip_only",
+      "prompt_sensitive": true,
+      "description": "FashionCLIP text→image retrieval, greedy diverse selection. No LLM."
+    },
+    {
+      "id": "P3_clip_text_llm",
+      "prompt_sensitive": true,
+      "description": "FashionCLIP retrieves top-k per category. LLM selects from text metadata of candidates."
+    },
+    {
+      "id": "P4_clip_vision_llm",
+      "prompt_sensitive": true,
+      "description": "FashionCLIP retrieves top-k per category. Vision LLM selects from candidate images."
+    },
+    {
+      "id": "P5_filtered_text_llm",
+      "prompt_sensitive": true,
+      "description": "Metadata pre-filter by season + occasion keywords, then LLM selects from filtered set."
+    },
+    {
+      "id": "P6_filtered_vision_llm",
+      "prompt_sensitive": true,
+      "description": "Same metadata pre-filter as P5, but vision LLM sees filtered items' images. Tests: do images help over text after good semantic filtering?"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "off-white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "crepe"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight-leg"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "minimalist",
+      "tailored",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blazers",
+      "silk blouses",
+      "tucked-in turtlenecks"
+    ],
+    "avoid_with": [
+      "oversized graphic hoodies",
+      "distressed denim"
+    ]
+  },
+  "item_id": "197799616"
+}

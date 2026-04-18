@@ -40,6 +40,8 @@ The project is a multi-provider AI fashion pipeline implemented entirely in Jupy
 
 **Provider abstraction:** Both notebooks accept `provider` ∈ `{"openai", "anthropic", "openrouter"}` as a config variable. OpenRouter is used as an OpenAI-compatible client pointed at `https://openrouter.ai/api/v1`.
 
+**FashionCLIP model** is saved to `models/fashion-clip/` on first run via `save_pretrained` — subsequent loads are fully offline. Add `models/` to `.gitignore` if not already present (~600 MB).
+
 **Directory layout (relative to project root):**
 - `notebooks/images/` — input wardrobe photos
 - `notebooks/metadata/` — per-item extracted JSON (output of batch step)

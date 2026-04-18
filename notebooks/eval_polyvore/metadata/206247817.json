@@ -1,0 +1,51 @@
+{
+  "type": "flared trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "flared"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "nautical",
+      "preppy",
+      "chic",
+      "vintage-inspired"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "striped breton top",
+      "fitted navy blazer",
+      "wedge sandals"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "heavy winter boots"
+    ]
+  },
+  "item_id": "206247817"
+}

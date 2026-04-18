@@ -1,0 +1,48 @@
+{
+  "type": "puffer jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "olive green",
+    "all": [
+      "olive green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "sporty",
+      "utilitarian"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "leggings",
+      "combat boots"
+    ],
+    "avoid_with": [
+      "formal dress pants",
+      "evening wear"
+    ]
+  },
+  "item_id": "187889611"
+}

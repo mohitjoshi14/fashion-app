@@ -1,0 +1,51 @@
+{
+  "type": "distressed skinny jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "acid wash",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "edgy",
+      "streetwear",
+      "rock-inspired",
+      "distressed"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black graphic t-shirt",
+      "leather jacket",
+      "high-top sneakers"
+    ],
+    "avoid_with": [
+      "formal dress shirts",
+      "blazers"
+    ]
+  },
+  "item_id": "162234177"
+}

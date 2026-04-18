@@ -1,0 +1,51 @@
+{
+  "type": "lace shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "off-white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "crochet lace",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-waisted"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "boho",
+      "beachwear",
+      "feminine",
+      "resort"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color camisole",
+      "bikini top",
+      "denim jacket"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "heavy wool sweaters"
+    ]
+  },
+  "item_id": "206367135"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black and white",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "minimalist",
+      "graphic",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color blouse",
+      "fitted turtleneck",
+      "black blazer"
+    ],
+    "avoid_with": [
+      "other busy patterns",
+      "clashing prints"
+    ]
+  },
+  "item_id": "133942412"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "blazer",
+  "category": "outerwear",
+  "colors": {
+    "primary": "blush pink",
+    "all": [
+      "blush pink",
+      "nude"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tailored"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "smart casual",
+      "minimalist",
+      "professional"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white camisole",
+      "dark denim jeans",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters",
+      "athletic wear"
+    ]
+  },
+  "item_id": "61408848"
+}

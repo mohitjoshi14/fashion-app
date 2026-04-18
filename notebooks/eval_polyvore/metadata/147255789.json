@@ -1,0 +1,49 @@
+{
+  "type": "wrap coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "mustard yellow",
+    "all": [
+      "mustard yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "oversized wrap"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "minimalist",
+      "chic",
+      "structured"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "neutral turtleneck",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "patterned heavy scarves"
+    ]
+  },
+  "item_id": "147255789"
+}

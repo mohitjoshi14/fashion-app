@@ -1,0 +1,52 @@
+{
+  "type": "crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "red",
+      "orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "wrap-front"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "romantic",
+      "bohemian",
+      "edgy",
+      "summer"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "midi skirts",
+      "leather jackets"
+    ],
+    "avoid_with": [
+      "low-rise bottoms",
+      "formal blazers"
+    ]
+  },
+  "item_id": "194408315"
+}

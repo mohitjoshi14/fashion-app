@@ -1,0 +1,51 @@
+{
+  "type": "tiered tulle skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "tulle"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "gothic",
+      "romantic",
+      "dramatic",
+      "layered"
+    ],
+    "occasion_suitability": [
+      "party",
+      "formal",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted corset top",
+      "silk camisole",
+      "leather jacket"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "casual athletic wear"
+    ]
+  },
+  "item_id": "155914926"
+}

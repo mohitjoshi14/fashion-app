@@ -1,0 +1,49 @@
+{
+  "type": "blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "pale pink",
+    "all": [
+      "pale pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral embroidery",
+    "material": "lace"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "romantic",
+      "feminine",
+      "delicate"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white trousers",
+      "high-waisted denim",
+      "pencil skirt"
+    ],
+    "avoid_with": [
+      "heavy winter layers",
+      "sportswear"
+    ]
+  },
+  "item_id": "173191662"
+}

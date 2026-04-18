@@ -1,0 +1,49 @@
+{
+  "type": "denim shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "blue",
+    "all": [
+      "blue",
+      "light blue",
+      "dark blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "button-down"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "denim-on-denim",
+      "workwear-inspired"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white jeans",
+      "black leggings",
+      "chinos"
+    ],
+    "avoid_with": [
+      "denim of the exact same wash"
+    ]
+  },
+  "item_id": "200188332"
+}

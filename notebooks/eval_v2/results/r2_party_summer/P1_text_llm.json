@@ -1,0 +1,34 @@
+{
+  "run_id": "r2_party_summer",
+  "pipeline": "P1_text_llm",
+  "prompt": {
+    "occasion": "party wear",
+    "season": "summer"
+  },
+  "recommendations": [
+    {
+      "tops": "118480162",
+      "bottoms": "116922017"
+    },
+    {
+      "tops": "151372729",
+      "bottoms": "132747249"
+    },
+    {
+      "tops": "184508674",
+      "bottoms": "182624901"
+    },
+    {
+      "tops": "136317099",
+      "bottoms": "104575272"
+    },
+    {
+      "tops": "205300645",
+      "bottoms": "177594492"
+    }
+  ],
+  "latency_s": 3.467,
+  "input_tokens": 20158,
+  "output_tokens": 320,
+  "cost_usd": 0.00552
+}

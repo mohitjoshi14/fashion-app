@@ -1,0 +1,51 @@
+{
+  "type": "cape blazer",
+  "category": "outerwear",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "structured cape"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "chic",
+      "minimalist",
+      "sophisticated",
+      "modern"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "pencil skirts",
+      "fitted turtlenecks"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "casual hoodies"
+    ]
+  },
+  "item_id": "150920195"
+}

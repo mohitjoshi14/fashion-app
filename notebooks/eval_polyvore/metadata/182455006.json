@@ -1,0 +1,51 @@
+{
+  "type": "shearling gilet",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "cream"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather and faux shearling"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "sleeveless vest"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "biker",
+      "boho",
+      "layered",
+      "winter-chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "long-sleeve knit sweaters",
+      "turtlenecks",
+      "skinny jeans",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized coats",
+      "formal evening dresses"
+    ]
+  },
+  "item_id": "182455006"
+}

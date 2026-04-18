@@ -1,0 +1,50 @@
+{
+  "type": "off-the-shoulder crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped, off-the-shoulder"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "chic",
+      "minimalist",
+      "evening",
+      "trendy"
+    ],
+    "occasion_suitability": [
+      "party",
+      "casual",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted trousers",
+      "midi skirts",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "low-rise bottoms",
+      "bulky sweaters"
+    ]
+  },
+  "item_id": "205300645"
+}

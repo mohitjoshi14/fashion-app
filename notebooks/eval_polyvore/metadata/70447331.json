@@ -1,0 +1,52 @@
+{
+  "type": "skinny jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "burgundy",
+    "all": [
+      "burgundy",
+      "maroon",
+      "dark red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "everyday",
+      "versatile"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "black sweater",
+      "denim jacket",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bright red tops",
+      "clashing patterns"
+    ]
+  },
+  "item_id": "70447331"
+}

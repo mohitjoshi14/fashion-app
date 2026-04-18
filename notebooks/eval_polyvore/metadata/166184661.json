@@ -1,0 +1,52 @@
+{
+  "type": "distressed jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "distressed",
+      "casual",
+      "streetwear",
+      "vintage wash"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white t-shirt",
+      "hoodie",
+      "sneakers",
+      "leather jacket"
+    ],
+    "avoid_with": [
+      "formal blazer",
+      "dress shirt"
+    ]
+  },
+  "item_id": "166184661"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "double-breasted blazer",
+  "category": "outerwear",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "buffalo plaid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "structured"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "heritage",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "autumn-wear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "turtleneck sweater",
+      "leather boots"
+    ],
+    "avoid_with": [
+      "other loud patterns",
+      "bright neon colors"
+    ]
+  },
+  "item_id": "192565637"
+}

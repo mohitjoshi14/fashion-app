@@ -1,0 +1,50 @@
+{
+  "type": "cold-shoulder sweatshirt",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "athletic"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "sporty",
+      "streetwear",
+      "casual",
+      "athleisure"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "distressed denim jeans",
+      "leggings",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "pencil skirts"
+    ]
+  },
+  "item_id": "192188291"
+}

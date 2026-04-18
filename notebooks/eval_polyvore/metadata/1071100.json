@@ -1,0 +1,51 @@
+{
+  "type": "vest",
+  "category": "outerwear",
+  "colors": {
+    "primary": "rust",
+    "all": [
+      "rust",
+      "gold",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral embroidery",
+    "material": "velvet"
+  },
+  "shape_fit": {
+    "fit": "tailored",
+    "silhouette": "sleeveless waistcoat"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "traditional",
+      "folk",
+      "vintage",
+      "ornate"
+    ],
+    "occasion_suitability": [
+      "formal",
+      "cultural event",
+      "ceremonial"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "crisp white button-down shirt",
+      "dark trousers"
+    ],
+    "avoid_with": [
+      "casual graphic tees",
+      "sportswear"
+    ]
+  },
+  "item_id": "1071100"
+}

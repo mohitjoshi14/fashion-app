@@ -1,0 +1,51 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "professional",
+      "tailored"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "silk blouse",
+      "fitted turtleneck",
+      "blazer",
+      "heels"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "casual graphic tees"
+    ]
+  },
+  "item_id": "204167406"
+}

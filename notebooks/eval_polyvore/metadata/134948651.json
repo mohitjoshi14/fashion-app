@@ -1,0 +1,48 @@
+{
+  "type": "tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "charcoal grey",
+    "all": [
+      "charcoal grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "minimalist",
+      "casual",
+      "basic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "high-waisted jeans",
+      "leggings"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress pants"
+    ]
+  },
+  "item_id": "134948651"
+}

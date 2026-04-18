@@ -1,0 +1,51 @@
+{
+  "type": "high-waisted wide-leg jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "dark blue",
+    "all": [
+      "dark blue",
+      "indigo"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "casual",
+      "vintage-inspired",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtlenecks",
+      "cropped tops",
+      "blouses tucked in"
+    ],
+    "avoid_with": [
+      "oversized tunics that hide the waist"
+    ]
+  },
+  "item_id": "191642657"
+}

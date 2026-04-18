@@ -1,0 +1,51 @@
+{
+  "type": "tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "charcoal grey",
+    "all": [
+      "charcoal grey",
+      "light grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "sleeveless"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "athletic",
+      "streetwear",
+      "fan merchandise"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "joggers",
+      "athletic leggings"
+    ],
+    "avoid_with": [
+      "blazers",
+      "dress trousers"
+    ]
+  },
+  "item_id": "156246359"
+}

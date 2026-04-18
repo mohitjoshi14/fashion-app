@@ -1,0 +1,21 @@
+{
+  "name": "fashion-app-gmail-extractor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extract:orders": "node src/index.js",
+    "extract:myntra-orders": "node src/index.js",
+    "eval:export-corpus": "node src/eval/exportCorpus.js",
+    "eval:build-labels": "node src/eval/buildLabelTemplate.js",
+    "eval:author-labels": "node src/eval/authorGoldLabels.js",
+    "eval:run": "node src/eval/runEval.js",
+    "lint:quick": "node --check src/index.js && node --check src/gmail.js && node --check src/parseCommerce.js && node --check src/stores.js && node --check src/dedupe.js && node --check src/queries.js && node --check src/eval/exportCorpus.js && node --check src/eval/buildLabelTemplate.js && node --check src/eval/authorGoldLabels.js && node --check src/eval/runEval.js"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "googleapis": "^144.0.0"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": "off-the-shoulder blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "bell sleeve"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "preppy",
+      "romantic",
+      "summery"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim jeans",
+      "denim shorts",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "heavy winter skirts"
+    ]
+  },
+  "item_id": "205389378"
+}

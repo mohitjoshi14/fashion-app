@@ -1,0 +1,51 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "charcoal",
+    "all": [
+      "charcoal",
+      "grey",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "asymmetrical wrap"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "preppy",
+      "academic",
+      "modern"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "black tights",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "patterned tops"
+    ]
+  },
+  "item_id": "122181093"
+}

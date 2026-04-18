@@ -1,0 +1,54 @@
+{
+  "type": "open-front jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "red",
+      "green",
+      "yellow",
+      "blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "folk",
+      "ethnic",
+      "artisan"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "festival",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color camisole",
+      "denim jeans",
+      "white linen trousers"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "clashing floral prints"
+    ]
+  },
+  "item_id": "132650906"
+}

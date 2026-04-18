@@ -1,0 +1,51 @@
+{
+  "type": "sweatshirt",
+  "category": "tops",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "colorblock",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "crew neck"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "sportswear",
+      "athletic",
+      "streetwear",
+      "logo-centric"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "joggers",
+      "jeans",
+      "leggings"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "205364246"
+}

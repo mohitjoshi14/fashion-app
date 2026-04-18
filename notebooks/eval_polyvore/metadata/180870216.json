@@ -1,0 +1,52 @@
+{
+  "type": "raglan sleeve sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "colorblock",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "minimalist",
+      "sporty",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "school",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blue jeans",
+      "black leggings",
+      "denim skirt"
+    ],
+    "avoid_with": [
+      "formal dress pants",
+      "patterned skirts"
+    ]
+  },
+  "item_id": "180870216"
+}

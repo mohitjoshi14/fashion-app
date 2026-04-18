@@ -1,0 +1,51 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "preppy",
+      "modern",
+      "structured"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "black tights",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "clashing patterns"
+    ]
+  },
+  "item_id": "110956733"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "bomber jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "green",
+      "brown",
+      "pink"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "satin"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "sporty",
+      "vintage-inspired",
+      "feminine",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "white t-shirt",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "patterned skirts"
+    ]
+  },
+  "item_id": "205138675"
+}

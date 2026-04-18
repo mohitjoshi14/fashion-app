@@ -1,0 +1,52 @@
+{
+  "type": "double-breasted wool coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "camel",
+    "all": [
+      "camel",
+      "tan",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "tailored",
+    "silhouette": "structured"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "classic",
+      "minimalist",
+      "sophisticated",
+      "timeless"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "business casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "turtleneck sweaters",
+      "tailored trousers",
+      "leather boots"
+    ],
+    "avoid_with": [
+      "oversized athletic wear",
+      "bright neon colors"
+    ]
+  },
+  "item_id": "140743092"
+}

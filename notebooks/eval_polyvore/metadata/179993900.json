@@ -1,0 +1,48 @@
+{
+  "type": "velvet crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "velvet"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "athleisure",
+      "glam",
+      "strappy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "leather skirt",
+      "blazer"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "office wear"
+    ]
+  },
+  "item_id": "179993900"
+}

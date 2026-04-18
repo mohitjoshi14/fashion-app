@@ -1,0 +1,4934 @@
+{
+  "generatedAt": "2026-04-11T02:20:23.418Z",
+  "queryUsed": "newer_than:365d ( myntra OR ajio ) ( \"order confirmed\" OR \"order placed\" OR \"order shipped\" OR \"order dispatched\" OR \"order delivered\" OR \"order update\" OR \"order summary\" OR \"order id\" OR \"order no\" OR \"invoice no\" OR \"invoice number\" OR \"tracking id\" OR \"tracking number\" OR \"delivery address\" OR \"out for delivery\" OR \"item delivered\" OR \"return pickup\" OR \"exchange pickup\" OR \"shipment details\" OR \"refund initiated\" ) -category:promotions -label:^smartlabel_promo -in:chats",
+  "scannedMessageCount": 79,
+  "matchedOrderMessageCount": 49,
+  "productCountBeforeDedupe": 162,
+  "dedupedProductCount": 31,
+  "products": [
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Routes by All About You Floral Print Square Neck Flutter Sleeve...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d32d665fe5bfcf",
+          "threadId": "19d32d34c358277d",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-28T05:06:44.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d237184ab3bac6",
+          "threadId": "19d237184ab3bac6",
+          "subject": "Your Myntra order item has been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-25T05:22:14.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d230808940ff16",
+          "threadId": "19d230808940ff16",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-25T03:27:00.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1f1c00fddea20",
+          "threadId": "19d1f1c00fddea20",
+          "subject": "Your Myntra  fwd order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T09:10:21.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1e995900ea75b",
+          "threadId": "19d1e995900ea75b",
+          "subject": "Your fwd Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T06:47:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cHM6Ly9hc3Nl",
+      "store": "myntra",
+      "name": "on Sat, 28 Mar",
+      "productUrl": null,
+      "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d32d665fe5bfcf",
+          "threadId": "19d32d34c358277d",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-28T05:06:44.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d32d4b75f59959",
+          "threadId": "19d32d4b75f59959",
+          "subject": "Your Myntra fwd order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-28T05:04:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d32d34c358277d",
+          "threadId": "19d32d34c358277d",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-28T05:03:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d237184ab3bac6",
+          "threadId": "19d237184ab3bac6",
+          "subject": "Your Myntra order item has been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-25T05:22:14.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d230808940ff16",
+          "threadId": "19d230808940ff16",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-25T03:27:00.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1f1c00fddea20",
+          "threadId": "19d1f1c00fddea20",
+          "subject": "Your Myntra  fwd order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T09:10:21.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1e995900ea75b",
+          "threadId": "19d1e995900ea75b",
+          "subject": "Your fwd Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T06:47:38.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1904731d8f272",
+          "threadId": "19d1904731d8f272",
+          "subject": "Your Myntra exchange order item delivered.Please share feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-23T04:46:53.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d18a90a85ec068",
+          "threadId": "19d18a90a85ec068",
+          "subject": "Your Myntra exchange order item is out for exchange",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-23T03:07:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d13795ce9fe01a",
+          "threadId": "19d13795ce9fe01a",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-22T02:56:53.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d11f5546b67bdc",
+          "threadId": "19d11f5546b67bdc",
+          "subject": "Your Myntra order item has been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T19:53:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0f38e74a89c57",
+          "threadId": "19d0f38e74a89c57",
+          "subject": "Your Myntra exchange order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T07:07:58.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0ee1fafc33987",
+          "threadId": "19d0ee1fafc33987",
+          "subject": "Your Myntra exchange request confirmation",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T05:33:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0e5ff8f25f300",
+          "threadId": "19d0e5ff8f25f300",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T03:11:03.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0e5f7157c1370",
+          "threadId": "19d0e5f7157c1370",
+          "subject": "Your Myntra order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T03:10:27.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0aaf9ad6edbba",
+          "threadId": "19d0aaf9ad6edbba",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T09:59:33.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a7865c74453c",
+          "threadId": "19d0a7865c74453c",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T08:59:14.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a1c309a63bb0",
+          "threadId": "19d0a1c309a63bb0",
+          "subject": "Your  Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T07:18:31.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fba00acffec20",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T08:39:53.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb82580fbf544",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T08:07:26.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb8250201d296",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T08:07:24.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb6f95a6248a8",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T07:46:56.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb6e13b2af4db",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T07:45:18.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb6bfdb260e7d",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T07:43:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb6a8ddb117cb",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T07:41:27.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fafd29946a73b",
+          "threadId": "199fafd29946a73b",
+          "subject": "Your MExpress+ order item(s) have been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T05:41:58.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fa7fa7617dfa3",
+          "threadId": "199fa7fa7617dfa3",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:24:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fa7e706ef127b",
+          "threadId": "199fa7e706ef127b",
+          "subject": "Your M-Now Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:23:34.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199f0b2c361a457e",
+          "threadId": "199f0b2c361a457e",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-17T05:44:30.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199f08b8135cd380",
+          "threadId": "199f08b8135cd380",
+          "subject": "Your Myntra order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-17T05:01:37.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199eb0c4c66f6d52",
+          "threadId": "199eb0c4c66f6d52",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-16T03:24:34.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199e1c4c4f616475",
+          "threadId": "199e1c4c4f616475",
+          "subject": "Your Myntra order item(s) have been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T08:09:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199e1746571bbd77",
+          "threadId": "199e1746571bbd77",
+          "subject": "Your Myntra order item has been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T06:42:05.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199e1117bdc0292f",
+          "threadId": "199e1117bdc0292f",
+          "subject": "Your M-Express order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T04:54:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d98b2abc7aa69",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T17:49:59.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7f5219545605",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T10:26:29.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d746210454fa7",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T07:15:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7252b542c173",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T06:39:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d6f7b6d5dec45",
+          "threadId": "199d6f7b6d5dec45",
+          "subject": "Your MExpress+ Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T05:49:41.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d3e3b25b8c57a",
+          "threadId": "199d3e3b25b8c57a",
+          "subject": "Your  Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-11T15:28:58.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198d67adcb9369aa",
+          "threadId": "198d67adcb9369aa",
+          "subject": "Your M-Express order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-23T10:30:31.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198d53acfb6bac28",
+          "threadId": "198d53acfb6bac28",
+          "subject": "Your M-Express order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-23T04:40:56.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198cf3c2e448f67a",
+          "threadId": "198cf3c2e448f67a",
+          "subject": "Your M-Express order item(s) have been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-22T00:44:43.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198cbcc64645173e",
+          "threadId": "198cbcc64645173e",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-21T08:43:46.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198cb5dd620c7bb0",
+          "threadId": "198cb5dd620c7bb0",
+          "subject": "Your M-Express Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-21T06:42:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cHM6Ly9hc3Nl",
+      "store": "myntra",
+      "name": "N.N sharma!",
+      "productUrl": null,
+      "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/13/HHeFAFGy_399a64652d19452197bc1f23a909d318.png",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d32d4b75f59959",
+          "threadId": "19d32d4b75f59959",
+          "subject": "Your Myntra fwd order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-28T05:04:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1f1c00fddea20",
+          "threadId": "19d1f1c00fddea20",
+          "subject": "Your Myntra  fwd order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T09:10:21.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1e995900ea75b",
+          "threadId": "19d1e995900ea75b",
+          "subject": "Your fwd Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T06:47:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Voyage Unisex Black Lens & Black Wayfarer Sung...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/NOVEMBER/8/f6Jt3u6o_b61310d2c05e40b0a50cb0abe0cac7ce.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d32d4b75f59959",
+          "threadId": "19d32d4b75f59959",
+          "subject": "Your Myntra fwd order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-28T05:04:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1f1c00fddea20",
+          "threadId": "19d1f1c00fddea20",
+          "subject": "Your Myntra  fwd order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T09:10:21.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1e995900ea75b",
+          "threadId": "19d1e995900ea75b",
+          "subject": "Your fwd Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T06:47:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Espee Men Grey Lens & Black Square Sunglasses...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17838018/2023/8/25/a5d3d377-e7de-457e-a5b9-f5c65c77ffdc1692960348108-Voyage-Unisex-Black-Lens--Black-Wayfarer-Sunglasses-with-UV--1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d32d4b75f59959",
+          "threadId": "19d32d4b75f59959",
+          "subject": "Your Myntra fwd order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-28T05:04:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1f1c00fddea20",
+          "threadId": "19d1f1c00fddea20",
+          "subject": "Your Myntra  fwd order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T09:10:21.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1e995900ea75b",
+          "threadId": "19d1e995900ea75b",
+          "subject": "Your fwd Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T06:47:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21934312/2024/11/5/6dcf8b09-078b-49f3-9f76-bae6ca9426501730813401874-Park-Avenue-Cotton-Rich-Polo-Collar-Slim-Fit-T-shirt-2881730-1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d32d34c358277d",
+          "threadId": "19d32d34c358277d",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-28T05:03:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d230808940ff16",
+          "threadId": "19d230808940ff16",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-25T03:27:00.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d1f1c00fddea20",
+          "threadId": "19d1f1c00fddea20",
+          "subject": "Your Myntra  fwd order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T09:10:21.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cHM6Ly9hc3Nl",
+      "store": "myntra",
+      "name": "voyageeyewear",
+      "productUrl": null,
+      "imageUrl": "https://assets.myntassets.com/assets/images/2023/3/10/8cbfdbe8-5b9c-46c1-92b8-c2601a37038e1678437743391-rose-gold.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d1e995900ea75b",
+          "threadId": "19d1e995900ea75b",
+          "subject": "Your fwd Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-24T06:47:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d1904731d8f272",
+          "threadId": "19d1904731d8f272",
+          "subject": "Your Myntra exchange order item delivered.Please share feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-23T04:46:53.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d18a90a85ec068",
+          "threadId": "19d18a90a85ec068",
+          "subject": "Your Myntra exchange order item is out for exchange",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-23T03:07:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0f38e74a89c57",
+          "threadId": "19d0f38e74a89c57",
+          "subject": "Your Myntra exchange order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T07:07:58.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0ee1fafc33987",
+          "threadId": "19d0ee1fafc33987",
+          "subject": "Your Myntra exchange request confirmation",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T05:33:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0e5ff8f25f300",
+          "threadId": "19d0e5ff8f25f300",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T03:11:03.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a7865c74453c",
+          "threadId": "19d0a7865c74453c",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T08:59:14.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a1c309a63bb0",
+          "threadId": "19d0a1c309a63bb0",
+          "subject": "Your  Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T07:18:31.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d13795ce9fe01a",
+          "threadId": "19d13795ce9fe01a",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-22T02:56:53.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d11f5546b67bdc",
+          "threadId": "19d11f5546b67bdc",
+          "subject": "Your Myntra order item has been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T19:53:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0aaf9ad6edbba",
+          "threadId": "19d0aaf9ad6edbba",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T09:59:33.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a7865c74453c",
+          "threadId": "19d0a7865c74453c",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T08:59:14.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a1c309a63bb0",
+          "threadId": "19d0a1c309a63bb0",
+          "subject": "Your  Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T07:18:31.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/FEBRUARY/28/YmpiQXrj_92ef3377b32d47309c2ac37ea8044564.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d0e5f7157c1370",
+          "threadId": "19d0e5f7157c1370",
+          "subject": "Your Myntra order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T03:10:27.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0aaf9ad6edbba",
+          "threadId": "19d0aaf9ad6edbba",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T09:59:33.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a7865c74453c",
+          "threadId": "19d0a7865c74453c",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T08:59:14.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a1c309a63bb0",
+          "threadId": "19d0a1c309a63bb0",
+          "subject": "Your  Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T07:18:31.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "United Colors of Benetton Boys Shorts",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27420620/2024/2/7/8bb84bc2-520e-47a9-871c-a053d38cc0681707301832871UnitedColorsofBenettonBoysShorts1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "19d0e5f7157c1370",
+          "threadId": "19d0e5f7157c1370",
+          "subject": "Your Myntra order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-21T03:10:27.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0aaf9ad6edbba",
+          "threadId": "19d0aaf9ad6edbba",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T09:59:33.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a7865c74453c",
+          "threadId": "19d0a7865c74453c",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T08:59:14.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "19d0a1c309a63bb0",
+          "threadId": "19d0a1c309a63bb0",
+          "subject": "Your  Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2026-03-20T07:18:31.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199fba00acffec20",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T08:39:53.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb82580fbf544",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T08:07:26.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb8250201d296",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T08:07:24.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb6f95a6248a8",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T07:46:56.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb6e13b2af4db",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T07:45:18.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb6bfdb260e7d",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T07:43:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fb6a8ddb117cb",
+          "threadId": "199fb6a8ddb117cb",
+          "subject": "Your Myntra return request processed. Please share your feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T07:41:27.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199f08b8135cd380",
+          "threadId": "199f08b8135cd380",
+          "subject": "Your Myntra order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-17T05:01:37.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199e1c4c4f616475",
+          "threadId": "199e1c4c4f616475",
+          "subject": "Your Myntra order item(s) have been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T08:09:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d3e3b25b8c57a",
+          "threadId": "199d3e3b25b8c57a",
+          "subject": "Your  Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-11T15:28:58.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "DREAM WEAVERZ Yellow Geometric Pure Cotton 220 TC Kin...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/32209857/2025/1/4/2993ad8e-2ec0-4f5f-8ab3-0ff03beb3e911735929561694DreamWeaverzKingSizeBedsheet-Pink3.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199fafd29946a73b",
+          "threadId": "199fafd29946a73b",
+          "subject": "Your MExpress+ order item(s) have been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T05:41:58.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fa7e706ef127b",
+          "threadId": "199fa7e706ef127b",
+          "subject": "Your M-Now Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:23:34.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "DREAM WEAVERZ Pink Polka Dots Pure Cotton 220 TC King...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/24842096/2025/4/15/0ab3e7d1-f285-4d6d-b9c5-25754b3407a31744716173526-DREAM-WEAVERZ-Yellow--White-Geometric-printed-Pure-Cotton-Ki-2.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199fafd29946a73b",
+          "threadId": "199fafd29946a73b",
+          "subject": "Your MExpress+ order item(s) have been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T05:41:58.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fa7e706ef127b",
+          "threadId": "199fa7e706ef127b",
+          "subject": "Your M-Now Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:23:34.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cHM6Ly9hc3Nl",
+      "store": "myntra",
+      "name": "Shilpa sharma!",
+      "productUrl": null,
+      "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/19/mW4WTJbp_155a9e9ca1ad421082047cfdc6c4c6eb.png",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199fa7fa7617dfa3",
+          "threadId": "199fa7fa7617dfa3",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:24:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fa7e706ef127b",
+          "threadId": "199fa7e706ef127b",
+          "subject": "Your M-Now Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:23:34.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MAY/2/OXVVX117_f4123f4945d54bb58604d10d26e61d3e.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199fa7fa7617dfa3",
+          "threadId": "199fa7fa7617dfa3",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:24:52.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199fa7e706ef127b",
+          "threadId": "199fa7e706ef127b",
+          "subject": "Your M-Now Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:23:34.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cHM6Ly9hc3Nl",
+      "store": "myntra",
+      "name": "Homestory",
+      "productUrl": null,
+      "imageUrl": "https://assets.myntassets.com/assets/images/2021/12/5/5e44ae17-b59e-4c1b-b1d9-238843e843651638707583545-WhatsApp-Image-2021-11-08-at-12.02.13-AM.jpeg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199fa7e706ef127b",
+          "threadId": "199fa7e706ef127b",
+          "subject": "Your M-Now Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-19T03:23:34.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199f0b2c361a457e",
+          "threadId": "199f0b2c361a457e",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-17T05:44:30.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199e1746571bbd77",
+          "threadId": "199e1746571bbd77",
+          "subject": "Your Myntra order item has been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T06:42:05.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d98b2abc7aa69",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T17:49:59.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7f5219545605",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T10:26:29.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d746210454fa7",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T07:15:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7252b542c173",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T06:39:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d6f7b6d5dec45",
+          "threadId": "199d6f7b6d5dec45",
+          "subject": "Your MExpress+ Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T05:49:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Indo Era Floral Printed V-Neck Linen Straight Ku...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199ec6eadd08ea73",
+          "threadId": "199ec6eadd08ea73",
+          "subject": "Your Myntra exchange order item delivered.Please share feedback",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-16T09:51:40.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199eb4f7b9539fc0",
+          "threadId": "199eb4f7b9539fc0",
+          "subject": "Your Myntra exchange order item is out for exchange",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-16T04:37:57.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199e353aa8812d1b",
+          "threadId": "199e353aa8812d1b",
+          "subject": "Your Myntra exchange order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T15:25:34.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199e2ebc49ac6b1f",
+          "threadId": "199e2ebc49ac6b1f",
+          "subject": "Your Myntra exchange request confirmation",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T13:32:05.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199e1117bdc0292f",
+          "threadId": "199e1117bdc0292f",
+          "subject": "Your M-Express order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T04:54:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7f5219545605",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T10:26:29.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d746210454fa7",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T07:15:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7252b542c173",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T06:39:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d6f7b6d5dec45",
+          "threadId": "199d6f7b6d5dec45",
+          "subject": "Your MExpress+ Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T05:49:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Sangria Floral Printed Pure Cotton Tiered Maxi ...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/22/yICC4vlD_91afba6925a34fc981edfe9fc5acb1bf.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199eb0c4c66f6d52",
+          "threadId": "199eb0c4c66f6d52",
+          "subject": "Your Myntra order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-16T03:24:34.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d98b2abc7aa69",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T17:49:59.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d6f7b6d5dec45",
+          "threadId": "199d6f7b6d5dec45",
+          "subject": "Your MExpress+ Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T05:49:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199e1117bdc0292f",
+          "threadId": "199e1117bdc0292f",
+          "subject": "Your M-Express order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T04:54:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7f5219545605",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T10:26:29.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d746210454fa7",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T07:15:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d6f7b6d5dec45",
+          "threadId": "199d6f7b6d5dec45",
+          "subject": "Your MExpress+ Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T05:49:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Accessorize Curve Teardrop Shaped Studs",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199e1117bdc0292f",
+          "threadId": "199e1117bdc0292f",
+          "subject": "Your M-Express order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-14T04:54:02.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7f5219545605",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T10:26:29.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d746210454fa7",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T07:15:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7252b542c173",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T06:39:20.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Roadster Men White Striped Polo Collar Pure Cott...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/6/7qNg6EwW_2525393a2473433bbfcd0bd8c7c93848.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199d746210454fa7",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T07:15:20.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "MANGO Striped Monochrome Pure Cotton T-shirt",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/12504226/2021/1/25/de361852-0591-4d88-af19-2b8975a49ec71611576110763-Roadster-Men-Tshirts-2651611576109813-1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199d746210454fa7",
+          "threadId": "199d746210454fa7",
+          "subject": "Your Myntra  order item(s) have been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T07:15:20.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "199d7252b542c173",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T06:39:20.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "all about you Women Printed Drop-Shoulder Sleeves Pur...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21047918/2025/8/4/dd3c89b4-598a-477d-ae95-398f83670f561754286916871-all-about-you-Pure-Cotton-Pale-White-Drop-Shoulder-Vacay-Chi-1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199d7252b542c173",
+          "threadId": "199d7252b542c173",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T06:39:20.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cHM6Ly9hc3Nl",
+      "store": "myntra",
+      "name": "fall fit inspo #myntrafwdfam #myntrafwdfammen #fwdfinds #fwdstudiofam #mencasualwear #chillmen #menjeans #mentshirts",
+      "productUrl": null,
+      "imageUrl": "https://assets.myntassets.com/assets/images/2023/6/5/6ee3d57c-7d07-498e-8019-ddefb729b07c1685970844851-AirBrush_20230604022408.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199d6f7b6d5dec45",
+          "threadId": "199d6f7b6d5dec45",
+          "subject": "Your MExpress+ Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T05:49:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cHM6Ly9hc3Nl",
+      "store": "myntra",
+      "name": "This tshirt is so cute. #casualwear #tshirts",
+      "productUrl": null,
+      "imageUrl": "https://assets.myntassets.com/assets/images/2022/4/7/54454214-402a-4e7e-8984-01d5b69ffc831649327865020-Queen-Andro.png",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199d6f7b6d5dec45",
+          "threadId": "199d6f7b6d5dec45",
+          "subject": "Your MExpress+ Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-12T05:49:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cHM6Ly9hc3Nl",
+      "store": "myntra",
+      "name": "Nishtha",
+      "productUrl": null,
+      "imageUrl": "https://assets.myntassets.com/assets/images/2021/2/5/bf692543-d40c-4592-8b9a-1328aebb42731612503959426-croppedImage-1612503954216.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "199d3e3b25b8c57a",
+          "threadId": "199d3e3b25b8c57a",
+          "subject": "Your  Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-10-11T15:28:58.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "198d67adcb9369aa",
+          "threadId": "198d67adcb9369aa",
+          "subject": "Your M-Express order item(s) are out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-23T10:30:31.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198cf3c2e448f67a",
+          "threadId": "198cf3c2e448f67a",
+          "subject": "Your M-Express order item(s) have been shipped.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-22T00:44:43.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198cbcc64645173e",
+          "threadId": "198cbcc64645173e",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-21T08:43:46.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198cb5dd620c7bb0",
+          "threadId": "198cb5dd620c7bb0",
+          "subject": "Your M-Express Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-21T06:42:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre...",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/OCTOBER/26/ceA1jf55_48046c75d99f415e8d24fd52dfa164b5.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "198d53acfb6bac28",
+          "threadId": "198d53acfb6bac28",
+          "subject": "Your M-Express order item is out for delivery",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-23T04:40:56.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198cbcc64645173e",
+          "threadId": "198cbcc64645173e",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-21T08:43:46.000Z"
+        },
+        {
+          "store": "myntra",
+          "messageId": "198cb5dd620c7bb0",
+          "threadId": "198cb5dd620c7bb0",
+          "subject": "Your M-Express Myntra Order Confirmation.",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-21T06:42:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "myntra-aHR0cDovL2Fzc2V0",
+      "store": "myntra",
+      "name": "Printed Maxi Nightdress",
+      "productUrl": null,
+      "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+      "evidence": [
+        {
+          "store": "myntra",
+          "messageId": "198cbcc64645173e",
+          "threadId": "198cbcc64645173e",
+          "subject": "Your Myntra  order item has been shipped",
+          "from": "Myntra Updates <updates@myntra.com>",
+          "date": "2025-08-21T08:43:46.000Z"
+        }
+      ]
+    }
+  ],
+  "duplicateAliases": [
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "Unisex Black Lens & Black Wayfarer Sung...",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/12/FOXTHRNM_3c6390bd79b143e89348dff94089e765.png",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d32d4b75f59959",
+            "threadId": "19d32d4b75f59959",
+            "subject": "Your Myntra fwd order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-28T05:04:52.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sat, 28 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d32d4b75f59959",
+            "threadId": "19d32d4b75f59959",
+            "subject": "Your Myntra fwd order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-28T05:04:52.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sat, 28 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d32d34c358277d",
+            "threadId": "19d32d34c358277d",
+            "subject": "Your Myntra order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-28T05:03:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Routes by All About You Floral Print Square Neck Flutter Sleeve...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d237184ab3bac6",
+            "threadId": "19d237184ab3bac6",
+            "subject": "Your Myntra order item has been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-25T05:22:14.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Wed, 25 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d237184ab3bac6",
+            "threadId": "19d237184ab3bac6",
+            "subject": "Your Myntra order item has been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-25T05:22:14.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21934312/2024/11/5/6dcf8b09-078b-49f3-9f76-bae6ca9426501730813401874-Park-Avenue-Cotton-Rich-Polo-Collar-Slim-Fit-T-shirt-2881730-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d230808940ff16",
+            "threadId": "19d230808940ff16",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-25T03:27:00.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Routes by All About You",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d230808940ff16",
+            "threadId": "19d230808940ff16",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-25T03:27:00.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Wed, 25 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d230808940ff16",
+            "threadId": "19d230808940ff16",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-25T03:27:00.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "N.N sharma!",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/11/fAMCKbK5_bd89d92983f94a74a4ccdbcd53dda675.png",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1f1c00fddea20",
+            "threadId": "19d1f1c00fddea20",
+            "subject": "Your Myntra  fwd order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T09:10:21.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Voyage Unisex Black Lens & Black Wayfarer Sung...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/NOVEMBER/8/f6Jt3u6o_b61310d2c05e40b0a50cb0abe0cac7ce.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1f1c00fddea20",
+            "threadId": "19d1f1c00fddea20",
+            "subject": "Your Myntra  fwd order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T09:10:21.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Espee Men Grey Lens & Black Square Sunglasses...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17838018/2023/8/25/a5d3d377-e7de-457e-a5b9-f5c65c77ffdc1692960348108-Voyage-Unisex-Black-Lens--Black-Wayfarer-Sunglasses-with-UV--1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1f1c00fddea20",
+            "threadId": "19d1f1c00fddea20",
+            "subject": "Your Myntra  fwd order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T09:10:21.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "Unisex Black Lens & Black Wayfarer Sung...",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/12/FOXTHRNM_3c6390bd79b143e89348dff94089e765.png",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1f1c00fddea20",
+            "threadId": "19d1f1c00fddea20",
+            "subject": "Your Myntra  fwd order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T09:10:21.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Cotton Rich Polo Collar Slim Fit T-shir...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21934312/2024/11/5/6dcf8b09-078b-49f3-9f76-bae6ca9426501730813401874-Park-Avenue-Cotton-Rich-Polo-Collar-Slim-Fit-T-shirt-2881730-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1f1c00fddea20",
+            "threadId": "19d1f1c00fddea20",
+            "subject": "Your Myntra  fwd order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T09:10:21.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Cotton Rich Polo Collar Slim Fit T-shir...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1f1c00fddea20",
+            "threadId": "19d1f1c00fddea20",
+            "subject": "Your Myntra  fwd order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T09:10:21.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Tue, 24 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1f1c00fddea20",
+            "threadId": "19d1f1c00fddea20",
+            "subject": "Your Myntra  fwd order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T09:10:21.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "N.N sharma!",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/4/7rkKJ87p_747cbd5a1b9f46b39819127c65b44e58.png",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1e995900ea75b",
+            "threadId": "19d1e995900ea75b",
+            "subject": "Your fwd Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T06:47:38.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Espee Men Grey Lens & Black Square Sunglasses...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21934312/2024/11/5/6dcf8b09-078b-49f3-9f76-bae6ca9426501730813401874-Park-Avenue-Cotton-Rich-Polo-Collar-Slim-Fit-T-shirt-2881730-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1e995900ea75b",
+            "threadId": "19d1e995900ea75b",
+            "subject": "Your fwd Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T06:47:38.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/NOVEMBER/8/f6Jt3u6o_b61310d2c05e40b0a50cb0abe0cac7ce.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1e995900ea75b",
+            "threadId": "19d1e995900ea75b",
+            "subject": "Your fwd Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T06:47:38.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MARCH/24/4v30cKZc_60e20f9991a240bfb6c86198f16e5522.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1e995900ea75b",
+            "threadId": "19d1e995900ea75b",
+            "subject": "Your fwd Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T06:47:38.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Park Avenue Cotton Rich Polo Collar Slim Fit T-shir...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17838018/2023/8/25/a5d3d377-e7de-457e-a5b9-f5c65c77ffdc1692960348108-Voyage-Unisex-Black-Lens--Black-Wayfarer-Sunglasses-with-UV--1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1e995900ea75b",
+            "threadId": "19d1e995900ea75b",
+            "subject": "Your fwd Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T06:47:38.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "Unisex Black Lens & Black Wayfarer Sung...",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/12/FOXTHRNM_3c6390bd79b143e89348dff94089e765.png",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1e995900ea75b",
+            "threadId": "19d1e995900ea75b",
+            "subject": "Your fwd Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T06:47:38.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Tue, 24 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1e995900ea75b",
+            "threadId": "19d1e995900ea75b",
+            "subject": "Your fwd Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-24T06:47:38.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27429748/2024/2/7/2835f00f-751d-40ef-bc03-1a9aba84efea1707305450426UnitedColorsofBenettonBoysStripedV-NeckPocketsT-shirt1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1904731d8f272",
+            "threadId": "19d1904731d8f272",
+            "subject": "Your Myntra exchange order item delivered.Please share feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-23T04:46:53.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "We've delivered your exchange on Mon, 23 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d1904731d8f272",
+            "threadId": "19d1904731d8f272",
+            "subject": "Your Myntra exchange order item delivered.Please share feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-23T04:46:53.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d18a90a85ec068",
+            "threadId": "19d18a90a85ec068",
+            "subject": "Your Myntra exchange order item is out for exchange",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-23T03:07:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27429748/2024/2/7/2835f00f-751d-40ef-bc03-1a9aba84efea1707305450426UnitedColorsofBenettonBoysStripedV-NeckPocketsT-shirt1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d18a90a85ec068",
+            "threadId": "19d18a90a85ec068",
+            "subject": "Your Myntra exchange order item is out for exchange",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-23T03:07:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "Your exchange is arriving today on Mon, 23 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d18a90a85ec068",
+            "threadId": "19d18a90a85ec068",
+            "subject": "Your Myntra exchange order item is out for exchange",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-23T03:07:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 22 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d13795ce9fe01a",
+            "threadId": "19d13795ce9fe01a",
+            "subject": "Your Myntra order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-22T02:56:53.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Ed-a-Mamma Boys Typography Printed Round Neck Cott...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d11f5546b67bdc",
+            "threadId": "19d11f5546b67bdc",
+            "subject": "Your Myntra order item has been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T19:53:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 22 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d11f5546b67bdc",
+            "threadId": "19d11f5546b67bdc",
+            "subject": "Your Myntra order item has been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T19:53:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0f38e74a89c57",
+            "threadId": "19d0f38e74a89c57",
+            "subject": "Your Myntra exchange order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T07:07:58.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27429748/2024/2/7/2835f00f-751d-40ef-bc03-1a9aba84efea1707305450426UnitedColorsofBenettonBoysStripedV-NeckPocketsT-shirt1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0f38e74a89c57",
+            "threadId": "19d0f38e74a89c57",
+            "subject": "Your Myntra exchange order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T07:07:58.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sat, 21 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0f38e74a89c57",
+            "threadId": "19d0f38e74a89c57",
+            "subject": "Your Myntra exchange order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T07:07:58.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0ee1fafc33987",
+            "threadId": "19d0ee1fafc33987",
+            "subject": "Your Myntra exchange request confirmation",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T05:33:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Cotton T-shirt",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27429748/2024/2/7/2835f00f-751d-40ef-bc03-1a9aba84efea1707305450426UnitedColorsofBenettonBoysStripedV-NeckPocketsT-shirt1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0ee1fafc33987",
+            "threadId": "19d0ee1fafc33987",
+            "subject": "Your Myntra exchange request confirmation",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T05:33:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "Your exchange is Confirmed on Sat, 21 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0ee1fafc33987",
+            "threadId": "19d0ee1fafc33987",
+            "subject": "Your Myntra exchange request confirmation",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T05:33:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0e5ff8f25f300",
+            "threadId": "19d0e5ff8f25f300",
+            "subject": "Your Myntra order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T03:11:03.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sat, 21 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0e5ff8f25f300",
+            "threadId": "19d0e5ff8f25f300",
+            "subject": "Your Myntra order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T03:11:03.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sat, 21 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0e5f7157c1370",
+            "threadId": "19d0e5f7157c1370",
+            "subject": "Your Myntra order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-21T03:10:27.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/FEBRUARY/28/YmpiQXrj_92ef3377b32d47309c2ac37ea8044564.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0aaf9ad6edbba",
+            "threadId": "19d0aaf9ad6edbba",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T09:59:33.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Shorts",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27420620/2024/2/7/8bb84bc2-520e-47a9-871c-a053d38cc0681707301832871UnitedColorsofBenettonBoysShorts1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0aaf9ad6edbba",
+            "threadId": "19d0aaf9ad6edbba",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T09:59:33.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Boys Typography Printed Round Neck Cott...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0aaf9ad6edbba",
+            "threadId": "19d0aaf9ad6edbba",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T09:59:33.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Fri, 20 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0aaf9ad6edbba",
+            "threadId": "19d0aaf9ad6edbba",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T09:59:33.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a7865c74453c",
+            "threadId": "19d0a7865c74453c",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T08:59:14.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27420620/2024/2/7/8bb84bc2-520e-47a9-871c-a053d38cc0681707301832871UnitedColorsofBenettonBoysShorts1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a7865c74453c",
+            "threadId": "19d0a7865c74453c",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T08:59:14.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/FEBRUARY/28/YmpiQXrj_92ef3377b32d47309c2ac37ea8044564.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a7865c74453c",
+            "threadId": "19d0a7865c74453c",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T08:59:14.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a7865c74453c",
+            "threadId": "19d0a7865c74453c",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T08:59:14.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Fri, 20 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a7865c74453c",
+            "threadId": "19d0a7865c74453c",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T08:59:14.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped V-Neck Pure Cotton Pockets...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27420620/2024/2/7/8bb84bc2-520e-47a9-871c-a053d38cc0681707301832871UnitedColorsofBenettonBoysShorts1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a1c309a63bb0",
+            "threadId": "19d0a1c309a63bb0",
+            "subject": "Your  Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T07:18:31.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/JULY/26/GQTczKV6_f64c6aac53874abbb2f354f8f099c697.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a1c309a63bb0",
+            "threadId": "19d0a1c309a63bb0",
+            "subject": "Your  Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T07:18:31.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/FEBRUARY/28/YmpiQXrj_92ef3377b32d47309c2ac37ea8044564.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a1c309a63bb0",
+            "threadId": "19d0a1c309a63bb0",
+            "subject": "Your  Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T07:18:31.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "United Colors of Benetton Boys Striped Regular Fit Mid Rise Cotto...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/22630292/2023/4/4/88cfb175-368f-4264-8a67-e809c39505531680548587500Ed-A-MammaSustainableWavesPrintedTshirt1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a1c309a63bb0",
+            "threadId": "19d0a1c309a63bb0",
+            "subject": "Your  Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T07:18:31.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Fri, 20 Mar",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "19d0a1c309a63bb0",
+            "threadId": "19d0a1c309a63bb0",
+            "subject": "Your  Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2026-03-20T07:18:31.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "We've Initiated YourRefund",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fba00acffec20",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T08:39:53.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb82580fbf544",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T08:07:26.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "We've Initiated YourRefund",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb82580fbf544",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T08:07:26.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb8250201d296",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T08:07:24.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "We've Initiated YourRefund",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb8250201d296",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T08:07:24.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb6f95a6248a8",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T07:46:56.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "We've Initiated YourRefund",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb6f95a6248a8",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T07:46:56.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb6e13b2af4db",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T07:45:18.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "We've Initiated YourRefund",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb6e13b2af4db",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T07:45:18.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb6bfdb260e7d",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T07:43:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "We've Initiated YourRefund",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb6bfdb260e7d",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T07:43:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "RETURNED ZEBA Black & Copper-Toned Embroidered Square Cushion Cover",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb6a8ddb117cb",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T07:41:27.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "We've Initiated YourRefund",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fb6a8ddb117cb",
+            "threadId": "199fb6a8ddb117cb",
+            "subject": "Your Myntra return request processed. Please share your feedback",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T07:41:27.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 19 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fafd29946a73b",
+            "threadId": "199fafd29946a73b",
+            "subject": "Your MExpress+ order item(s) have been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T05:41:58.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/18/zoJbDP5t_7abc62d4a5454d8191e40edda77c1cb2.png",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fa7fa7617dfa3",
+            "threadId": "199fa7fa7617dfa3",
+            "subject": "Your Myntra order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T03:24:52.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "LIVE TRACKING",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fa7fa7617dfa3",
+            "threadId": "199fa7fa7617dfa3",
+            "subject": "Your Myntra order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T03:24:52.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "Shilpa sharma!",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2024/DECEMBER/3/1NTZL9zP_2fa18dbbacfa45489aeac11ca5ca5405.png",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fa7e706ef127b",
+            "threadId": "199fa7e706ef127b",
+            "subject": "Your M-Now Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T03:23:34.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "DREAM WEAVERZ Yellow Geometric Pure Cotton 220 TC Kin...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/MAY/2/OXVVX117_f4123f4945d54bb58604d10d26e61d3e.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fa7e706ef127b",
+            "threadId": "199fa7e706ef127b",
+            "subject": "Your M-Now Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T03:23:34.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2024/NOVEMBER/18/zoJbDP5t_7abc62d4a5454d8191e40edda77c1cb2.png",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fa7e706ef127b",
+            "threadId": "199fa7e706ef127b",
+            "subject": "Your M-Now Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T03:23:34.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/24842096/2025/4/15/0ab3e7d1-f285-4d6d-b9c5-25754b3407a31744716173526-DREAM-WEAVERZ-Yellow--White-Geometric-printed-Pure-Cotton-Ki-2.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fa7e706ef127b",
+            "threadId": "199fa7e706ef127b",
+            "subject": "Your M-Now Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T03:23:34.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "haus & kinder Zarava White & Blue Printed 144 TC Cott...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/32209857/2025/1/4/2993ad8e-2ec0-4f5f-8ab3-0ff03beb3e911735929561694DreamWeaverzKingSizeBedsheet-Pink3.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fa7e706ef127b",
+            "threadId": "199fa7e706ef127b",
+            "subject": "Your M-Now Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T03:23:34.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 19 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199fa7e706ef127b",
+            "threadId": "199fa7e706ef127b",
+            "subject": "Your M-Now Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-19T03:23:34.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Fri, 17 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199f0b2c361a457e",
+            "threadId": "199f0b2c361a457e",
+            "subject": "Your Myntra order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-17T05:44:30.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "ZEBA Black & Copper-Toned Embroidered Square...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199f08b8135cd380",
+            "threadId": "199f08b8135cd380",
+            "subject": "Your Myntra order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-17T05:01:37.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Fri, 17 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199f08b8135cd380",
+            "threadId": "199f08b8135cd380",
+            "subject": "Your Myntra order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-17T05:01:37.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Indo Era Floral Printed V-Neck Linen Straight Ku...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199eb4f7b9539fc0",
+            "threadId": "199eb4f7b9539fc0",
+            "subject": "Your Myntra exchange order item is out for exchange",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-16T04:37:57.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Thu, 16 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199eb0c4c66f6d52",
+            "threadId": "199eb0c4c66f6d52",
+            "subject": "Your Myntra order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-16T03:24:34.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Indo Era Floral Printed V-Neck Linen Straight Ku...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199e353aa8812d1b",
+            "threadId": "199e353aa8812d1b",
+            "subject": "Your Myntra exchange order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-14T15:25:34.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Indo Era Floral Printed V-Neck Linen Straight Ku...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199e2ebc49ac6b1f",
+            "threadId": "199e2ebc49ac6b1f",
+            "subject": "Your Myntra exchange request confirmation",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-14T13:32:05.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "ZEBA Black & Copper-Toned Embroidered Square...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199e1c4c4f616475",
+            "threadId": "199e1c4c4f616475",
+            "subject": "Your Myntra order item(s) have been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-14T08:09:52.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Tue, 14 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199e1c4c4f616475",
+            "threadId": "199e1c4c4f616475",
+            "subject": "Your Myntra order item(s) have been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-14T08:09:52.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199e1746571bbd77",
+            "threadId": "199e1746571bbd77",
+            "subject": "Your Myntra order item has been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-14T06:42:05.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Tue, 14 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199e1746571bbd77",
+            "threadId": "199e1746571bbd77",
+            "subject": "Your Myntra order item has been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-14T06:42:05.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Accessorize Curve Teardrop Shaped Studs",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199e1117bdc0292f",
+            "threadId": "199e1117bdc0292f",
+            "subject": "Your M-Express order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-14T04:54:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Tue, 14 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199e1117bdc0292f",
+            "threadId": "199e1117bdc0292f",
+            "subject": "Your M-Express order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-14T04:54:02.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Sangria Floral Printed Pure Cotton Tiered Maxi ...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/22/yICC4vlD_91afba6925a34fc981edfe9fc5acb1bf.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d98b2abc7aa69",
+            "threadId": "199d7252b542c173",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T17:49:59.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Just Chill Shin Chan Printed Round Neck...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d98b2abc7aa69",
+            "threadId": "199d7252b542c173",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T17:49:59.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 12 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d98b2abc7aa69",
+            "threadId": "199d7252b542c173",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T17:49:59.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7f5219545605",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T10:26:29.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Accessorize Curve Teardrop Shaped Studs",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7f5219545605",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T10:26:29.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Accessorize Curve Teardrop Shaped Studs",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7f5219545605",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T10:26:29.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Just Chill Shin Chan Printed Round Neck...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7f5219545605",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T10:26:29.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Just Chill Shin Chan Printed Round Neck...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/22/yICC4vlD_91afba6925a34fc981edfe9fc5acb1bf.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7f5219545605",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T10:26:29.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 12 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7f5219545605",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T10:26:29.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d746210454fa7",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T07:15:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Just Chill Shin Chan Printed Round Neck...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d746210454fa7",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T07:15:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Floral Printed V-Neck Linen Straight Ku...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d746210454fa7",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T07:15:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "+ 2 more item(s)",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d746210454fa7",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T07:15:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 12 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d746210454fa7",
+            "threadId": "199d746210454fa7",
+            "subject": "Your Myntra  order item(s) have been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T07:15:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7252b542c173",
+            "threadId": "199d7252b542c173",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T06:39:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Just Chill Shin Chan Printed Round Neck...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7252b542c173",
+            "threadId": "199d7252b542c173",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T06:39:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Floral Printed V-Neck Linen Straight Ku...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7252b542c173",
+            "threadId": "199d7252b542c173",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T06:39:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "+ 4 more item(s)",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/12504226/2021/1/25/de361852-0591-4d88-af19-2b8975a49ec71611576110763-Roadster-Men-Tshirts-2651611576109813-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7252b542c173",
+            "threadId": "199d7252b542c173",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T06:39:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 12 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d7252b542c173",
+            "threadId": "199d7252b542c173",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T06:39:20.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "BDSQUARE Just Chill Shin Chan Printed Round Neck...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/27549136/2024/2/13/13a13f24-ecc3-43b3-9dee-05fe6b94056e1707834145313Tunics1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JUNE/15/JW5biChr_463ce05a71f14af0a2f1c928b67d660c.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/33039143/2025/3/6/120a8bb9-752b-4e78-b977-7449114c3ff71741253008986-Indo-Era-Women-Floral-Printed-Regular-Beads-and-Stones-Linen-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/21047918/2025/8/4/dd3c89b4-598a-477d-ae95-398f83670f561754286916871-all-about-you-Pure-Cotton-Pale-White-Drop-Shoulder-Vacay-Chi-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/12504226/2021/1/25/de361852-0591-4d88-af19-2b8975a49ec71611576110763-Roadster-Men-Tshirts-2651611576109813-1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/6/7qNg6EwW_2525393a2473433bbfcd0bd8c7c93848.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JULY/15/PXUWHwbD_771d3c40fcdd4a27ba4a760510bd0dc1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Global Desi Floral Embroidered Tie-Up Neck Tunic",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2025/JANUARY/22/yICC4vlD_91afba6925a34fc981edfe9fc5acb1bf.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sun, 12 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d6f7b6d5dec45",
+            "threadId": "199d6f7b6d5dec45",
+            "subject": "Your MExpress+ Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-12T05:49:41.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "ZEBA Black & Copper-Toned Embroidered Square...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/17847356/2022/4/11/02dfaa72-4a7d-40da-9ef4-7dda2392418c1649672829422ZEBAUnisexBlackCushionCovers1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d3e3b25b8c57a",
+            "threadId": "199d3e3b25b8c57a",
+            "subject": "Your  Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-11T15:28:58.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sat, 11 Oct",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "199d3e3b25b8c57a",
+            "threadId": "199d3e3b25b8c57a",
+            "subject": "Your  Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-10-11T15:28:58.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198d67adcb9369aa",
+            "threadId": "198d67adcb9369aa",
+            "subject": "Your M-Express order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-23T10:30:31.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sat, 23 Aug",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198d67adcb9369aa",
+            "threadId": "198d67adcb9369aa",
+            "subject": "Your M-Express order item(s) are out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-23T10:30:31.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Sat, 23 Aug",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198d53acfb6bac28",
+            "threadId": "198d53acfb6bac28",
+            "subject": "Your M-Express order item is out for delivery",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-23T04:40:56.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cf3c2e448f67a",
+            "threadId": "198cf3c2e448f67a",
+            "subject": "Your M-Express order item(s) have been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-22T00:44:43.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cf3c2e448f67a",
+            "threadId": "198cf3c2e448f67a",
+            "subject": "Your M-Express order item(s) have been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-22T00:44:43.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Fri, 22 Aug",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cf3c2e448f67a",
+            "threadId": "198cf3c2e448f67a",
+            "subject": "Your M-Express order item(s) have been shipped.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-22T00:44:43.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/OCTOBER/26/ceA1jf55_48046c75d99f415e8d24fd52dfa164b5.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cbcc64645173e",
+            "threadId": "198cbcc64645173e",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-21T08:43:46.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "Printed Maxi Nightdress",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cbcc64645173e",
+            "threadId": "198cbcc64645173e",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-21T08:43:46.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Thu, 21 Aug",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cbcc64645173e",
+            "threadId": "198cbcc64645173e",
+            "subject": "Your Myntra  order item has been shipped",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-21T08:43:46.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "SANSKRUTIHOMES Printed Maxi Nightdress",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/OCTOBER/26/ceA1jf55_48046c75d99f415e8d24fd52dfa164b5.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cb5dd620c7bb0",
+            "threadId": "198cb5dd620c7bb0",
+            "subject": "Your M-Express Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-21T06:42:59.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/29657224/2024/5/20/fab622a0-960c-4205-af3c-58d46c132c301716202500056WomenPureCottonNightDRESS1.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cb5dd620c7bb0",
+            "threadId": "198cb5dd620c7bb0",
+            "subject": "Your M-Express Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-21T06:42:59.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cDovL2Fzc2V0",
+        "store": "myntra",
+        "name": "SANSKRUTIHOMES Women Printed Pure Cotton Maxi Nightdre...",
+        "productUrl": null,
+        "imageUrl": "http://assets.myntassets.com/h_480,q_95,w_360/v1/assets/images/2024/AUGUST/28/uQlO3qNM_4d3b8921870945d8bf171357d0746acc.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cb5dd620c7bb0",
+            "threadId": "198cb5dd620c7bb0",
+            "subject": "Your M-Express Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-21T06:42:59.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cDovL2Fzc2V0"
+    },
+    {
+      "droppedProduct": {
+        "id": "myntra-aHR0cHM6Ly9hc3Nl",
+        "store": "myntra",
+        "name": "on Thu, 21 Aug",
+        "productUrl": null,
+        "imageUrl": "https://assets.myntassets.com/assets/images/2025/FEBRUARY/5/AGqbDwtd_e5f3befff2ab42db832d9f9917aee974.jpg",
+        "evidence": [
+          {
+            "store": "myntra",
+            "messageId": "198cb5dd620c7bb0",
+            "threadId": "198cb5dd620c7bb0",
+            "subject": "Your M-Express Myntra Order Confirmation.",
+            "from": "Myntra Updates <updates@myntra.com>",
+            "date": "2025-08-21T06:42:59.000Z"
+          }
+        ]
+      },
+      "keptProductId": "myntra-aHR0cHM6Ly9hc3Nl"
+    }
+  ],
+  "debugMessages": [
+    {
+      "store": "ajio",
+      "messageId": "19d5e7c0f81e13fc",
+      "threadId": "19d5e7c0f81e13fc",
+      "subject": "Refund initiated - Women Printed Fit & Flare...",
+      "from": "refund-confirm@ajio.com",
+      "date": "2026-04-05T16:31:21.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d5e7c0cbbbd998",
+      "threadId": "19d5e7c0cbbbd998",
+      "subject": "Refund Initiated - Women Printed Fit & Flare Dress",
+      "from": "refund-confirm@ajio.com",
+      "date": "2026-04-05T16:31:19.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d32d665fe5bfcf",
+      "threadId": "19d32d34c358277d",
+      "subject": "Your Myntra order item is out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-28T05:06:44.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d32d4b75f59959",
+      "threadId": "19d32d4b75f59959",
+      "subject": "Your Myntra fwd order item(s) are out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-28T05:04:52.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 5
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d32d34c358277d",
+      "threadId": "19d32d34c358277d",
+      "subject": "Your Myntra order item is out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-28T05:03:20.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d237184ab3bac6",
+      "threadId": "19d237184ab3bac6",
+      "subject": "Your Myntra order item has been shipped.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-25T05:22:14.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d230808940ff16",
+      "threadId": "19d230808940ff16",
+      "subject": "Your Myntra  order item has been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-25T03:27:00.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d2060698840760",
+      "threadId": "19d2060698840760",
+      "subject": "      Return request initiated for your AJIO order with Women Printed Fit & Flare Dress ",
+      "from": "\"return-confirm@ajio.com\" <return-confirm@ajio.com>",
+      "date": "2026-03-24T15:04:40.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d1f90a1a875e69",
+      "threadId": "19d1f90a1a875e69",
+      "subject": "Order Delivered - Women Printed Fit & Flare Dress",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-24T11:17:42.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d1f70310c83079",
+      "threadId": "19d1f70310c83079",
+      "subject": "Partial Order Delivered - Women Angular Oversized Polarised Sunglasses",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-24T10:42:16.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d1f1c00fddea20",
+      "threadId": "19d1f1c00fddea20",
+      "subject": "Your Myntra  fwd order item(s) have been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-24T09:10:21.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 7
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d1e995900ea75b",
+      "threadId": "19d1e995900ea75b",
+      "subject": "Your fwd Order Confirmation.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-24T06:47:38.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 8
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d1e7dcffecd0e6",
+      "threadId": "19d1e7dcffecd0e6",
+      "subject": "Out For Delivery - Women Angular Oversized Polarised Sunglasses",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-24T06:15:28.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d1904731d8f272",
+      "threadId": "19d1904731d8f272",
+      "subject": "Your Myntra exchange order item delivered.Please share feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-23T04:46:53.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d18b4decdb9eed",
+      "threadId": "19d18b4decdb9eed",
+      "subject": "Out For Delivery - Women Printed Fit & Flare Dress",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-23T03:19:58.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d18a90a85ec068",
+      "threadId": "19d18a90a85ec068",
+      "subject": "Your Myntra exchange order item is out for exchange",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-23T03:07:02.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d15ac409b0371b",
+      "threadId": "19d15ac409b0371b",
+      "subject": "Order Delivered - Men Regular Fit City Shorts",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-22T13:11:40.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d14f860493c702",
+      "threadId": "19d14f860493c702",
+      "subject": "Partial Order Delivered - Women Floral Print A-Line Kurta",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-22T09:55:12.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d13c6bd19e5197",
+      "threadId": "19d13c6bd19e5197",
+      "subject": "Out For Delivery - Women Floral Print A-Line Kurta",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-22T04:21:23.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d13795ce9fe01a",
+      "threadId": "19d13795ce9fe01a",
+      "subject": "Your Myntra order item is out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-22T02:56:53.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d136eded2db191",
+      "threadId": "19d136eded2db191",
+      "subject": "Out For Delivery - Men Regular Fit City Shorts",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-22T02:45:24.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d11f5546b67bdc",
+      "threadId": "19d11f5546b67bdc",
+      "subject": "Your Myntra order item has been shipped.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-21T19:53:02.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d0f38e74a89c57",
+      "threadId": "19d0f38e74a89c57",
+      "subject": "Your Myntra exchange order item has been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-21T07:07:58.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d0ee1fafc33987",
+      "threadId": "19d0ee1fafc33987",
+      "subject": "Your Myntra exchange request confirmation",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-21T05:33:02.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d0e5ff8f25f300",
+      "threadId": "19d0e5ff8f25f300",
+      "subject": "Your Myntra order item is out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-21T03:11:03.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d0e5f7157c1370",
+      "threadId": "19d0e5f7157c1370",
+      "subject": "Your Myntra order item(s) are out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-21T03:10:27.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d0b7dc1c673d32",
+      "threadId": "19d0b7dc1c673d32",
+      "subject": "Order Shipped - Women Angular Oversized Polarised Sunglasses",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-20T13:44:41.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d0aaf9ad6edbba",
+      "threadId": "19d0aaf9ad6edbba",
+      "subject": "Your Myntra  order item(s) have been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-20T09:59:33.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 4
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d0a7865c74453c",
+      "threadId": "19d0a7865c74453c",
+      "subject": "Your Myntra  order item has been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-20T08:59:14.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 5
+    },
+    {
+      "store": "myntra",
+      "messageId": "19d0a1c309a63bb0",
+      "threadId": "19d0a1c309a63bb0",
+      "subject": "Your  Myntra Order Confirmation.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2026-03-20T07:18:31.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 5
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d06208f86e7791",
+      "threadId": "19d06208f86e7791",
+      "subject": "Order Shipped - Men Regular Fit City Shorts",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-19T12:44:48.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d060b0eb1d3dd7",
+      "threadId": "19d060b0eb1d3dd7",
+      "subject": "Partial Order Delivered - Men Waffle Textured Regular Fit Polo T-Shirt",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-19T12:21:18.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d05802b22e99fc",
+      "threadId": "19d05802b22e99fc",
+      "subject": "Partial Order Delivered - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-19T09:49:36.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d055a8e165e007",
+      "threadId": "19d055a8e165e007",
+      "subject": "Partial Order Shipped - Women Floral Print A-Line Kurta",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-19T09:08:31.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d04ed5ee861ad4",
+      "threadId": "19d04ed5ee861ad4",
+      "subject": "Out For Delivery - Men Waffle Textured Regular Fit Polo T-Shirt",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-19T07:09:16.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d04910fde9803e",
+      "threadId": "19d03da23156f526",
+      "subject": "Out For Delivery - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-19T05:28:26.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d03da23156f526",
+      "threadId": "19d03da23156f526",
+      "subject": "Out For Delivery - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-19T02:08:38.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d0316fa93e1453",
+      "threadId": "19d0316fa93e1453",
+      "subject": "Partial Order Shipped - Women Printed Fit & Flare Dress",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-18T22:35:29.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d009736bb7d66b",
+      "threadId": "19d009736bb7d66b",
+      "subject": "Exchange request initiated for your AJIO order with Men Regular Fit City Shorts",
+      "from": "AJIO <mail-noreply@ajio.com>",
+      "date": "2026-03-18T10:56:40.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d004389a386f63",
+      "threadId": "19d004389a386f63",
+      "subject": "Partial Order Delivered - Men Regular Fit City Shorts and 1 more item(s)",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-18T09:25:16.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19d0043806a3c558",
+      "threadId": "19d0043806a3c558",
+      "subject": "Partial Order Delivered - Men Regular Fit Polo T-Shirt with Logo Print",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-18T09:25:14.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19cff2a8cd18e36f",
+      "threadId": "19cff2a8cd18e36f",
+      "subject": "Out For Delivery - Men Regular Fit Polo T-Shirt with Logo Print",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-18T04:18:22.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19cff299314ef780",
+      "threadId": "19cff299314ef780",
+      "subject": "Out For Delivery - Men Regular Fit City Shorts and 1 more item(s)",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-18T04:17:18.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19cf5f328408ae8f",
+      "threadId": "19cf5f328408ae8f",
+      "subject": "Partial Order Shipped - Men Regular Fit City Shorts and 1 more item(s)",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-16T09:21:18.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19cf51c0e5218ed6",
+      "threadId": "19cf51c0e5218ed6",
+      "subject": "Partial Order Shipped - Men Regular Fit Polo T-Shirt with Logo Print",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-16T05:26:20.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19cf505a6f9d533b",
+      "threadId": "19cf505a6f9d533b",
+      "subject": "Partial Order Shipped - Women Casual Cotton Striped Straight Kurta and 1 more item(s)",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-16T05:01:52.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19cf47402b50e33f",
+      "threadId": "19cf47402b50e33f",
+      "subject": "Partial Order Shipped - Men Waffle Textured Regular Fit Polo T-Shirt",
+      "from": "ship-confirm@ajio.com",
+      "date": "2026-03-16T02:22:47.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "ajio",
+      "messageId": "19cf209e94f8de13",
+      "threadId": "19cf209e94f8de13",
+      "subject": "Success! Your AJIO Item of Men Cloud94 Regular Fit Polo T-Shirt ... +(8) is on its way to you!",
+      "from": "Ajio Order Update <order-confirm@ajio.com>",
+      "date": "2026-03-15T15:07:38.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": "no_items_extracted",
+      "itemCount": 0
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fba00acffec20",
+      "threadId": "199fb6a8ddb117cb",
+      "subject": "Your Myntra return request processed. Please share your feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T08:39:53.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fb82580fbf544",
+      "threadId": "199fb6a8ddb117cb",
+      "subject": "Your Myntra return request processed. Please share your feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T08:07:26.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fb8250201d296",
+      "threadId": "199fb6a8ddb117cb",
+      "subject": "Your Myntra return request processed. Please share your feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T08:07:24.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fb6f95a6248a8",
+      "threadId": "199fb6a8ddb117cb",
+      "subject": "Your Myntra return request processed. Please share your feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T07:46:56.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fb6e13b2af4db",
+      "threadId": "199fb6a8ddb117cb",
+      "subject": "Your Myntra return request processed. Please share your feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T07:45:18.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fb6bfdb260e7d",
+      "threadId": "199fb6a8ddb117cb",
+      "subject": "Your Myntra return request processed. Please share your feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T07:43:02.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fb6a8ddb117cb",
+      "threadId": "199fb6a8ddb117cb",
+      "subject": "Your Myntra return request processed. Please share your feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T07:41:27.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fafd29946a73b",
+      "threadId": "199fafd29946a73b",
+      "subject": "Your MExpress+ order item(s) have been shipped.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T05:41:58.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fa7fa7617dfa3",
+      "threadId": "199fa7fa7617dfa3",
+      "subject": "Your Myntra order item is out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T03:24:52.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 4
+    },
+    {
+      "store": "myntra",
+      "messageId": "199fa7e706ef127b",
+      "threadId": "199fa7e706ef127b",
+      "subject": "Your M-Now Myntra Order Confirmation.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-19T03:23:34.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 7
+    },
+    {
+      "store": "myntra",
+      "messageId": "199f0b2c361a457e",
+      "threadId": "199f0b2c361a457e",
+      "subject": "Your Myntra order item is out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-17T05:44:30.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199f08b8135cd380",
+      "threadId": "199f08b8135cd380",
+      "subject": "Your Myntra order item(s) are out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-17T05:01:37.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199ec6eadd08ea73",
+      "threadId": "199ec6eadd08ea73",
+      "subject": "Your Myntra exchange order item delivered.Please share feedback",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-16T09:51:40.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 1
+    },
+    {
+      "store": "myntra",
+      "messageId": "199eb4f7b9539fc0",
+      "threadId": "199eb4f7b9539fc0",
+      "subject": "Your Myntra exchange order item is out for exchange",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-16T04:37:57.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 1
+    },
+    {
+      "store": "myntra",
+      "messageId": "199eb0c4c66f6d52",
+      "threadId": "199eb0c4c66f6d52",
+      "subject": "Your Myntra order item is out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-16T03:24:34.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199e353aa8812d1b",
+      "threadId": "199e353aa8812d1b",
+      "subject": "Your Myntra exchange order item has been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-14T15:25:34.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 1
+    },
+    {
+      "store": "myntra",
+      "messageId": "199e2ebc49ac6b1f",
+      "threadId": "199e2ebc49ac6b1f",
+      "subject": "Your Myntra exchange request confirmation",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-14T13:32:05.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 1
+    },
+    {
+      "store": "myntra",
+      "messageId": "199e1c4c4f616475",
+      "threadId": "199e1c4c4f616475",
+      "subject": "Your Myntra order item(s) have been shipped.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-14T08:09:52.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199e1746571bbd77",
+      "threadId": "199e1746571bbd77",
+      "subject": "Your Myntra order item has been shipped.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-14T06:42:05.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "199e1117bdc0292f",
+      "threadId": "199e1117bdc0292f",
+      "subject": "Your M-Express order item(s) are out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-14T04:54:02.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 4
+    },
+    {
+      "store": "myntra",
+      "messageId": "199d98b2abc7aa69",
+      "threadId": "199d7252b542c173",
+      "subject": "Your Myntra  order item has been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-12T17:49:59.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "myntra",
+      "messageId": "199d7f5219545605",
+      "threadId": "199d746210454fa7",
+      "subject": "Your Myntra  order item(s) have been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-12T10:26:29.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 6
+    },
+    {
+      "store": "myntra",
+      "messageId": "199d746210454fa7",
+      "threadId": "199d746210454fa7",
+      "subject": "Your Myntra  order item(s) have been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-12T07:15:20.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 7
+    },
+    {
+      "store": "myntra",
+      "messageId": "199d7252b542c173",
+      "threadId": "199d7252b542c173",
+      "subject": "Your Myntra  order item has been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-12T06:39:20.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 6
+    },
+    {
+      "store": "myntra",
+      "messageId": "199d6f7b6d5dec45",
+      "threadId": "199d6f7b6d5dec45",
+      "subject": "Your MExpress+ Myntra Order Confirmation.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-12T05:49:41.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 11
+    },
+    {
+      "store": "myntra",
+      "messageId": "199d3e3b25b8c57a",
+      "threadId": "199d3e3b25b8c57a",
+      "subject": "Your  Myntra Order Confirmation.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-10-11T15:28:58.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "myntra",
+      "messageId": "198d67adcb9369aa",
+      "threadId": "198d67adcb9369aa",
+      "subject": "Your M-Express order item(s) are out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-08-23T10:30:31.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "myntra",
+      "messageId": "198d53acfb6bac28",
+      "threadId": "198d53acfb6bac28",
+      "subject": "Your M-Express order item is out for delivery",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-08-23T04:40:56.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 2
+    },
+    {
+      "store": "myntra",
+      "messageId": "198cf3c2e448f67a",
+      "threadId": "198cf3c2e448f67a",
+      "subject": "Your M-Express order item(s) have been shipped.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-08-22T00:44:43.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 3
+    },
+    {
+      "store": "myntra",
+      "messageId": "198cbcc64645173e",
+      "threadId": "198cbcc64645173e",
+      "subject": "Your Myntra  order item has been shipped",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-08-21T08:43:46.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 4
+    },
+    {
+      "store": "myntra",
+      "messageId": "198cb5dd620c7bb0",
+      "threadId": "198cb5dd620c7bb0",
+      "subject": "Your M-Express Myntra Order Confirmation.",
+      "from": "Myntra Updates <updates@myntra.com>",
+      "date": "2025-08-21T06:42:59.000Z",
+      "matchedOrderMail": true,
+      "rejectionReason": null,
+      "itemCount": 4
+    }
+  ]
+}

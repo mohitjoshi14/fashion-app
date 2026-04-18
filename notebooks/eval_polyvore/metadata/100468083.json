@@ -1,0 +1,53 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black",
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "A-line"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "preppy",
+      "academic",
+      "grunge",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "school",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "turtleneck sweater",
+      "oversized blazer",
+      "knee-high boots",
+      "button-down shirt"
+    ],
+    "avoid_with": [
+      "heavy patterned tops",
+      "extremely baggy bottoms"
+    ]
+  },
+  "item_id": "100468083"
+}

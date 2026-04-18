@@ -29,6 +29,14 @@ Thumbs.db
 *.swp
 *.swo
 
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Gmail OAuth artifacts
+config/gmail-oauth-client.json
+config/gmail-token.json
+
 # Test / coverage
 .pytest_cache/
 .coverage
@@ -37,3 +45,9 @@ htmlcov/
 # Local outputs you may not want in git (uncomment if preferred)
 # outputs/
 # metadata/
+
+*.jpeg
+*.jpg
+
+# Model weights (GitHub 100MB limit)
+notebooks/models/fashion-clip/*.safetensors

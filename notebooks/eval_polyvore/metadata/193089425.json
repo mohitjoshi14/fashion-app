@@ -1,0 +1,50 @@
+{
+  "type": "crew neck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red",
+      "white",
+      "black",
+      "brown"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "holiday",
+      "festive",
+      "novelty",
+      "cozy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "leggings"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "193089425"
+}

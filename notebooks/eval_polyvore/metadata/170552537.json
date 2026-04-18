@@ -1,0 +1,51 @@
+{
+  "type": "racerback tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "maroon",
+    "all": [
+      "maroon",
+      "burgundy"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "athletic",
+      "sporty",
+      "casual",
+      "activewear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "gym",
+      "yoga"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "leggings",
+      "athletic shorts",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "170552537"
+}

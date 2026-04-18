@@ -1,0 +1,50 @@
+{
+  "type": "midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "brown",
+    "all": [
+      "brown",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "floral",
+    "material": "rayon"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "tiered"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "boho",
+      "feminine",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white tank top",
+      "denim jacket",
+      "sandals"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters",
+      "formal blazers"
+    ]
+  },
+  "item_id": "209914893"
+}

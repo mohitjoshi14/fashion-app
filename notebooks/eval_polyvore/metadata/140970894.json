@@ -1,0 +1,50 @@
+{
+  "type": "t-shirt dress",
+  "category": "dress",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "sporty",
+      "casual",
+      "streetwear",
+      "athletic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "sneakers",
+      "denim jacket",
+      "baseball cap"
+    ],
+    "avoid_with": [
+      "formal heels",
+      "blazers"
+    ]
+  },
+  "item_id": "140970894"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "ribbed bralette crop top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "ribbed knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "cropped"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "athleisure",
+      "minimalist",
+      "strappy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim shorts",
+      "oversized linen shirts",
+      "joggers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "office trousers"
+    ]
+  },
+  "item_id": "205306007"
+}

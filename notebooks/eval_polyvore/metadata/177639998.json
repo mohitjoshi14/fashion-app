@@ -1,0 +1,51 @@
+{
+  "type": "lace-up mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "edgy",
+      "casual",
+      "streetwear",
+      "goth-lite"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted crop tops",
+      "graphic tees",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal blouses",
+      "oversized blazers"
+    ]
+  },
+  "item_id": "177639998"
+}

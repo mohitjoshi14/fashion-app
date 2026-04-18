@@ -1,0 +1,51 @@
+{
+  "type": "turtleneck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "off-white",
+    "all": [
+      "off-white",
+      "cream"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "cozy",
+      "classic",
+      "essential"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "midi skirts",
+      "tailored trousers",
+      "blazers"
+    ],
+    "avoid_with": [
+      "bulky oversized scarves that hide the neckline"
+    ]
+  },
+  "item_id": "190858243"
+}

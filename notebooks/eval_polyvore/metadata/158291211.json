@@ -1,0 +1,47 @@
+{
+  "type": "boxer shorts",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "short"
+  },
+  "style": {
+    "formality": 0.0,
+    "style_tags": [
+      "loungewear",
+      "underwear",
+      "basic"
+    ],
+    "occasion_suitability": [
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "loungewear tops",
+      "t-shirts"
+    ],
+    "avoid_with": [
+      "formal trousers"
+    ]
+  },
+  "item_id": "158291211"
+}

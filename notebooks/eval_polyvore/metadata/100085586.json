@@ -1,0 +1,51 @@
+{
+  "type": "skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "off-white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "embroidered",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "A-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "bohemian",
+      "feminine",
+      "romantic",
+      "eyelet"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "garden party",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "linen tops",
+      "sandals",
+      "camisoles"
+    ],
+    "avoid_with": [
+      "heavy winter knits",
+      "bulky boots"
+    ]
+  },
+  "item_id": "100085586"
+}

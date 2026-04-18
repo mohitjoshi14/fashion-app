@@ -1,0 +1,49 @@
+{
+  "type": "chinos",
+  "category": "bottoms",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "khaki"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "preppy",
+      "smart-casual",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "navy blazer",
+      "white button-down shirt",
+      "polo shirt"
+    ],
+    "avoid_with": [
+      "khaki-colored tops"
+    ]
+  },
+  "item_id": "146458342"
+}

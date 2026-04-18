@@ -1,0 +1,48 @@
+{
+  "type": "double-breasted coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "orange",
+    "all": [
+      "orange"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "structured"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "minimalist",
+      "chic",
+      "statement"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "neutral trousers",
+      "dark denim",
+      "white turtleneck"
+    ],
+    "avoid_with": [
+      "clashing bright patterns"
+    ]
+  },
+  "item_id": "194939119"
+}

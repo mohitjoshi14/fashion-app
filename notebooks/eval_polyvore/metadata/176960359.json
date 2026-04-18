@@ -1,0 +1,51 @@
+{
+  "type": "trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "taupe"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "minimalist",
+      "tailored",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "smart casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white button-down shirt",
+      "navy blazer",
+      "black turtleneck"
+    ],
+    "avoid_with": [
+      "neon colors",
+      "distressed graphic tees"
+    ]
+  },
+  "item_id": "176960359"
+}

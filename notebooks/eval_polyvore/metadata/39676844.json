@@ -1,0 +1,52 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "nautical",
+      "minimalist",
+      "professional",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "business casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white button-down shirt",
+      "cream silk blouse",
+      "navy blazer"
+    ],
+    "avoid_with": [
+      "oversized graphic hoodies",
+      "athletic sneakers"
+    ]
+  },
+  "item_id": "39676844"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "military field jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "camouflage",
+    "all": [
+      "green",
+      "brown",
+      "black",
+      "tan"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "camouflage",
+    "material": "cotton canvas"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "utility"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "military",
+      "utility",
+      "studded",
+      "rugged"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "streetwear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "white t-shirt",
+      "combat boots"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "patterned skirts"
+    ]
+  },
+  "item_id": "164702813"
+}

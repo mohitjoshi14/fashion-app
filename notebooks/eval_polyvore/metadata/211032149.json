@@ -1,0 +1,51 @@
+{
+  "type": "sleeveless blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "vintage-inspired",
+      "preppy",
+      "romantic",
+      "bohemian"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "brunch"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim jeans",
+      "a-line midi skirt",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "oversized baggy cargo pants",
+      "athletic shorts"
+    ]
+  },
+  "item_id": "211032149"
+}

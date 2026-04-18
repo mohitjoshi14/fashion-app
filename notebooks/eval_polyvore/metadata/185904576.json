@@ -1,0 +1,49 @@
+{
+  "type": "drawstring trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "olive green",
+    "all": [
+      "olive green"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "wide-leg"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "athleisure",
+      "loungewear",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted white t-shirt",
+      "sneakers",
+      "tank top"
+    ],
+    "avoid_with": [
+      "formal dress shirts",
+      "blazers"
+    ]
+  },
+  "item_id": "185904576"
+}

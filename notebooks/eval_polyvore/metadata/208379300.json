@@ -1,0 +1,49 @@
+{
+  "type": "t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "pink",
+    "all": [
+      "pink",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "tie-dye",
+    "material": "cotton"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "crew neck"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "casual",
+      "boho",
+      "streetwear"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "white jeans",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress trousers"
+    ]
+  },
+  "item_id": "208379300"
+}

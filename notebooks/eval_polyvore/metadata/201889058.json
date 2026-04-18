@@ -1,0 +1,51 @@
+{
+  "type": "trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight leg"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "professional"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "business casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white button-down shirt",
+      "blazer",
+      "loafers",
+      "heels"
+    ],
+    "avoid_with": [
+      "graphic hoodies",
+      "athletic sneakers"
+    ]
+  },
+  "item_id": "201889058"
+}

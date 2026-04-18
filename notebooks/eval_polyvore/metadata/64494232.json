@@ -1,0 +1,52 @@
+{
+  "type": "studded collar blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "chiffon"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "chic",
+      "minimalist",
+      "embellished",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "dinner"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black tailored trousers",
+      "pencil skirt",
+      "dark denim jeans"
+    ],
+    "avoid_with": [
+      "patterned heavy skirts",
+      "casual athletic wear"
+    ]
+  },
+  "item_id": "64494232"
+}

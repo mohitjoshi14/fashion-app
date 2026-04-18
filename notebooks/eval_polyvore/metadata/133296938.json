@@ -1,0 +1,49 @@
+{
+  "type": "swimsuit",
+  "category": "other",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "nylon blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "racerback"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "nautical",
+      "sporty",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "pool"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "sarong",
+      "wide-brim hat"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "133296938"
+}

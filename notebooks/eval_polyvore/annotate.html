@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Fashion Set Annotator</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f7; color: #1d1d1f; }
+
+  /* ── Setup screen ── */
+  #setup {
+    max-width: 520px; margin: 80px auto; background: #fff;
+    border: 1px solid #e5e5ea; border-radius: 16px; padding: 36px;
+  }
+  #setup h2 { font-size: 20px; margin-bottom: 8px; }
+  #setup p  { font-size: 14px; color: #6e6e73; margin-bottom: 24px; }
+  .load-row  { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+  .load-row label { font-size: 14px; font-weight: 600; width: 180px; flex-shrink: 0; }
+  .load-row .status { font-size: 12px; color: #34c759; }
+  .load-row .status.missing { color: #ff3b30; }
+  .file-btn {
+    padding: 7px 16px; border-radius: 8px; border: 1px solid #d2d2d7;
+    background: #fff; font-size: 13px; cursor: pointer;
+  }
+  .file-btn:hover { background: #f5f5f7; }
+  .btn-primary {
+    margin-top: 24px; width: 100%; padding: 12px;
+    background: #0071e3; color: #fff; border: none;
+    border-radius: 10px; font-size: 15px; font-weight: 600;
+    cursor: pointer;
+  }
+  .btn-primary:hover { background: #0077ed; }
+  .btn-primary:disabled { background: #a0c4f0; cursor: default; }
+  .setup-note { font-size: 12px; color: #8e8e93; margin-top: 12px; text-align: center; }
+
+  /* ── App shell ── */
+  #app { display: none; }
+
+  header {
+    position: sticky; top: 0; z-index: 100;
+    background: #fff; border-bottom: 1px solid #d2d2d7;
+    padding: 10px 20px;
+    display: flex; align-items: center; gap: 16px;
+  }
+  header h1 { font-size: 15px; font-weight: 600; flex-shrink: 0; }
+  .progress-wrap { flex: 1; background: #e5e5ea; border-radius: 4px; height: 6px; }
+  .progress-bar  { height: 6px; background: #0071e3; border-radius: 4px; transition: width .3s; }
+  .progress-label { font-size: 12px; color: #6e6e73; flex-shrink: 0; white-space: nowrap; }
+  .header-actions { display: flex; gap: 8px; flex-shrink: 0; }
+  .btn-sm {
+    padding: 5px 13px; border-radius: 7px; border: 1px solid #d2d2d7;
+    background: #fff; font-size: 12px; cursor: pointer;
+  }
+  .btn-sm:hover { background: #f5f5f7; }
+  .btn-sm.danger { color: #ff3b30; border-color: #ff3b30; }
+
+  nav {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 12px 20px; background: #fff; border-bottom: 1px solid #e5e5ea;
+  }
+  nav button {
+    padding: 7px 18px; border: 1px solid #d2d2d7; border-radius: 8px;
+    background: #fff; cursor: pointer; font-size: 14px;
+  }
+  nav button:hover:not(:disabled) { background: #f5f5f7; }
+  nav button:disabled { opacity: .35; cursor: default; }
+  .nav-center { text-align: center; }
+  .nav-title { font-size: 15px; font-weight: 600; }
+  .nav-setid { font-size: 11px; color: #8e8e93; margin-top: 2px; }
+  .annotated-badge {
+    display: inline-block; margin-left: 8px;
+    background: #34c759; color: #fff;
+    font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 20px;
+  }
+
+  main { max-width: 1200px; margin: 0 auto; padding: 20px 24px 120px; }
+
+  .category-section { margin-bottom: 24px; }
+  .category-label {
+    font-size: 11px; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: #8e8e93; margin-bottom: 8px;
+  }
+  .items-row { display: flex; flex-wrap: wrap; gap: 10px; }
+
+  .item-card {
+    position: relative; width: 108px;
+    background: #fff; border: 2.5px solid #e5e5ea;
+    border-radius: 10px; cursor: pointer; overflow: hidden;
+    transition: border-color .15s, box-shadow .15s;
+  }
+  .item-card:hover { border-color: #b0b0b8; box-shadow: 0 2px 8px rgba(0,0,0,.1); }
+  .item-card.selected {
+    border-color: #0071e3;
+    box-shadow: 0 0 0 3px rgba(0,113,227,.2);
+  }
+  .item-card.selected::after {
+    content: "✓";
+    position: absolute; top: 4px; right: 5px;
+    background: #0071e3; color: #fff;
+    font-size: 11px; font-weight: 700;
+    width: 19px; height: 19px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    line-height: 19px; text-align: center;
+  }
+  .item-card img { width: 100%; aspect-ratio: 1; object-fit: cover; display: block; background: #f0f0f0; }
+  .item-meta { padding: 5px 6px 6px; }
+  .item-id { font-size: 10px; color: #8e8e93; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .badges { display: flex; flex-wrap: wrap; gap: 3px; margin-bottom: 3px; }
+  .badge { font-size: 9px; font-weight: 700; padding: 1px 5px; border-radius: 4px; color: #fff; }
+  .badge-gt { background: #ff9500; }
+  .badge-v1 { background: #e74c3c; }
+  .badge-v2 { background: #3498db; }
+  .badge-v3 { background: #2ecc71; }
+  .badge-v4 { background: #f39c12; }
+  .badge-v5 { background: #9b59b6; }
+  .badge-v6 { background: #1abc9c; }
+
+  details { background: #fff; border: 1px solid #e5e5ea; border-radius: 12px; margin-bottom: 20px; overflow: hidden; }
+  summary { padding: 11px 16px; font-size: 13px; font-weight: 600; cursor: pointer; list-style: none; display: flex; align-items: center; justify-content: space-between; }
+  summary::after { content: "▾"; font-size: 11px; color: #8e8e93; }
+  details[open] summary::after { content: "▴"; }
+  .reference-body { padding: 8px 16px 14px; }
+  .ref-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .ref-label { font-size: 11px; font-weight: 600; width: 120px; flex-shrink: 0; color: #6e6e73; display: flex; align-items: center; gap: 5px; }
+  .ref-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+  .ref-thumbs { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
+  .ref-thumb { width: 52px; height: 52px; border-radius: 6px; object-fit: cover; border: 1px solid #e5e5ea; background: #f0f0f0; }
+  .ref-sep { color: #d2d2d7; font-size: 14px; }
+
+  .selection-bar {
+    position: fixed; bottom: 0; left: 0; right: 0;
+    background: rgba(255,255,255,.94); backdrop-filter: blur(12px);
+    border-top: 1px solid #e5e5ea;
+    padding: 12px 24px;
+    display: flex; align-items: center; gap: 16px;
+  }
+  .sel-label { font-size: 13px; font-weight: 600; color: #6e6e73; flex-shrink: 0; }
+  .selection-combo { display: flex; gap: 8px; flex: 1; align-items: center; }
+  .sel-item { position: relative; }
+  .sel-item img { width: 46px; height: 46px; border-radius: 6px; object-fit: cover; border: 2px solid #0071e3; }
+  .sel-item .cat-tag {
+    position: absolute; bottom: -2px; left: 50%; transform: translateX(-50%);
+    font-size: 8px; font-weight: 700; background: #0071e3; color: #fff;
+    padding: 1px 4px; border-radius: 3px; white-space: nowrap;
+  }
+  .sel-placeholder {
+    width: 46px; height: 46px; border-radius: 6px;
+    border: 2px dashed #d2d2d7;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px; color: #d2d2d7;
+  }
+  .actions { display: flex; gap: 10px; flex-shrink: 0; }
+  .btn-skip { padding: 9px 18px; border-radius: 8px; border: 1px solid #d2d2d7; background: #fff; font-size: 14px; cursor: pointer; }
+  .btn-save { padding: 9px 22px; border-radius: 8px; border: none; background: #0071e3; color: #fff; font-size: 14px; font-weight: 600; cursor: pointer; }
+  .btn-save:hover { background: #0077ed; }
+
+  .toast {
+    position: fixed; bottom: 80px; left: 50%; transform: translateX(-50%);
+    background: #1d1d1f; color: #fff;
+    padding: 9px 18px; border-radius: 10px;
+    font-size: 13px; opacity: 0; transition: opacity .3s;
+    pointer-events: none; white-space: nowrap; z-index: 200;
+  }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+
+<!-- ══ Setup screen ══ -->
+<div id="setup">
+  <h2>Fashion Set Annotator</h2>
+  <p>Import your eval data files to start annotating. Files are read locally — nothing is uploaded.</p>
+
+  <div class="load-row">
+    <label>eval_dataset.json</label>
+    <button class="file-btn" onclick="pickFile('eval')">Choose file…</button>
+    <span class="status missing" id="evalStatus">not loaded</span>
+    <input type="file" id="evalInput" accept=".json" style="display:none" onchange="loadEval(this)">
+  </div>
+
+  <div class="load-row">
+    <label>Pipeline results (.jsonl)</label>
+    <button class="file-btn" onclick="pickFile('pipeline')">Choose files…</button>
+    <span class="status missing" id="pipelineStatus">not loaded</span>
+    <input type="file" id="pipelineInput" accept=".jsonl" multiple style="display:none" onchange="loadPipelines(this)">
+  </div>
+
+  <div class="load-row">
+    <label>human_ground_truth.json <small style="color:#8e8e93">(optional, to resume)</small></label>
+    <button class="file-btn" onclick="pickFile('gt')">Choose file…</button>
+    <span class="status" id="gtStatus">—</span>
+    <input type="file" id="gtInput" accept=".json" style="display:none" onchange="loadGT(this)">
+  </div>
+
+  <button class="btn-primary" id="btnStart" onclick="startApp()" disabled>Start Annotating</button>
+  <p class="setup-note">Already loaded data is remembered in localStorage — reload the page to reuse it.</p>
+</div>
+
+<!-- ══ App ══ -->
+<div id="app">
+  <header>
+    <h1>Fashion Set Annotator</h1>
+    <div class="progress-wrap"><div class="progress-bar" id="progressBar"></div></div>
+    <div class="progress-label" id="progressLabel">0 / 0</div>
+    <div class="header-actions">
+      <button class="btn-sm" onclick="exportGT()">Export GT JSON</button>
+      <button class="btn-sm danger" onclick="resetData()">Reset</button>
+    </div>
+  </header>
+
+  <nav>
+    <button id="btnPrev" onclick="navigate(-1)">← Prev</button>
+    <div class="nav-center">
+      <div class="nav-title" id="navTitle"></div>
+      <div class="nav-setid" id="navSetId"></div>
+    </div>
+    <button id="btnNext" onclick="navigate(1)">Next →</button>
+  </nav>
+
+  <main id="main"></main>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const PIPELINES = [
+  { key: 'V1_grid_vision',   label: 'V1', cls: 'badge-v1', color: '#e74c3c' },
+  { key: 'V2_metadata_llm',  label: 'V2', cls: 'badge-v2', color: '#3498db' },
+  { key: 'V3_img_emb_llm',   label: 'V3', cls: 'badge-v3', color: '#2ecc71' },
+  { key: 'V4_clip_llm',      label: 'V4', cls: 'badge-v4', color: '#f39c12' },
+  { key: 'V5_clip_only',     label: 'V5', cls: 'badge-v5', color: '#9b59b6' },
+  { key: 'V6_clip_llm_rich', label: 'V6', cls: 'badge-v6', color: '#1abc9c' },
+];
+const CAT_ORDER = ['tops', 'bottoms', 'outerwear'];
+const LS_EVAL     = 'fa_eval_data';
+const LS_PIPELINE = 'fa_pipeline_results';
+const LS_GT       = 'fa_human_gt';
+
+let allSets = [], pipelineResults = {}, humanGT = {};
+let currentIndex = 0, selections = {};
+
+// ── File loading ──
+function pickFile(type) {
+  document.getElementById(type === 'eval' ? 'evalInput' : type === 'pipeline' ? 'pipelineInput' : 'gtInput').click();
+}
+
+function loadEval(input) {
+  const file = input.files[0]; if (!file) return;
+  const r = new FileReader();
+  r.onload = e => {
+    try {
+      const data = JSON.parse(e.target.result);
+      localStorage.setItem(LS_EVAL, JSON.stringify(data));
+      document.getElementById('evalStatus').textContent = `✓ ${data.length} sets`;
+      document.getElementById('evalStatus').className = 'status';
+      checkReady();
+    } catch { alert('Invalid JSON file.'); }
+  };
+  r.readAsText(file);
+}
+
+function loadPipelines(input) {
+  const files = Array.from(input.files); if (!files.length) return;
+  const results = {};
+  let done = 0;
+  for (const file of files) {
+    const name = file.name.replace('.jsonl', '');
+    const r = new FileReader();
+    r.onload = e => {
+      results[name] = {};
+      for (const line of e.target.result.split('\n')) {
+        if (!line.trim()) continue;
+        try {
+          const row = JSON.parse(line);
+          results[name][row.set_id] = row.recommendations;
+        } catch {}
+      }
+      if (++done === files.length) {
+        localStorage.setItem(LS_PIPELINE, JSON.stringify(results));
+        document.getElementById('pipelineStatus').textContent = `✓ ${files.length} pipeline(s)`;
+        document.getElementById('pipelineStatus').className = 'status';
+        checkReady();
+      }
+    };
+    r.readAsText(file);
+  }
+}
+
+function loadGT(input) {
+  const file = input.files[0]; if (!file) return;
+  const r = new FileReader();
+  r.onload = e => {
+    try {
+      const data = JSON.parse(e.target.result);
+      localStorage.setItem(LS_GT, JSON.stringify(data));
+      const n = Object.keys(data).length;
+      document.getElementById('gtStatus').textContent = `✓ ${n} annotation(s) imported`;
+      document.getElementById('gtStatus').className = 'status';
+    } catch { alert('Invalid JSON file.'); }
+  };
+  r.readAsText(file);
+}
+
+function checkReady() {
+  const hasEval     = !!localStorage.getItem(LS_EVAL);
+  const hasPipeline = !!localStorage.getItem(LS_PIPELINE);
+  document.getElementById('btnStart').disabled = !(hasEval && hasPipeline);
+}
+
+// ── Boot ──
+function startApp() {
+  allSets         = JSON.parse(localStorage.getItem(LS_EVAL));
+  pipelineResults = JSON.parse(localStorage.getItem(LS_PIPELINE));
+  humanGT         = JSON.parse(localStorage.getItem(LS_GT) || '{}');
+
+  const firstUnannotated = allSets.findIndex(s => !humanGT[s.set_id]);
+  currentIndex = firstUnannotated !== -1 ? firstUnannotated : 0;
+
+  document.getElementById('setup').style.display = 'none';
+  document.getElementById('app').style.display   = 'block';
+  render();
+}
+
+// On page load — if data already in localStorage, go straight to app
+window.addEventListener('DOMContentLoaded', () => {
+  const hasEval     = localStorage.getItem(LS_EVAL);
+  const hasPipeline = localStorage.getItem(LS_PIPELINE);
+
+  if (hasEval && hasPipeline) {
+    // Update status labels so user knows what's loaded
+    const evalData = JSON.parse(hasEval);
+    document.getElementById('evalStatus').textContent = `✓ ${evalData.length} sets (cached)`;
+    document.getElementById('evalStatus').className = 'status';
+    const pipes = JSON.parse(hasPipeline);
+    document.getElementById('pipelineStatus').textContent = `✓ ${Object.keys(pipes).length} pipeline(s) (cached)`;
+    document.getElementById('pipelineStatus').className = 'status';
+    const gt = localStorage.getItem(LS_GT);
+    if (gt) {
+      const n = Object.keys(JSON.parse(gt)).length;
+      document.getElementById('gtStatus').textContent = `✓ ${n} annotation(s) (cached)`;
+      document.getElementById('gtStatus').className = 'status';
+    }
+    checkReady();
+    startApp();  // auto-resume
+  }
+});
+
+// ── Navigation ──
+function navigate(dir) {
+  currentIndex = Math.max(0, Math.min(allSets.length - 1, currentIndex + dir));
+  render();
+}
+
+// ── Render ──
+function render() {
+  const set = allSets[currentIndex];
+  const annotatedCount = Object.keys(humanGT).length;
+
+  document.getElementById('progressBar').style.width = `${(annotatedCount / allSets.length) * 100}%`;
+  document.getElementById('progressLabel').textContent = `${annotatedCount} / ${allSets.length} annotated`;
+  document.getElementById('navTitle').innerHTML =
+    `Set ${currentIndex + 1} of ${allSets.length}` +
+    (humanGT[set.set_id] ? ' <span class="annotated-badge">✓ Saved</span>' : '');
+  document.getElementById('navSetId').textContent = `ID: ${set.set_id}`;
+  document.getElementById('btnPrev').disabled = currentIndex === 0;
+  document.getElementById('btnNext').disabled = currentIndex === allSets.length - 1;
+
+  selections = humanGT[set.set_id] ? { ...humanGT[set.set_id] } : {};
+
+  const gt = set.ground_truth;
+
+  // Build pipeline rank-1 item picks map
+  const pipelinePicks = {};  // item_id → [pipeline, ...]
+  for (const p of PIPELINES) {
+    const recs = pipelineResults[p.key]?.[set.set_id];
+    if (!recs?.[0]) continue;
+    for (const itemId of Object.values(recs[0])) {
+      if (!pipelinePicks[itemId]) pipelinePicks[itemId] = [];
+      pipelinePicks[itemId].push(p);
+    }
+  }
+
+  // Group wardrobe by category
+  const byCat = {};
+  for (const item of set.wardrobe) {
+    (byCat[item.category] = byCat[item.category] || []).push(item.item_id);
+  }
+  const categories = CAT_ORDER.filter(c => byCat[c]);
+
+  // Image base path — relative to this HTML file
+  const IMG = 'images/';
+
+  let html = '';
+
+  // ── Wardrobe by category ──
+  for (const cat of categories) {
+    html += `<div class="category-section">
+      <div class="category-label">${cat}</div>
+      <div class="items-row">`;
+    for (const itemId of byCat[cat]) {
+      const isGT  = gt[cat] === itemId;
+      const pipes = pipelinePicks[itemId] || [];
+      const isSel = selections[cat] === itemId;
+      let badges  = isGT ? `<span class="badge badge-gt">GT</span>` : '';
+      for (const p of pipes) badges += `<span class="badge ${p.cls}">${p.label}</span>`;
+
+      html += `<div class="item-card${isSel ? ' selected' : ''}" onclick="selectItem('${cat}','${itemId}')">
+        <img src="${IMG}${itemId}.jpg" loading="lazy">
+        <div class="item-meta">
+          ${badges ? `<div class="badges">${badges}</div>` : ''}
+          <div class="item-id">${itemId}</div>
+        </div>
+      </div>`;
+    }
+    html += `</div></div>`;
+  }
+
+  // ── Reference section ──
+  html += `<details><summary>Reference — Polyvore GT &amp; Pipeline top picks</summary><div class="reference-body">`;
+
+  // GT row
+  html += `<div class="ref-row">
+    <div class="ref-label"><div class="ref-dot" style="background:#ff9500"></div>Polyvore GT</div>
+    <div class="ref-thumbs">`;
+  for (let i = 0; i < categories.length; i++) {
+    const cat = categories[i];
+    if (gt[cat]) html += `<img class="ref-thumb" src="${IMG}${gt[cat]}.jpg" title="${cat}">`;
+    if (i < categories.length - 1) html += `<span class="ref-sep">+</span>`;
+  }
+  html += `</div></div>`;
+
+  // Pipeline rows
+  for (const p of PIPELINES) {
+    const recs = pipelineResults[p.key]?.[set.set_id];
+    if (!recs?.[0]) continue;
+    const top = recs[0];
+    html += `<div class="ref-row">
+      <div class="ref-label"><div class="ref-dot" style="background:${p.color}"></div>${p.key.replace(/_/g,'&nbsp;')}</div>
+      <div class="ref-thumbs">`;
+    for (let i = 0; i < categories.length; i++) {
+      const cat = categories[i];
+      if (top[cat]) html += `<img class="ref-thumb" src="${IMG}${top[cat]}.jpg" title="${cat}">`;
+      if (i < categories.length - 1) html += `<span class="ref-sep">+</span>`;
+    }
+    html += `</div></div>`;
+  }
+  html += `</div></details>`;
+
+  // ── Selection bar ──
+  html += `<div class="selection-bar">
+    <div class="sel-label">Your pick:</div>
+    <div class="selection-combo" id="selCombo">${buildComboHTML(categories, IMG)}</div>
+    <div class="actions">
+      <button class="btn-skip" onclick="skipSet()">Skip</button>
+      <button class="btn-save" onclick="saveAndNext()">Save &amp; Next →</button>
+    </div>
+  </div>`;
+
+  document.getElementById('main').innerHTML = html;
+}
+
+function buildComboHTML(categories, IMG) {
+  let html = '';
+  for (let i = 0; i < categories.length; i++) {
+    const cat = categories[i];
+    if (selections[cat]) {
+      html += `<div class="sel-item">
+        <img src="${IMG}${selections[cat]}.jpg">
+        <div class="cat-tag">${cat.slice(0,3).toUpperCase()}</div>
+      </div>`;
+    } else {
+      html += `<div class="sel-placeholder" title="${cat}">?</div>`;
+    }
+    if (i < categories.length - 1) html += `<span style="color:#d2d2d7;font-size:16px">+</span>`;
+  }
+  return html;
+}
+
+// ── Interaction ──
+function selectItem(cat, itemId) {
+  const set = allSets[currentIndex];
+  const categories = CAT_ORDER.filter(c => set.wardrobe.some(w => w.category === c));
+
+  // Deselect previous
+  if (selections[cat]) {
+    document.getElementById(`card-${cat}-${selections[cat]}`)?.classList.remove('selected');
+  }
+  // Toggle
+  if (selections[cat] === itemId) {
+    delete selections[cat];
+  } else {
+    selections[cat] = itemId;
+  }
+  // Re-render cards in this category (simpler than patching DOM)
+  render();
+  // Scroll back to where we were (optional: no scroll jump because render replaces entire main)
+}
+
+function saveAndNext() {
+  const set = allSets[currentIndex];
+  if (!Object.keys(selections).length) { showToast('Select at least one item first'); return; }
+
+  humanGT[set.set_id] = { ...selections };
+  localStorage.setItem(LS_GT, JSON.stringify(humanGT));
+  showToast(`Saved! ${Object.keys(humanGT).length}/${allSets.length} annotated`);
+
+  if (currentIndex < allSets.length - 1) { currentIndex++; render(); }
+  else render();  // update badge on last set
+}
+
+function skipSet() {
+  if (currentIndex < allSets.length - 1) { currentIndex++; render(); }
+}
+
+// ── Export ──
+function exportGT() {
+  const json = JSON.stringify(humanGT, null, 2);
+  const blob = new Blob([json], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'human_ground_truth.json';
+  a.click();
+  URL.revokeObjectURL(a.href);
+  showToast('Exported human_ground_truth.json');
+}
+
+function resetData() {
+  if (!confirm('Clear all cached data and annotations?')) return;
+  [LS_EVAL, LS_PIPELINE, LS_GT].forEach(k => localStorage.removeItem(k));
+  location.reload();
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2500);
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+{
+  "type": "trousers",
+  "category": "bottoms",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "nude",
+      "light tan"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "tailored",
+    "silhouette": "straight-leg"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "professional",
+      "smart-casual"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white silk blouse",
+      "navy blazer",
+      "neutral loafers"
+    ],
+    "avoid_with": [
+      "neon colors",
+      "distressed denim"
+    ]
+  },
+  "item_id": "178982295"
+}

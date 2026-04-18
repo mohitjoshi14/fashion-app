@@ -1,0 +1,49 @@
+{
+  "type": "pencil skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "edgy",
+      "chic",
+      "bold"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white button-down shirt",
+      "black turtleneck",
+      "heeled ankle boots"
+    ],
+    "avoid_with": [
+      "oversized athletic hoodies",
+      "clashing bright patterns"
+    ]
+  },
+  "item_id": "92732076"
+}

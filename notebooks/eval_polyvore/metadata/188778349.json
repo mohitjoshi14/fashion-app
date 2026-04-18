@@ -1,0 +1,49 @@
+{
+  "type": "puffer jacket",
+  "category": "outerwear",
+  "colors": {
+    "primary": "blush pink",
+    "all": [
+      "blush pink",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "nylon"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "sporty",
+      "casual",
+      "winter-chic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "skinny jeans",
+      "leggings",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal evening wear",
+      "wide-leg trousers"
+    ]
+  },
+  "item_id": "188778349"
+}

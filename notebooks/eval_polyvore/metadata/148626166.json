@@ -1,0 +1,48 @@
+{
+  "type": "coated skinny jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "dark brown",
+    "all": [
+      "dark brown"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "coated denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "skinny"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "edgy",
+      "modern",
+      "sleek"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized knit sweaters",
+      "silk camisoles",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "other brown leather items of a different shade"
+    ]
+  },
+  "item_id": "148626166"
+}

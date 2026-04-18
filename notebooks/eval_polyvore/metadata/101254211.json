@@ -1,0 +1,52 @@
+{
+  "type": "zip-up hoodie",
+  "category": "outerwear",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "navy blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic print",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "sporty",
+      "casual",
+      "athletic",
+      "collegiate"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "jeans",
+      "joggers",
+      "leggings",
+      "sneakers"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "dress skirts"
+    ]
+  },
+  "item_id": "101254211"
+}

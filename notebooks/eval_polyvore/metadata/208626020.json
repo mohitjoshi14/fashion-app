@@ -1,0 +1,53 @@
+{
+  "type": "wrap skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "navy blue",
+    "all": [
+      "navy blue",
+      "light blue",
+      "orange",
+      "yellow",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "geometric",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "resort wear",
+      "graphic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "beach"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid color tank top",
+      "white t-shirt",
+      "wedge sandals"
+    ],
+    "avoid_with": [
+      "heavily patterned tops",
+      "formal blazers"
+    ]
+  },
+  "item_id": "208626020"
+}

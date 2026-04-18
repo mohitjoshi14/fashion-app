@@ -1,0 +1,50 @@
+{
+  "type": "sleeveless tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "minimalist",
+      "basic",
+      "essential",
+      "versatile"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "layering"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blazers",
+      "cardigans",
+      "denim jeans",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "overly formal evening wear"
+    ]
+  },
+  "item_id": "187672955"
+}

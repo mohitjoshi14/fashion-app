@@ -1,0 +1,49 @@
+{
+  "type": "stirrup leggings",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "synthetic blend"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "tapered"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "sporty",
+      "retro"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "activewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "oversized sweaters",
+      "blazers",
+      "pointed-toe heels"
+    ],
+    "avoid_with": [
+      "bulky sneakers",
+      "very loose-fitting pants"
+    ]
+  },
+  "item_id": "191787563"
+}

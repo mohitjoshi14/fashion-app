@@ -1,0 +1,50 @@
+{
+  "type": "pea coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "brown",
+    "all": [
+      "brown"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "tailored",
+    "silhouette": "double-breasted"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "classic",
+      "military-inspired",
+      "preppy",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit jeans",
+      "turtleneck sweaters",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "athletic track pants"
+    ]
+  },
+  "item_id": "97815408"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "trench coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "khaki",
+      "cream"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton gabardine"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "double-breasted with belted waist"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "classic",
+      "timeless",
+      "preppy",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "tailored trousers",
+      "ankle boots",
+      "striped shirts"
+    ],
+    "avoid_with": [
+      "heavy winter parkas",
+      "sportswear"
+    ]
+  },
+  "item_id": "63364617"
+}

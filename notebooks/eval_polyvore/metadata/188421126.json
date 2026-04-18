@@ -1,0 +1,52 @@
+{
+  "type": "off-the-shoulder peplum top",
+  "category": "tops",
+  "colors": {
+    "primary": "beige",
+    "all": [
+      "beige",
+      "nude",
+      "blush"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux suede"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "elegant",
+      "romantic",
+      "structured",
+      "chic"
+    ],
+    "occasion_suitability": [
+      "party",
+      "date night",
+      "evening"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted tailored trousers",
+      "pencil skirt",
+      "skinny jeans"
+    ],
+    "avoid_with": [
+      "voluminous maxi skirts",
+      "baggy cargo pants"
+    ]
+  },
+  "item_id": "188421126"
+}

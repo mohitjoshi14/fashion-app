@@ -1,0 +1,48 @@
+{
+  "type": "peplum sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "casual",
+      "cozy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit jeans",
+      "leggings",
+      "pencil skirt"
+    ],
+    "avoid_with": [
+      "voluminous skirts",
+      "wide-leg trousers"
+    ]
+  },
+  "item_id": "191617374"
+}

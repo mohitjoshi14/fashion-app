@@ -1,0 +1,52 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow",
+      "black",
+      "white",
+      "light blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "damask floral",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "vintage-inspired",
+      "playful"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "vacation",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "solid white tank top",
+      "black fitted bodysuit",
+      "espadrilles"
+    ],
+    "avoid_with": [
+      "heavily patterned tops",
+      "clashing floral prints"
+    ]
+  },
+  "item_id": "171717262"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "pleated mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "green",
+    "all": [
+      "green",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "preppy",
+      "academic",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "school",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black turtleneck",
+      "fitted sweater",
+      "tights",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "busy patterned tops"
+    ]
+  },
+  "item_id": "116297350"
+}

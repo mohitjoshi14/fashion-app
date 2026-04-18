@@ -1,0 +1,49 @@
+{
+  "type": "cold-shoulder sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "chic",
+      "minimalist",
+      "modern"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "leather skirts",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "bulky scarves that hide the shoulder detail"
+    ]
+  },
+  "item_id": "181237504"
+}

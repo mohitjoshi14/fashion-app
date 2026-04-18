@@ -1,0 +1,39 @@
+{
+  "run_id": "r2_party_summer",
+  "pipeline": "P2_clip_only",
+  "prompt": {
+    "occasion": "party wear",
+    "season": "summer"
+  },
+  "recommendations": [
+    {
+      "tops": "206239719",
+      "bottoms": "209502828",
+      "outerwear": "53182007"
+    },
+    {
+      "tops": "195498377",
+      "bottoms": "194939884",
+      "outerwear": "195614955"
+    },
+    {
+      "tops": "144344884",
+      "bottoms": "50975807",
+      "outerwear": "195906360"
+    },
+    {
+      "tops": "172525729",
+      "bottoms": "18118626",
+      "outerwear": "150920195"
+    },
+    {
+      "tops": "79634647",
+      "bottoms": "42768787",
+      "outerwear": "61408848"
+    }
+  ],
+  "latency_s": 0.05,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0
+}

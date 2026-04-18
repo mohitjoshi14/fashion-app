@@ -1,0 +1,53 @@
+{
+  "type": "pleated skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "grey",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "plaid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "preppy",
+      "academic",
+      "classic",
+      "schoolgirl"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "school"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "black tights",
+      "loafers",
+      "oversized sweater"
+    ],
+    "avoid_with": [
+      "busy patterned tops",
+      "athletic wear"
+    ]
+  },
+  "item_id": "144031167"
+}

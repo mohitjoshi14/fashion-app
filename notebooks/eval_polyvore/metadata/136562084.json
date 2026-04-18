@@ -1,0 +1,50 @@
+{
+  "type": "peplum blazer",
+  "category": "outerwear",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "tailored",
+    "silhouette": "peplum"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "chic",
+      "structured",
+      "feminine",
+      "professional"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted black trousers",
+      "pencil skirt",
+      "slim-fit jeans"
+    ],
+    "avoid_with": [
+      "voluminous skirts",
+      "oversized sweaters"
+    ]
+  },
+  "item_id": "136562084"
+}

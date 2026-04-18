@@ -1,0 +1,415 @@
+[
+  {
+    "combo_id": "r1_office_winter__P1_text_llm__rec0",
+    "run_id": "r1_office_winter",
+    "pipeline": "P1_text_llm",
+    "rec_index": 0,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P1_text_llm__rec1",
+    "run_id": "r1_office_winter",
+    "pipeline": "P1_text_llm",
+    "rec_index": 1,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P1_text_llm__rec2",
+    "run_id": "r1_office_winter",
+    "pipeline": "P1_text_llm",
+    "rec_index": 2,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P1_text_llm__rec3",
+    "run_id": "r1_office_winter",
+    "pipeline": "P1_text_llm",
+    "rec_index": 3,
+    "score": 1
+  },
+  {
+    "combo_id": "r1_office_winter__P1_text_llm__rec4",
+    "run_id": "r1_office_winter",
+    "pipeline": "P1_text_llm",
+    "rec_index": 4,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P2_clip_only__rec0",
+    "run_id": "r1_office_winter",
+    "pipeline": "P2_clip_only",
+    "rec_index": 0,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P2_clip_only__rec1",
+    "run_id": "r1_office_winter",
+    "pipeline": "P2_clip_only",
+    "rec_index": 1,
+    "score": 4
+  },
+  {
+    "combo_id": "r1_office_winter__P2_clip_only__rec2",
+    "run_id": "r1_office_winter",
+    "pipeline": "P2_clip_only",
+    "rec_index": 2,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P2_clip_only__rec3",
+    "run_id": "r1_office_winter",
+    "pipeline": "P2_clip_only",
+    "rec_index": 3,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P2_clip_only__rec4",
+    "run_id": "r1_office_winter",
+    "pipeline": "P2_clip_only",
+    "rec_index": 4,
+    "score": 4
+  },
+  {
+    "combo_id": "r1_office_winter__P3_clip_text_llm__rec0",
+    "run_id": "r1_office_winter",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 0,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P3_clip_text_llm__rec1",
+    "run_id": "r1_office_winter",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 1,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P3_clip_text_llm__rec2",
+    "run_id": "r1_office_winter",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 2,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P3_clip_text_llm__rec3",
+    "run_id": "r1_office_winter",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 3,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P3_clip_text_llm__rec4",
+    "run_id": "r1_office_winter",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 4,
+    "score": 4
+  },
+  {
+    "combo_id": "r1_office_winter__P4_clip_vision_llm__rec0",
+    "run_id": "r1_office_winter",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 0,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P4_clip_vision_llm__rec1",
+    "run_id": "r1_office_winter",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 1,
+    "score": 4
+  },
+  {
+    "combo_id": "r1_office_winter__P4_clip_vision_llm__rec2",
+    "run_id": "r1_office_winter",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 2,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P4_clip_vision_llm__rec3",
+    "run_id": "r1_office_winter",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 3,
+    "score": 4
+  },
+  {
+    "combo_id": "r1_office_winter__P4_clip_vision_llm__rec4",
+    "run_id": "r1_office_winter",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 4,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P5_filtered_text_llm__rec0",
+    "run_id": "r1_office_winter",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 0,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P5_filtered_text_llm__rec1",
+    "run_id": "r1_office_winter",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 1,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P5_filtered_text_llm__rec2",
+    "run_id": "r1_office_winter",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 2,
+    "score": 4
+  },
+  {
+    "combo_id": "r1_office_winter__P5_filtered_text_llm__rec3",
+    "run_id": "r1_office_winter",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 3,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P5_filtered_text_llm__rec4",
+    "run_id": "r1_office_winter",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 4,
+    "score": 4
+  },
+  {
+    "combo_id": "r1_office_winter__P6_filtered_vision_llm__rec0",
+    "run_id": "r1_office_winter",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 0,
+    "score": 5
+  },
+  {
+    "combo_id": "r1_office_winter__P6_filtered_vision_llm__rec1",
+    "run_id": "r1_office_winter",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 1,
+    "score": 3
+  },
+  {
+    "combo_id": "r1_office_winter__P6_filtered_vision_llm__rec2",
+    "run_id": "r1_office_winter",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 2,
+    "score": 4
+  },
+  {
+    "combo_id": "r1_office_winter__P6_filtered_vision_llm__rec3",
+    "run_id": "r1_office_winter",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 3,
+    "score": 3
+  },
+  {
+    "combo_id": "r1_office_winter__P6_filtered_vision_llm__rec4",
+    "run_id": "r1_office_winter",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 4,
+    "score": 1
+  },
+  {
+    "combo_id": "r2_party_summer__P1_text_llm__rec0",
+    "run_id": "r2_party_summer",
+    "pipeline": "P1_text_llm",
+    "rec_index": 0,
+    "score": 5
+  },
+  {
+    "combo_id": "r2_party_summer__P1_text_llm__rec1",
+    "run_id": "r2_party_summer",
+    "pipeline": "P1_text_llm",
+    "rec_index": 1,
+    "score": 5
+  },
+  {
+    "combo_id": "r2_party_summer__P1_text_llm__rec2",
+    "run_id": "r2_party_summer",
+    "pipeline": "P1_text_llm",
+    "rec_index": 2,
+    "score": 5
+  },
+  {
+    "combo_id": "r2_party_summer__P1_text_llm__rec3",
+    "run_id": "r2_party_summer",
+    "pipeline": "P1_text_llm",
+    "rec_index": 3,
+    "score": 4
+  },
+  {
+    "combo_id": "r2_party_summer__P1_text_llm__rec4",
+    "run_id": "r2_party_summer",
+    "pipeline": "P1_text_llm",
+    "rec_index": 4,
+    "score": 5
+  },
+  {
+    "combo_id": "r2_party_summer__P2_clip_only__rec0",
+    "run_id": "r2_party_summer",
+    "pipeline": "P2_clip_only",
+    "rec_index": 0,
+    "score": 4
+  },
+  {
+    "combo_id": "r2_party_summer__P2_clip_only__rec1",
+    "run_id": "r2_party_summer",
+    "pipeline": "P2_clip_only",
+    "rec_index": 1,
+    "score": 1
+  },
+  {
+    "combo_id": "r2_party_summer__P2_clip_only__rec2",
+    "run_id": "r2_party_summer",
+    "pipeline": "P2_clip_only",
+    "rec_index": 2,
+    "score": 1
+  },
+  {
+    "combo_id": "r2_party_summer__P2_clip_only__rec3",
+    "run_id": "r2_party_summer",
+    "pipeline": "P2_clip_only",
+    "rec_index": 3,
+    "score": 2
+  },
+  {
+    "combo_id": "r2_party_summer__P2_clip_only__rec4",
+    "run_id": "r2_party_summer",
+    "pipeline": "P2_clip_only",
+    "rec_index": 4,
+    "score": 4
+  },
+  {
+    "combo_id": "r2_party_summer__P3_clip_text_llm__rec0",
+    "run_id": "r2_party_summer",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 0,
+    "score": 4
+  },
+  {
+    "combo_id": "r2_party_summer__P3_clip_text_llm__rec1",
+    "run_id": "r2_party_summer",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 1,
+    "score": 3
+  },
+  {
+    "combo_id": "r2_party_summer__P3_clip_text_llm__rec2",
+    "run_id": "r2_party_summer",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 2,
+    "score": 3
+  },
+  {
+    "combo_id": "r2_party_summer__P3_clip_text_llm__rec3",
+    "run_id": "r2_party_summer",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 3,
+    "score": 1
+  },
+  {
+    "combo_id": "r2_party_summer__P3_clip_text_llm__rec4",
+    "run_id": "r2_party_summer",
+    "pipeline": "P3_clip_text_llm",
+    "rec_index": 4,
+    "score": 3
+  },
+  {
+    "combo_id": "r2_party_summer__P4_clip_vision_llm__rec0",
+    "run_id": "r2_party_summer",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 0,
+    "score": 3
+  },
+  {
+    "combo_id": "r2_party_summer__P4_clip_vision_llm__rec1",
+    "run_id": "r2_party_summer",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 1,
+    "score": 4
+  },
+  {
+    "combo_id": "r2_party_summer__P4_clip_vision_llm__rec2",
+    "run_id": "r2_party_summer",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 2,
+    "score": 3
+  },
+  {
+    "combo_id": "r2_party_summer__P4_clip_vision_llm__rec3",
+    "run_id": "r2_party_summer",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 3,
+    "score": 2
+  },
+  {
+    "combo_id": "r2_party_summer__P4_clip_vision_llm__rec4",
+    "run_id": "r2_party_summer",
+    "pipeline": "P4_clip_vision_llm",
+    "rec_index": 4,
+    "score": 1
+  },
+  {
+    "combo_id": "r2_party_summer__P5_filtered_text_llm__rec1",
+    "run_id": "r2_party_summer",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 1,
+    "score": 2
+  },
+  {
+    "combo_id": "r2_party_summer__P5_filtered_text_llm__rec2",
+    "run_id": "r2_party_summer",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 2,
+    "score": 5
+  },
+  {
+    "combo_id": "r2_party_summer__P5_filtered_text_llm__rec3",
+    "run_id": "r2_party_summer",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 3,
+    "score": 3
+  },
+  {
+    "combo_id": "r2_party_summer__P5_filtered_text_llm__rec4",
+    "run_id": "r2_party_summer",
+    "pipeline": "P5_filtered_text_llm",
+    "rec_index": 4,
+    "score": 5
+  },
+  {
+    "combo_id": "r2_party_summer__P6_filtered_vision_llm__rec0",
+    "run_id": "r2_party_summer",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 0,
+    "score": 5
+  },
+  {
+    "combo_id": "r2_party_summer__P6_filtered_vision_llm__rec1",
+    "run_id": "r2_party_summer",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 1,
+    "score": 2
+  },
+  {
+    "combo_id": "r2_party_summer__P6_filtered_vision_llm__rec2",
+    "run_id": "r2_party_summer",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 2,
+    "score": 3
+  },
+  {
+    "combo_id": "r2_party_summer__P6_filtered_vision_llm__rec3",
+    "run_id": "r2_party_summer",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 3,
+    "score": 3
+  },
+  {
+    "combo_id": "r2_party_summer__P6_filtered_vision_llm__rec4",
+    "run_id": "r2_party_summer",
+    "pipeline": "P6_filtered_vision_llm",
+    "rec_index": 4,
+    "score": 3
+  }
+]

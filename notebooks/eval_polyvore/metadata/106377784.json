@@ -1,0 +1,48 @@
+{
+  "type": "camisole",
+  "category": "tops",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "minimalist",
+      "basic",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear",
+      "layering"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "cardigans",
+      "denim shorts",
+      "blazers"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters"
+    ]
+  },
+  "item_id": "106377784"
+}

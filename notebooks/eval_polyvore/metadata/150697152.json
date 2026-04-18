@@ -1,0 +1,52 @@
+{
+  "type": "sleeveless vest",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "white",
+      "brown",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "geometric",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "bohemian",
+      "folk",
+      "layered",
+      "textured"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "smart-casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "long-sleeve turtleneck",
+      "fitted denim jeans",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "patterned shirts that clash"
+    ]
+  },
+  "item_id": "150697152"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "off-the-shoulder long sleeve top",
+  "category": "tops",
+  "colors": {
+    "primary": "red",
+    "all": [
+      "red"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "fitted"
+  },
+  "style": {
+    "formality": 0.5,
+    "style_tags": [
+      "elegant",
+      "minimalist",
+      "romantic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "date night"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted jeans",
+      "midi skirts",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "other off-the-shoulder layers"
+    ]
+  },
+  "item_id": "195485550"
+}

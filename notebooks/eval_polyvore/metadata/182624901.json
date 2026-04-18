@@ -1,0 +1,50 @@
+{
+  "type": "mini skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "crocodile embossed",
+    "material": "leather"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "pencil"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "edgy",
+      "chic",
+      "glamorous",
+      "textured"
+    ],
+    "occasion_suitability": [
+      "party",
+      "evening",
+      "night out"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "silk camisole",
+      "fitted turtleneck",
+      "heeled ankle boots"
+    ],
+    "avoid_with": [
+      "other heavy animal prints",
+      "oversized bulky sweaters"
+    ]
+  },
+  "item_id": "182624901"
+}

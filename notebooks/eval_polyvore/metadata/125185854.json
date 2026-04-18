@@ -1,0 +1,51 @@
+{
+  "type": "trench coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black",
+      "charcoal"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "double-breasted belted"
+  },
+  "style": {
+    "formality": 0.8,
+    "style_tags": [
+      "classic",
+      "minimalist",
+      "sophisticated",
+      "outerwear"
+    ],
+    "occasion_suitability": [
+      "office",
+      "formal",
+      "business casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "turtleneck sweaters",
+      "leather boots"
+    ],
+    "avoid_with": [
+      "athletic shorts",
+      "oversized hoodies"
+    ]
+  },
+  "item_id": "125185854"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "camisole",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "silk"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.3,
+    "style_tags": [
+      "minimalist",
+      "delicate",
+      "lingerie-inspired"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "blazers",
+      "cardigans",
+      "high-waisted jeans",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "heavy winter sweaters"
+    ]
+  },
+  "item_id": "162381282"
+}

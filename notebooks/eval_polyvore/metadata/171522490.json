@@ -1,0 +1,51 @@
+{
+  "type": "lace-trim blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "off-white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "lace and silk blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-neck"
+  },
+  "style": {
+    "formality": 0.7,
+    "style_tags": [
+      "romantic",
+      "vintage-inspired",
+      "elegant",
+      "feminine"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored trousers",
+      "pencil skirts",
+      "denim jeans"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "sportswear"
+    ]
+  },
+  "item_id": "171522490"
+}

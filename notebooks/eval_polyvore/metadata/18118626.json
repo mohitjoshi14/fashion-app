@@ -1,0 +1,47 @@
+{
+  "type": "jeans",
+  "category": "bottoms",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "straight-leg"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "minimalist",
+      "classic"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "pastel tops",
+      "denim jackets",
+      "striped t-shirts"
+    ],
+    "avoid_with": [
+      "dark, heavy winter layers"
+    ]
+  },
+  "item_id": "18118626"
+}

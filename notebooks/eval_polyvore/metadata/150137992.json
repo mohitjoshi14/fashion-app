@@ -1,0 +1,51 @@
+{
+  "type": "shawl collar belted coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "cream",
+    "all": [
+      "cream",
+      "brown"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "minimalist",
+      "classic",
+      "cozy",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "office",
+      "casual",
+      "formal"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "slim-fit trousers",
+      "turtleneck sweaters",
+      "leather boots"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "patterned skirts"
+    ]
+  },
+  "item_id": "150137992"
+}

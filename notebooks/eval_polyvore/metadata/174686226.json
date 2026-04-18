@@ -1,0 +1,51 @@
+{
+  "type": "racerback tank top",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "racerback with fringe hem"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "boho",
+      "casual",
+      "graphic",
+      "festival"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "beach",
+      "festival"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim shorts",
+      "maxi skirts",
+      "sandals"
+    ],
+    "avoid_with": [
+      "formal blazers",
+      "dress trousers"
+    ]
+  },
+  "item_id": "174686226"
+}

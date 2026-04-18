@@ -1,0 +1,49 @@
+{
+  "type": "denim shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "light blue",
+    "all": [
+      "light blue",
+      "brown"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid with embroidery",
+    "material": "denim"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "button-down"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "boho",
+      "denim-on-denim",
+      "vintage-wash"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "weekend"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "autumn"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white jeans",
+      "black leggings",
+      "ankle boots"
+    ],
+    "avoid_with": [
+      "formal dress pants"
+    ]
+  },
+  "item_id": "198393155"
+}

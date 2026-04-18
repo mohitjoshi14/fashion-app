@@ -1,0 +1,49 @@
+{
+  "type": "sleeveless polo shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "white",
+    "all": [
+      "white",
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "polyester blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "sporty",
+      "preppy",
+      "minimalist"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "sport"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "tailored shorts",
+      "golf skirts",
+      "slim-fit trousers"
+    ],
+    "avoid_with": [
+      "heavy winter layers"
+    ]
+  },
+  "item_id": "173431604"
+}

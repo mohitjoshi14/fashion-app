@@ -1,0 +1,49 @@
+{
+  "type": "pea coat",
+  "category": "outerwear",
+  "colors": {
+    "primary": "orange",
+    "all": [
+      "orange",
+      "coral"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "wool blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "classic",
+      "minimalist",
+      "preppy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark wash denim",
+      "cream turtleneck",
+      "black trousers"
+    ],
+    "avoid_with": [
+      "neon colors",
+      "clashing patterns"
+    ]
+  },
+  "item_id": "200429442"
+}

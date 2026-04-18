@@ -1,0 +1,52 @@
+{
+  "type": "crew neck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "brown",
+    "all": [
+      "brown",
+      "black",
+      "red",
+      "green",
+      "white",
+      "gold"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "graphic",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "standard"
+  },
+  "style": {
+    "formality": 0.1,
+    "style_tags": [
+      "ugly christmas sweater",
+      "festive",
+      "holiday",
+      "novelty"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "party"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "dark denim jeans",
+      "leggings"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "blazers"
+    ]
+  },
+  "item_id": "153515506"
+}

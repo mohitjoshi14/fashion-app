@@ -1,0 +1,53 @@
+{
+  "type": "pleated midi skirt",
+  "category": "bottoms",
+  "colors": {
+    "primary": "black",
+    "all": [
+      "black"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "faux leather"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "a-line"
+  },
+  "style": {
+    "formality": 0.6,
+    "style_tags": [
+      "chic",
+      "edgy",
+      "minimalist",
+      "sophisticated"
+    ],
+    "occasion_suitability": [
+      "office",
+      "party",
+      "dinner",
+      "casual"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter",
+      "spring"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "fitted turtleneck",
+      "chunky knit sweater",
+      "ankle boots",
+      "heeled pumps"
+    ],
+    "avoid_with": [
+      "oversized hoodies",
+      "bulky athletic sneakers"
+    ]
+  },
+  "item_id": "179845362"
+}

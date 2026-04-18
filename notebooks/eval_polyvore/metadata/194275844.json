@@ -1,0 +1,52 @@
+{
+  "type": "parka",
+  "category": "outerwear",
+  "colors": {
+    "primary": "olive green",
+    "all": [
+      "olive green",
+      "brown",
+      "black",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "camouflage",
+    "material": "cotton blend with faux fur"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "straight"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "military-inspired",
+      "rugged",
+      "streetwear",
+      "cozy"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "outdoor"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "black skinny jeans",
+      "combat boots",
+      "neutral knit sweaters"
+    ],
+    "avoid_with": [
+      "formal dress pants",
+      "patterned skirts"
+    ]
+  },
+  "item_id": "194275844"
+}

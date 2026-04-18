@@ -1,0 +1,47 @@
+{
+  "type": "turtleneck sweater",
+  "category": "tops",
+  "colors": {
+    "primary": "yellow",
+    "all": [
+      "yellow"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "knit"
+  },
+  "shape_fit": {
+    "fit": "slim",
+    "silhouette": "puff sleeve"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "minimalist",
+      "chic",
+      "vibrant"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "high-waisted denim",
+      "midi skirts",
+      "tailored trousers"
+    ],
+    "avoid_with": [
+      "bulky oversized jackets"
+    ]
+  },
+  "item_id": "185658260"
+}

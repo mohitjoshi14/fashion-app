@@ -1,0 +1,49 @@
+{
+  "type": "hooded cape cardigan",
+  "category": "outerwear",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "fleece/knit blend"
+  },
+  "shape_fit": {
+    "fit": "oversized",
+    "silhouette": "asymmetrical cape"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "casual",
+      "cozy",
+      "minimalist",
+      "layered"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "loungewear"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "autumn",
+      "winter"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "long-sleeve fitted tops",
+      "leggings",
+      "skinny jeans"
+    ],
+    "avoid_with": [
+      "bulky oversized sweaters",
+      "wide-leg trousers"
+    ]
+  },
+  "item_id": "146631450"
+}

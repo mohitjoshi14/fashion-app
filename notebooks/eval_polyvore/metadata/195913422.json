@@ -1,0 +1,51 @@
+{
+  "type": "button-down blouse",
+  "category": "tops",
+  "colors": {
+    "primary": "grey",
+    "all": [
+      "grey",
+      "white"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "striped",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "boxy"
+  },
+  "style": {
+    "formality": 0.4,
+    "style_tags": [
+      "casual",
+      "preppy",
+      "nautical",
+      "relaxed"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "office",
+      "vacation"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "white denim jeans",
+      "navy trousers",
+      "denim shorts"
+    ],
+    "avoid_with": [
+      "heavily patterned bottoms",
+      "formal suit pants"
+    ]
+  },
+  "item_id": "195913422"
+}

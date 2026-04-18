@@ -1,0 +1,49 @@
+{
+  "type": "scoop neck t-shirt",
+  "category": "tops",
+  "colors": {
+    "primary": "tan",
+    "all": [
+      "tan",
+      "beige"
+    ]
+  },
+  "visual_attributes": {
+    "pattern": "solid",
+    "material": "cotton blend"
+  },
+  "shape_fit": {
+    "fit": "relaxed",
+    "silhouette": "high-low hem"
+  },
+  "style": {
+    "formality": 0.2,
+    "style_tags": [
+      "minimalist",
+      "basic",
+      "casual"
+    ],
+    "occasion_suitability": [
+      "casual",
+      "everyday"
+    ]
+  },
+  "seasonality": {
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  "pairing_hints": {
+    "goes_well_with": [
+      "denim jeans",
+      "white shorts",
+      "midi skirts"
+    ],
+    "avoid_with": [
+      "formal trousers",
+      "patterned blazers"
+    ]
+  },
+  "item_id": "177183903"
+}
